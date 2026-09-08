@@ -1,0 +1,35 @@
+# ==== 数据（体积大 / 含学生隐私，不上传）====
+data/export/
+data/analysis/
+data/*.xlsx
+data/*.dmp
+
+# ==== 崩溃转储 ====
+*.dmp
+
+# ==== 与 OJ 项目无关的遗留 ====
+claw_data2/
+.vscode/1.py
+.vscode/accounts.py
+.vscode/claw.py
+
+# ==== 密钥测试文件（含 Tavily key）====
+tmp.py
+
+# ==== 本地密钥（提交 .env.example，不提交 .env）====
+.env
+
+# ==== Python ====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ==== IDE / 系统 ====
+.vscode/
+.idea/
+.claude/
+.codex-repair-backups/
+Thumbs.db
+.DS_Store

@@ -1,0 +1,1656 @@
+solution_id,problem_id,judge,type,detail,duration_s,total_keys,keys_10s_before,keys_30s_before,keys_10s_after,keys_30s_after,code_at_trigger,label,submitted_code
+1366530,1533,NoData,NORMAL,random_30s_window,1228.4,420,0 -> Shiftx2 -> Enter -> Shift -> { -> } -> Enter,; -> Enterx2 -> i -> f -> Shift -> ( -> n -> Shift -> % -> 2 -> Shift -> ! -> = -> 0 -> Shiftx2 -> Enter -> Shift -> { -> } -> Enter,"p -> r -> i -> n -> t -> f -> Shift -> ( -> "" -> Shift -> N -> Shift -> O -> \ -> n -> ; -> Enter","p -> r -> i -> n -> t -> f -> Shift -> ( -> "" -> Shift -> N -> Shift -> O -> \ -> n -> ; -> Enter -> c -> o -> n -> t -> i -> n -> u -> e -> ; -> CapsLockx2 -> Enterx2","#<>stdio.h
+int main(
+{}
+return 0;
+int n;
+while(scanf(""%d,&n!=EOF
+{}
+for(int i=0;i<n;i++
+{}
+scanf(""%d,m&;
+
+if(n%2!=0
+{}
+pr",,"#include<stdio.h>
+int main()
+{
+    int n,sum,m[101];
+    while(scanf(""%d"",&n)!=EOF)
+    {
+        sum=0;
+        if(n%2==0)
+        {
+            printf(""NO\n"");
+            continue;
+        }
+        for(int i=0;i<n;i++)
+        {
+            scanf(""%d"",&m[i]);
+            sum+=m[i];
+        }
+        if(sum%2!=0)printf(""YES\n"");
+        else if(sum%2==0) printf(""NO\n"");
+    }
+    return 0;
+}"
+1150469,1834,OLE,NORMAL,random_30s_window,864.5,683,= -> x -> - -> 1 -> ; -> i -> Shift -> > -> = -> 0 -> ; -> i -> -x2 -> Shift -> { -> Enter -> r -> i -> n,j -> 0 -> Shift -> < -> j -> Shift -> < -> = -> x -> j -> Shift -> +x2 -> i -> = -> x -> - -> 1 -> ; -> i -> Shift -> > -> = -> 0 -> ; -> i -> -x2 -> Shift -> { -> Enter -> r -> i -> n,"p -> t -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> d ->   -> , -> [ -> a -> [ -> i -> [ -> j -> ;","p -> t -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> d ->   -> , -> [ -> a -> [ -> i -> [ -> j -> ; -> Enter -> e -> l -> s -> e ->   -> i -> f -> Shift -> ( -> y -> =x2 -> Shift -> "" -> Shift -> X -> Shift -> { -> Enter -> Control -> c","#inlcclude <stdio.h>
+int main({
+return 0;
+int x;
+char yy;
+while(scanf(""%d1%c!=EOF,&ax,&y!=EOF{
+charchar a[x[x;\int
+fo9(it int i=0;i<x;i++{
+for(int j=0;j<x;j++{
+a[i[j=count;
+count++;
+count=0;if(1
+if(y===""'L{
+for(int j=x;j-1.>=0;j--{
+for(in t i=0;i<x;i++{
+printf(""%d ,a[i[j;
+printf(""\
+else if(y=='R{
+for(int fi=x-1;i>=0;i--{
+for(int j=x-j0<j<=xj++i=x-1;i>=0;i--{
+print",,"#include <stdio.h>
+int main(){
+    int x;
+    char y;
+    int count;
+    while(scanf(""%1d%c"",&x,&y)!=EOF){
+        int a[x][x];
+        count=1;
+        for(int i=0;i<x;i++){
+            for(int j=0;j<x;j++){
+                a[i][j]=count;
+                count++;
+            }
+        }
+        if(y=='L'){
+            for(int j=x-1;j>=0;j--){
+                for(int i=0;i<x;i++){
+                    if(j==0&&i==x-1){
+                    printf(""%d"",a[i][j]);
+                    }
+                    else{
+                    printf(""%d "",a[i][j]);
+                    }
+                }
+            }
+        }
+        else if(y=='R'){
+            for(int j=0;j<x;j++){
+                for(int i=x-1;i>=0;i--){
+                    if(j==x-1&&i==0){
+                    printf(""%d"",a[i][j]);
+                    }
+                    else{
+                    printf(""%d "",a[i][j]);
+                    }
+                }
+            }
+        }
+        else if(y=='X'){
+            for(int i=x-1;i>=0;i--){
+                for(int j=0;j<x;j++){
+                    if(j==x-1&&i==0){
+                    printf(""%d"",a[i][j]);
+                    }
+                    else{
+                    printf(""%d "",a[i][j]);
+                    }
+                }
+            }
+        }
+        else{
+            for(int i=0;i<x;i++){
+                for(int j=x-1;j>=0;j--){
+                    if(j==0&&i==x-1){
+                    printf(""%d"",a[i][j]);
+                    }
+                    else{
+                    printf(""%d "",a[i][j]);
+                    }
+                }
+            }
+        }
+        printf(""\n"");
+    }
+    return 0;
+}"
+1439761,1868,WA,NORMAL,random_30s_window,1649.6,1039,"Enter -> i -> n -> t ->   -> u -> , -> v -> , -> w -> e -> i","p -> a -> i -> r -> Shift -> < -> > -> i -> n -> t -> , -> i -> n -> t ->   -> p -> m -> l -> ; -> l ->   -> g -> [ -> ] -> 1 -> 0x2 -> 5 -> ; -> Enterx2 -> i -> n -> t ->   -> u -> , -> v -> , -> w -> e -> i",g -> h -> t -> ; -> Enter -> c -> i -> n -> Shift -> >x2 -> u -> Shift -> >x2 -> v -> Shift -> >x2 -> w -> e -> i -> g -> h -> t,g -> h -> t -> ; -> Enter -> c -> i -> n -> Shift -> >x2 -> u -> Shift -> >x2 -> v -> Shift -> >x2 -> w -> e -> i -> g -> h -> t -> ; -> Enter -> g -> [ -> ] -> u -> . -> p -> y -> u -> s -> y -> p -> u -> s -> h -> Shift -> ),"cc#<>bits/stdc++.h
+uissing namespace std;
+int main({
+intint n,m;
+cin>>n>>m;while(){
+if(mn==0&&m==0{
+break;
+
+
+
+
+
+stu edge{{}
+int u,v,weight;;
+vector<>int deedgeedge> q;
+for()int i=0;i<nn;i++{
+cin>>q[]i.cuvvvw;
+void dijstra(int start{
+
+
+
+int dist[]10005[]1005;
+priority_queue<>int,vector<>int.,greater<>int p;
+p,/.push(start;
+while(!qp.empty({
+
+
+for(int i=0;i<,int nn1n=n;i++{
+return dist[]i=INF;
+const INF=int INF=0x3f3f3f3f;
+
+dist[]start=0;
+vector<>conttype pair<>int,int pml;l g[]1005;
+
+int u,v,weig",,"#include<bits/stdc++.h>
+using namespace std;
+const int INF=0x3f3f3f3f;
+
+typedef pair<int,int> l; //1->距离 2->目的地;
+int dist[1005];
+vector<l> g[1005];
+
+void dijstra(int start,int n){
+    for(int i=1;i<=n;i++){
+        dist[i]=INF;
+    }
+    
+    dist[start]=0;
+    priority_queue<l,vector<l>,greater<l>> q;
+    q.push({0,start});
+    
+    while(!q.empty()){
+        auto it =q.top();
+        int d=it.first;
+        int u=it.second;
+        q.pop();
+        
+        if(d>dist[u]) continue;
+        for(auto [w,v]:g[u]){
+            if(dist[v]>dist[u]+w){
+                dist[v]=dist[u]+w;
+                q.push({dist[v],v});
+            }
+        }
+        
+    }
+    
+}
+
+
+int main(){
+    int n,m;
+    while(cin>>n>>m){
+        for(int i=1;i<=n;i++){
+            g[i].clear();
+        }
+     
+        if(n==0&&m==0){
+            break;
+        }
+        
+        for(int i=0;i<m;i++){
+            int u,v,weight;
+            cin>>u>>v>>weight;
+            g[u].push_back({weight,v});
+        }
+        
+        dijstra(1,n);
+        
+        cout<<dist[n]<<endl;
+        
+        
+    }
+}"
+1090065,1508,NoData,NORMAL,random_30s_window,1490.7,804,g ->   -> l -> o -> n -> g ->   -> n -> = -> 0 -> ; -> Enterx2 -> w -> h -> i -> l -> e -> Shiftx4 -> (,Enter -> l -> o -> n -> g ->   -> l -> o -> n -> g ->   -> n -> = -> 0 -> ; -> Enterx2 -> w -> h -> i -> l -> e -> Shiftx4 -> (,"s -> c -> a -> n -> f -> Shift -> * -> Shift -> ( -> "" -> % -> d -> lx2 -> , -> Shift -> &","s -> c -> a -> n -> f -> Shift -> * -> Shift -> ( -> "" -> % -> d -> lx2 -> , -> Shift -> & -> n -> Shift -> ! -> = -> Shift -> E -> O -> f -> Shift -> F -> Shift -> { -> Enterx2","#clude<srtdio.h>
+
+int main({
+
+long long n=0;
+
+while(s",,"#include <stdio.h>
+#include <stdbool.h>
+
+#define MAX_N 100000  // 题目要求的最大n
+
+// 判断一个数是否是幸运数字
+int  isLucky(int num) {
+    // 条件1：能被6整除
+    if (num % 6 == 0) {
+        return 1;
+    }
+    // 条件2：后三位包含数字6
+    int lastThree = num % 1000;  // 取后三位
+    while (lastThree > 0) {
+        if (lastThree % 10 == 6) {
+            return 1;
+        }
+        lastThree /= 10;
+    }
+    return 0;
+}
+
+int main() {
+    int luckyList[MAX_N];
+    int count = 0;
+    int num = 6;  
+
+    
+    while (count < MAX_N) {
+        if (isLucky(num)==1) {
+            luckyList[count++] = num;
+        }
+        num++;
+    }
+
+    int n;
+    while (scanf(""%d"", &n) != EOF) {
+        printf(""%d\n"", luckyList[n - 1]);  
+    }
+
+    return 0;
+}"
+1165335,1683,CE,NORMAL,random_30s_window,833.3,320,i -> n -> t,", -> Shift -> ! -> = -> e -> Shift -> E -> O -> F -> Enter -> Shift -> { -> Enter -> i -> n -> t",  -> n -> u -> m -> = -> Shiftx18 -> ( -> n,  -> n -> u -> m -> = -> Shiftx18 -> ( -> n -> - -> 4 -> / -> 3 -> ; -> Enter,"#<stdio.h>
+int main({
+
+return 0;
+int n;while
+(scanf(""%d&,n,!=eEOF
+{
+int ",,"#include<stdio.h>
+int main()
+{
+    int n;
+    while(scanf(""%d"",&n)!=EOF)
+    {
+        int m=(n-4)/3;
+        int len=m+2;
+        for(int i=1;i<=len;i++)
+        {
+            printf(""%02d"",i);
+        }
+        printf(""\n"");
+        for(int i=len+1;i<=len+m=1;i++)
+        {
+            for(int i=0;i<m;i++)
+            {
+                printf("" "");
+            }
+            printf(""%02d\n"",len);
+        }
+        
+        
+    }
+    return 0;
+}"
+1379358,2112,MLE,NORMAL,random_30s_window,766.5,896,"+x2 -> Shift -> { -> Enter -> s -> c -> a -> n -> f -> Shift -> ( -> "" -> Shift -> % -> d -> , -> Shiftx2 -> & -> a -> rx2",i -> n -> t ->   -> a -> rx2 -> [ -> n -> ; -> Enter -> f -> r -> p -> o -> r -> Shift -> ( -> i -> n -> t ->   -> i -> = -> 0 -> ; -> i -> Shift -> < -> n -> ; -> i -> +x2 -> Shift -> { -> Enter -> s -> c -> a -> n -> f,[ -> i -> ; -> Enter,[ -> i -> ; -> Enter -> i -> n -> t ->   -> k -> ; -> Enter -> c -> h -> a -> r ->   -> o -> r -> d -> e -> r -> ; -> Enter -> s -> c -> a,"#Qinclude<.>stdio.h
+int main(
+{
+int n;
+    while(scanf('%d""%d,&n!=EOF{
+int arr[n;
+frpor(int i=0;i<n;i++{
+scanf(""%d,&arr[",,"#include<stdio.h>
+void move(int arr[],int n,int k)
+{
+    k%=n;
+    int pre[k];
+    for(int i=0;i<k;i++){
+        pre[i]=arr[n-k+i];
+    }
+    for(int i=n-k-1;i>=0;i--){
+        arr[i+k]=arr[i];
+    }
+    for(int i=0;i<k;i++){
+        arr[i]=pre[i];
+    }
+}
+int main()
+{
+    int n;
+    while(scanf(""%d"",&n)!=EOF){
+        int arr[n];
+        for(int i=0;i<n;i++){
+            scanf(""%d"",&arr[i]);
+        }
+        int k;
+        char order;
+        scanf(""%d %c"",&k,&order);
+        if(order=='R'){
+            move(arr,n,k);
+            int cnt=0;
+            for(int i=0;i<n;i++){
+                printf(""%d "",arr[i]);
+                cnt++;
+                if(cnt==12){
+                    cnt=0;
+                    printf(""\n"");
+                }
+            }
+            if(cnt==0){
+                printf(""\n"");
+            }else{
+            printf(""\n\n"");
+            }
+        }else if(order=='L'){
+            move(arr,n,n-k);
+                       int cnt=0;
+            for(int i=0;i<n;i++){
+                printf(""%d "",arr[i]);
+                cnt++;
+                if(cnt==12){
+                    cnt=0;
+                    printf(""\n"");
+                }
+            }
+            if(cnt==0){
+                printf(""\n"");
+            }else{
+            printf(""\n\n"");
+            }
+        }
+    }
+    return 0;
+}"
+1355810,1536,PE,NORMAL,random_30s_window,1663.8,918,0 -> = -> Shift -> { -> Shift -> } -> 0,0x7 -> = -> Shift -> { -> Shift -> } -> 0,0 -> Shift -> { -> } -> 0,0 -> Shift -> { -> } -> 0,"##include<.>stdio.h
+
+int main({
+
+
+
+return 0;int a,b;
+int num_1[10000000000;
+intt num_2[100;
+whil((scanf""%d%d ,&a,&b!=EOF{
+
+
+whil(a>0{
+int temp;
+tempx
+v=_1=0n[t=a%10;
+a/=10;
+cv222=0000000={}00",,"#include<stdio.h>
+
+int max(int a,int b){
+    if(a>b)return a;
+    return b;
+}
+
+int main(){
+    int a,b;
+    while(scanf(""%d %d"",&a,&b)!=EOF){
+    int num_1[1000]={0};
+    int num_2[1000]={0};
+    int num[1000]={0};
+         int temp_1=0;
+        while(a>0){
+            num_1[temp_1]=a%10;
+            temp_1++;
+            a/=10;
+        }
+         int temp_2=0;
+        while(b>0){
+            num_2[temp_2]=b%10;
+            temp_2++;
+            b/=10;
+        }
+        for(int i=0;i<1000;i++){
+            int m=num_2[i]+num_1[i];
+            if(m>=10){
+                m-=10;
+            }
+            num[i]=m;
+        }
+        int k=0;
+        int op=1;
+        for(int i=999;i>=0;i--){
+            if(num[i]==0&&op==1){
+                continue;
+            }else{
+                printf(""%d"",num[i]);
+                op=0;
+            }
+        }
+        if(op==1)printf(""%d\n"",k);
+        printf(""\n"");
+        
+    }
+    
+    
+    return 0;
+}"
+1106979,1902,AC,NORMAL,random_30s_window,1478.2,935,n -> ; -> Control -> Insert -> Enter -> f -> o -> r ->   -> Shift -> ( -> i -> n -> t ->   -> i ->   -> = ->   -> 0,"CapsLock -> Y -> CapsLock -> e -> s -> \ -> n -> ; ->   -> e -> l -> s -> e ->   -> Shift -> { -> Enter -> p -> r -> i -> n -> t -> f -> Shift -> ( -> Shift -> "" -> CapsLock -> N -> CapsLock -> o -> \ -> n -> ; -> Control -> Insert -> Enter -> f -> o -> r",; ->   -> i ->   -> Shift -> < ->   -> 9x2 -> 0 -> 8 -> ; ->   -> i -> +x2 ->  ,; ->   -> i ->   -> Shift -> < ->   -> 9x2 -> 0 -> 8 -> ; ->   -> i -> +x2 ->   -> Shift -> { -> Enter -> Control -> c -> Control -> v ->  x5 -> Control -> Insert ->  x6,"#include<>stdio.h
+#include<>stdbool.h
+
+void isPrime(int num {
+if (boolnum <= 1 return false;
+if (n == 2 return true;
+if for (umi = 2; i * i <= num; i += 2 [
+{
+if (n um % i == 10 erreturn tfalse;
+return true;
+
+int main ({
+int prime[1000;
+for (int i = 2; i < = 7919; i++ {
+int 
+int count = 0;if (ids(num {
+primte[count++ = num;
+int n;
+while (scanf(""%dd, &n !=EOF {
+if (n == prime[i + prime[i + 1 + prime[i + 2 {
+printf(""Yes\n; else {
+printf(""No\n;
+for (int i = 0;",,"#include<stdio.h>
+#include<stdbool.h>
+
+bool isPrime(int num) {
+    if (num <= 1) return false;
+    if (num == 2) return true;
+    if (num % 2 == 0) return false;
+    for (int i = 3; i * i <= num; i += 2) {
+        if (num % i == 0) return false;
+    }
+    return true;
+}
+
+int main(){
+    int prime[1000];
+    int count = 0;
+    for (int i = 2; i <= 7919 && count < 1000; i++) {
+        if (isPrime(i)) {
+            prime[count++] = i;
+        }
+    }
+    int n;
+    while (scanf(""%d"", &n) !=EOF) {
+        bool found = false;
+        for (int i = 0; i < count - 2; i++) {
+            if (n == prime[i] + prime[i + 1] + prime[i + 2]) {
+                found = true;
+                break;
+            } 
+        }
+        printf(found ? ""Yes\n"" : ""No\n"");
+    }
+    return 0;
+}"
+1218084,1070,TLE,NORMAL,random_30s_window,709.9,552,f -> o -> r -> i -> t -> nx2 -> t ->  ,", -> Shiftx28 -> m -> e -> l -> [ -> i -> ; -> Enter -> f -> o -> r -> i -> t -> nx2 -> t ->  ",t -> o -> t -> a -> l -> = -> 0 -> ; -> Enter -> f -> o -> r -> Shift -> (,t -> o -> t -> a -> l -> = -> 0 -> ; -> Enter -> f -> o -> r -> Shift -> ( -> Enter,"#clude<stdio.h>
+int main({
+int n,t ,m;
+while(scanf(""%d %d %d ,&n.,t&t,&m!=EOFD{
+int amelon[n;
+for(int i=0;i<n;i++{
+
+  sscanf(for(int i=0;i<=in;i+=+[
+{
+scanf(""%d,mel[i;
+foritnnt t",,"#include<stdio.h>
+int main(){
+    int n,t,m;
+    while(scanf(""%d %d %d"",&n,&t,&m)!=EOF){
+        int melon[n];
+        for(int i=0;i<n;i++){
+            scanf(""%d"",&melon[i]);
+        }
+        int count=0;
+        int q=0;
+        for(;q+m<=n-1;q++){
+            int res=0;
+            for(int k=0;k<m;k++){
+                res+=melon[q+k];
+            }
+            if(res<=t) count++;
+        }
+        printf(""%d\n"",count);
+    }
+}"
+1162277,1009,WA,NORMAL,random_30s_window,1066.2,426,CapsLock -> s -> u -> m -> Shift -> +x2 -> ; -> l -> e -> n ->   -> - ->  ,< ->   -> Enter -> i -> n -> t ->   -> s -> u -> m ->   -> = ->   -> 0 -> ; -> CapsLock -> S -> U -> CapsLock -> s -> u -> m -> Shift -> +x2 -> ; -> l -> e -> n ->   -> - ->  ,2 ->   -> Shift -> * ->   -> s -> u -> m -> ; -> i -> Shift -> +x2 -> Enter -> Shift -> { -> Enter -> p -> r,"2 ->   -> Shift -> * ->   -> s -> u -> m -> ; -> i -> Shift -> +x2 -> Enter -> Shift -> { -> Enter -> p -> r -> i -> n -> t -> f -> Shift -> ( -> "" -> % -> d -> , -> a -> rx2 -> [ -> i -> ;","#include <>stdio.h
+int main(
+{
+return 0;
+inchar arr[1000055
+intchar
+int %#include <>string.hint len = strlen(arr;
+scanf(""%%s,arr;
+
+char len [10005;;fkriror(int i = 0;i < nlen;i++
+{
+1
+len[0 = arr[0';if(b arr[i == arrr[i - 1
+{
+for(int i j = i - 1;j < len - 2;j++
+
+{
+{
+arr[i - j = arr[i j + 2;c
+
+for(int i = 0;i < 
+int sum = 0;SUsum++;len - 2",,"#include <stdio.h>
+#include <string.h>
+int main()
+{
+    char arr[100005];
+   
+    scanf(""%s"",arr);
+    int len = strlen(arr);
+    
+    int sum = 0;
+    for(int i = 1;i < len;i++)
+    {
+        if(arr[i] == arr[i - 1])
+        {
+            for(int j = i - 1;j < len - 2;j++)
+            {
+                arr[j] = arr[j + 2];
+            }
+        sum++;
+        }
+    }
+    
+    for(int i = 0;i < len - 2 * sum;i++)
+    {
+        printf(""%c"",arr[i]);
+    }
+    return 0;
+}"
+1382435,1127,AC,NORMAL,random_30s_window,1157.4,570,t -> e -> m -> p -> =x2 -> i ->   -> Shiftx14,Enter -> i -> n -> t ->   -> t -> e -> m -> p -> = -> i -> ; -> k -> t -> e -> m -> p -> t -> e -> m -> p -> =x2 -> i ->   -> Shiftx14,Shiftx19 -> &x2 ->  ,Shiftx19 -> &x2 ->   -> Shift -> { -> Enterx2 -> t,"v//vv
+#include<stdio.h>
+int main({
+ret 0;
+int n;
+scanf(""%d,&n;
+while (n--{
+int a,b;
+scanf(""%dd%d,&a,&b;
+int ans=0;
+for (int i=a;i<=b;i++{
+int flag=0;
+iny t temp=i%10;
+if (
+
+int temp=i;ktemptemp==i ",,"//可持久化动态图上树状数组套主席树维护01背包
+#include<stdio.h>
+int main(){
+    int n;
+    scanf(""%d"",&n);
+    while (n--){
+        int a,b;
+        scanf(""%d%d"",&a,&b);
+        int ans=0;
+        for (int i=a;i<=b;i++){
+            int flag=0;
+            int temp=i;
+            while (temp>0){
+                int k=temp%10;
+                temp/=10;
+                if (temp==0){
+                    break;
+                }
+                if (temp==i/10){
+                    if (k<=temp%10){
+                        break;
+                    }
+                }
+                else{
+                    if (k==temp%10){
+                        break;
+                    }
+                    if (!flag && k<temp%10){
+                        flag=1;
+                    }
+                    else if (flag && k>=temp%10){
+                        break;
+                    }
+                }
+            }
+            if (flag && !temp){
+                ans++;
+            }
+        }
+        printf(""%d\n"",ans);
+    }
+    return 0;
+}"
+1340459,2287,WA,NORMAL,random_30s_window,279.6,98,Backspacex16 -> 0 ->   -> 1 ->   -> 2 ->   -> 3 ->   -> 0 ->   -> 1 ->  ,Backspacex16 -> 0 ->   -> 1 ->   -> 2 ->   -> 3 ->   -> 0 ->   -> 1 ->  ,2 ->   -> 3,2 ->   -> 3,0 1 2 3 0 1 2,,"#include<stdio.h>
+int main(void)
+{
+    int a,i,j,k,n;
+    while(scanf(""%d"",&n)!=EOF)
+    {
+        int arr[70];
+        for(i=0;i<2*n;i++)
+        {
+            scanf("" %d"",&arr[i]);
+        }
+        for(i=0;i<2*n;i++)
+        arr[i]/=2;
+        k=0;
+        i=0;
+        int cishu=0;
+        while(i<2*n)
+        {
+            if(arr[i]!=arr[i+1])
+            {
+                for(j=i+1;j<2*n;j++)
+                {
+                    if(arr[j]==arr[i])
+                    {
+                        int temp=arr[1];
+                        arr[1]=arr[j];
+                        arr[j]=temp;
+                        cishu++;
+                    }
+                }
+            }
+            i+=2;
+        }
+        printf(""%d\n"",cishu);
+    }
+    return 0;
+}"
+1139243,1513,PE,NORMAL,random_30s_window,952.3,562,Shift -> < -> s -> t -> d -> i -> o -> h,Shift -> # -> Shift -> < -> s -> t -> d -> i -> o -> h,. -> Shift -> > -> Enter -> i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> Enter -> Shift -> { -> Enterx2 -> r -> e -> u -> t -> u,. -> Shift -> > -> Enter -> i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> Enter -> Shift -> { -> Enterx2 -> r -> e -> u -> t -> u -> r -> n ->   -> 0 -> ; -> i -> n -> t ->   -> t -> ; -> Enter -> w -> h -> i -> l -> e,#<stdio.,,"#include<stdio.h>
+int main()
+{
+    int t;
+    while(scanf(""%d"",&t)!=EOF)
+    {
+        for(int i=0;i<t;i++)
+        {
+            int n;
+            scanf(""%d"",&n);
+            for(int y=1;y<=n;y++)
+            {
+                for(int x=n-y;x>0;x--)
+                {
+                    printf("" "");
+                }
+                for(int x=0;x<y;x++)
+                {
+                    printf(""%c"",'a'+x);
+                }
+                for(int x=y-2;x>=0;x--)
+                {
+                    printf(""%c"",'a'+x);
+                }
+                printf(""\n"");
+            }
+            for(int y=1;y<=n;y++)
+            {
+                for(int x=1;x<y;x++)
+                {
+                    printf("" "");
+                }
+                printf(""a"");
+                for(int x=0;x<2*(n-y)-1;x++)
+                {
+                    printf("" "");
+                }
+                if(y<n)
+                {
+                    printf(""a\n"");
+                }
+            }
+            printf(""\n"");
+        }
+    }
+    return 0;
+}"
+1283120,2118,PE,NORMAL,random_30s_window,937.4,576,w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shiftx21,Shift -> { -> Enterx3 -> i -> n -> t ->   -> n -> ; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shiftx21,"Shiftx19 -> ( -> Shiftx2 -> "" -> Shift -> % -> d -> ,","Shiftx19 -> ( -> Shiftx2 -> "" -> Shift -> % -> d -> , -> Shiftx15 -> & -> n -> Shiftx15 -> ! -> = -> CapsLock -> E -> O -> F -> CapsLock -> Shiftx8 -> { -> Enter","#include<stdio.h>
+int main({
+
+
+int n;
+while(scanf",,"#include<stdio.h>
+int main()
+{
+    int n;
+    while(scanf(""%d"",&n)!=EOF)
+    {
+        int x=2*n+1;
+        int s=n+1;
+        int c=0;
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<c;j++)
+            {
+                printf("" "");
+            }
+            for(int h=0;h<x;h++)
+            {   
+                printf(""*"");
+            }
+            printf(""\n"");
+            c++;
+            x=x-2;
+        }
+        for(int f=0;f<=n;f++)
+        {
+            for(int g=0;g<n;g++)
+            {    
+                printf("" "");
+            }
+            printf(""*\n"");
+        }
+
+    }
+    return 0;
+}"
+1090098,1508,NoData,NORMAL,random_30s_window,1490.7,804,= -> 0 -> Shift -> |x2 -> i -> n -> Shiftx4 -> ( -> n -> u,n -> u -> m -> = -> 1 -> ; -> i -> f -> Shift -> ( -> n -> u -> n -> m -> Shift -> % -> 6 -> =x2 -> 0 -> Shift -> |x2 -> i -> n -> Shiftx4 -> ( -> n -> u,m -> =x2 -> 1 -> Shift -> { -> Enter -> a -> rx2 -> [ -> i,m -> =x2 -> 1 -> Shift -> { -> Enter -> a -> rx2 -> [ -> i -> = -> n -> u -> m -> ; -> Enterx2 -> i -> +x2 -> ;,"#clude<srtdio.h>
+
+int main({
+
+long long n=0;
+
+while(scanf*(""%dll,&n!=EOfF{
+
+
+int is 6include6(intlong long n{
+while(n!=0{
+if(n%10==6{
+return 1;
+n=n/10;
+break;
+return 0;if(in(n==1||n%6==0{
+ifor(int 
+
+void(int arr[,long long 
+
+
+for(int ui=1;i<
+
+voidint isnclude6(long long n{
+while(n=n%1000;
+while(n!=0{
+if(n%10==6{
+return 1;
+bbreak;
+n=n/10;
+reuturn 0;
+
+void reserpreserve({
+int nfor(int i=0;i<n;i++{
+
+int long long arr[;long long long long i=arrif(
+long long num=1;if(nunm%6==0||in(num",,"#include <stdio.h>
+
+
+#define MAX_N 100000  
+
+
+int  isLucky(int num) {
+    
+    if (num % 6 == 0) {
+        return 1;
+    }
+    
+    int lastThree = num % 1000;  // 取后三位
+    while (lastThree > 0) {
+        if (lastThree % 10 == 6) {
+            return 1;
+        }
+        lastThree /= 10;
+    }
+    return 0;
+}
+
+int main() {
+    int luckyList[MAX_N];
+    int count = 0;
+    int num = 6;  
+
+    
+    while (count < MAX_N) {
+        if (isLucky(num)==1) {
+            luckyList[count++] = num;
+        }
+        num++;
+    }
+
+    int n;
+    while (scanf(""%d"", &n) != EOF) {
+        printf(""%d\n"", luckyList[n - 1]);  
+    }
+
+    return 0;
+}"
+1100347,1218,WA,NORMAL,random_30s_window,888.6,212,Unidentifiedx4 -> 2 -> Shiftx16,Shiftx3 -> Unidentified -> 1 -> Enter -> Unidentifiedx10 -> 1 -> Shiftx9 -> Unidentifiedx5 -> 2 -> Shiftx16,Shiftx31 -> Unidentified -> 1 -> 0 -> Unidentified -> Enter -> Unidentifiedx3,Shiftx31 -> Unidentified -> 1 -> 0 -> Unidentified -> Enter -> Unidentifiedx5 -> Enter -> Unidentifiedx6 -> 1 -> Unidentified,"1911
+2
+1
+12",,"#include<stdio.h>
+#include<string.h>
+
+int main()
+{
+    char a[10001];
+    int x[10001],y[5];
+    scanf(""%s"",a);
+    int t=strlen(a);
+    int sum=0,j=0;
+    for(int i=0;i<t;i++)
+    {
+        x[i]=a[i]-48;
+        sum=sum+x[i];
+    }
+    if(sum%3==0)
+    {
+        y[j]=3;
+        j++;
+    }
+    if(x[t-1]==0||x[t-1]==5)
+    {
+        y[j]=5;
+        j++;
+    }
+    int w;
+    if(t>2)
+     w=x[t-1]+x[t-2]*10+x[t-3]*100;
+    else if(t>1)
+     w=x[t-1]+x[t-2]*10;
+    else 
+     w=x[t-1];
+    if(w%8==0)
+    {
+        y[j]=8;
+        j++;
+    }
+    int p=0;
+    for(int i=0;i<t;i++)
+    {
+        if(i%2==0)
+        p=p+x[i];
+        else
+        p=p-x[i];
+        
+    }
+    if(p<0)
+    p=0-p;
+    if(p%11==0){
+        y[j]=11;
+    }
+    if(j==0)
+    printf(""No"");
+    else{
+    printf(""Yes\n"");
+    for(int i=0;i<j;i++)
+    printf(""%d "",y[i]);
+    }
+return 0;}"
+1009211,2087,AC,NORMAL,random_30s_window,1066.6,553,Shift -> ! -> = -> Shift -> E -> O -> F -> Shift -> { -> Enter -> w -> h -> i -> l -> Shift,"; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> d -> , -> Shift -> & -> n -> Shift -> ! -> = -> Shift -> E -> O -> F -> Shift -> { -> Enter -> w -> h -> i -> l -> Shift",e -> ( -> n -> -x2 -> Shift -> { -> Enter -> s -> c -> a -> n -> f -> Shift,"e -> ( -> n -> -x2 -> Shift -> { -> Enter -> s -> c -> a -> n -> f -> Shiftx30 -> ( -> Shift -> "" -> Shift -> % -> d -> , -> Control -> f -> o -> r -> Shift -> ( -> i -> n -> t ->   -> i -> = -> 0 -> ; -> i -> Shift -> < -> n -> ; -> i","#<stdio,.h>
+int main({
+int n;m;,m;
+int a[1000,b[;
+long int b[1000;
+while(scanf(""%d,&n!=EOF{
+while(",,"#include<stdio.h>
+int main(){
+    int n;
+    int a[1000];
+    
+    while(scanf(""%d"",&n)!=EOF){
+        for(int i=0;i<n;i++){
+            scanf(""%d"",&a[i]);
+        }
+        int m;
+        long int b[1000];
+        scanf(""%d"",&m);
+        for(int i=0;i<m;i++){
+            scanf(""%ld"",&b[i]);
+            long long int count=0;
+            int j;
+            for(j=0;b[i]>count;j++){
+                count+=a[j];
+            }
+            printf(""%d\n"",j);
+        }
+        
+    }return 0;
+}"
+1036863,1218,WA,NORMAL,random_30s_window,1510.3,287,q -> 1 -> = -> Shift -> ! -> = -> 0 -> Shift,Control -> v -> q -> 1 -> = -> Shift -> ! -> = -> 0 -> Shift,&x2,&x2 -> 0 -> Backspace,"os,js
+sz[310q/3!=0&&()o/8!=0&&cv/!&&cv||&&ccvv2!vq1=!=0&&",,"#include<stdio.h>
+#include<string.h>
+int main(){
+    char str[10001];
+    scanf(""%s"",str);
+    int len=strlen(str);
+    int q=0;
+    int sz[4]={0};
+    int os=0;
+    int js=0;
+    for(int i=0;i<len;i++){
+        q+=str[i]-'0';
+        if((i+1)%2==0){
+            os+=str[i]-'0';
+        }else{
+            js+=str[i]-'0';
+        }
+    }
+    if(q>=3&&q%3==0){
+        sz[0]=3;
+    }
+    if(q!=0&&((str[len-1]-'0')==5||(str[len-1]-'0')==0)){
+        sz[1]=5;
+    }
+    int o=0;
+    int j=1;
+    if(len>=3){    
+        for(int i=0;i<3;i++){
+        o=o+(str[len-1-i]-'0')*j;
+        j*=10;
+    }
+    if(o>=8&&o%8==0){
+        sz[2]=8;
+    }
+    }else{
+        for(int i=len-1;i>=0;i--){
+        o=o+(str[i]-'0')*j;
+        j*=10;
+    }
+    if(o>=8&&o%8==0){
+        sz[2]=8;
+    }
+    }
+    
+    if(q!=0&&(os-js)%11==0){
+        sz[3]=11;
+    }
+    int x=0;
+    if(sz[0]!=0||sz[1]!=0||sz[2]!=0||sz[3]!=0){
+        printf(""Yes\n"");
+        for(int i=0;i<4;i++){
+            if(sz[i]!=0){
+                if(x==0){
+                    printf(""%d"",sz[i]);
+                    x++;
+                }else{
+                    printf("" %d"",sz[i]);
+                    x++;
+                }
+            }
+        }
+    }else{
+        printf(""No"");
+    }
+    return 0;
+}"
+1310273,2252,AC,NORMAL,random_30s_window,1229.9,564,n -> Shift -> % -> 4 -> =x2 -> 0 -> Shift -> ),=x2 -> NumLock -> = -> 0 -> Shiftx10 -> |x2 -> Shift -> ( -> n -> Shift -> % -> 1 -> 0x2 -> Shift -> ! -> = -> 0 -> Shiftx3 -> &x2 -> n -> Shift -> % -> 4 -> =x2 -> 0 -> Shift -> ),r -> e -> t -> u -> r -> n ->   -> 1 -> ; -> Enter -> r -> e -> t -> u -> r -> n ->   -> 0 -> ;,r -> e -> t -> u -> r -> n ->   -> 1 -> ; -> Enter -> r -> e -> t -> u -> r -> n ->   -> 0 -> ; -> i -> n -> Enter -> i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> v -> p -> o -> i -> d -> Shift -> {,"v=
+
+#inclue=de<stdio.h>
+#include<string.h>
+inf T =t Run(int n{
+if((n%400===0||(n%100!=0&&n%4==0)r",,"#include<stdio.h>
+#include<string.h>
+int Run(int n){
+    if((n%400==0)||(n%100!=0&&n%4==0))return 1;
+    return 0;
+}
+
+int main(void){
+    char s[19];
+    while(scanf(""%s"",s)!=EOF){ 
+    int error1=0,error2=0; 
+    int y=1000*(s[6]-'0')+100*(s[7]-'0')+10*(s[8]-'0')+(s[9]-'0'); 
+    int m=(s[10]-'0')*10+s[11]-'0',d=(s[12]-'0')*10+(s[13]-'0');
+    if(Run(y)){
+     int mm[]={0,31,29,31,30,31,30,31,31,30,31,30,31}; 
+     if(m<=0||m>12||mm[m]<d){ 
+         error1=1; 
+     }
+    }
+    else{
+        int mm[]={0,31,28,31,30,31,30,31,31,30,31,30,31};
+        if(m<=0||m>12||mm[m]<d){
+           error1=1; 
+    }
+}
+int q[]={7,9,10,5,8,4,2,1,6,3,7,9,10,5,8,4,2}; 
+int S=0;
+for(int i=0;i<17;i++){
+    S+=(s[i]-'0')*q[i];
+}
+int Y=S%11; 
+int yy[]={1,0,10,9,8,7,6,5,4,3,2}; 
+if(Y!=2&&yy[Y]!=s[17]-'0')error2=1; 
+else if(Y==2)if(s[17]!='X')error2=1;
+if(error1==1&&error2==0)printf(""ERROR 01 \n""); 
+else if(error1==0&&error2==1)printf(""ERROR 02\n""); 
+else if(error1==1&&error2==1)printf(""ERROR 03\n""); 
+else printf(""PASS\n""); 
+}
+return 0;
+}"
+1009217,2087,AC,NORMAL,random_30s_window,1066.6,553,i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> Shift -> { -> Enter,"Shift -> # -> Shiftx2 -> < -> s -> t -> d -> i -> o -> , -> . -> h -> Shift -> > -> Enter -> i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> Shift -> { -> Enter",i -> n -> t ->   -> n -> ; -> m -> ;,"i -> n -> t ->   -> n -> ; -> m -> ; -> , -> m -> ; -> Enter -> i -> n -> t ->   -> a -> [","#<stdio,.h>
+int main({
+i",,"#include<stdio.h>
+int main(){
+    int n;
+    int a[1000];
+    
+    while(scanf(""%d"",&n)!=EOF){
+        for(int i=0;i<n;i++){
+            scanf(""%d"",&a[i]);
+        }
+        int m;
+        long int b[1000];
+        scanf(""%d"",&m);
+        for(int i=0;i<m;i++){
+            scanf(""%ld"",&b[i]);
+            long  int count=0;
+            int j;
+            for(j=0;b[i]>count;j++){
+                count+=a[j];
+            }
+            printf(""%d\n"",j);
+        }
+        
+    }return 0;
+}"
+1338946,2285,CE,NORMAL,random_30s_window,1600.6,638,f -> o -> r -> Shift -> ( -> i -> n -> t ->   -> i,", -> Shift -> "" -> t -> u -> v -> , -> Shift -> "" -> w -> x -> y -> z -> Shift -> } -> ; -> Enter -> f -> o -> r -> Shift -> ( -> i -> n -> t ->   -> i",= -> 0 -> ; -> i -> Shift -> < -> l -> e -> n -> ; -> i -> Shift -> +x2 -> Enter -> Shift -> { -> Enter,= -> 0 -> ; -> i -> Shift -> < -> l -> e -> n -> ; -> i -> Shift -> +x2 -> Enter -> Shift -> { -> Enter,"#include<stdio.h>
+%#intint main(
+Ptreturn {
+return 0'
+char shu[9;
+while(gets(charshu!=NULL
+{
+
+#include<string.h>int len=strlen[(shu;15
+
+void jianwei(char *a
+{
+if(*a'2
+{
+char *strjianwei[98={""abc"",""def"",""ghiu,""jkl,""mno,""pqrs,""tuv,""wxyz};
+for(int i=",,"#include<stdio.h>
+#include<string.h>
+void bub(char str[15],len)
+{
+    for(int i=0;i<len;i++)
+    {
+        str[i]-=0;
+    }
+    for(int i=0;i<len-1;i++)
+    {
+        for(int j=0;j<len-1-i;j++)
+        {
+            if(str[j]>str[j+1])
+            {
+                int temp=str[j];
+                str[j]=str[j+1];
+                str[j+1]=temp;
+            }
+        }
+    }
+}
+int main()
+{
+    char shu[15];
+    while(gets(shu)!=NULL)
+    {
+        int len=strlen(shu);
+        char *jianwei[8]={""abc"",""def"",""ghi"",""jkl"",""mno"",""pqrs"",""tuv"",""wxyz""};
+        bub(shu,len);
+        for(int i=0;i<len;i++)
+        {
+            
+        }
+    }
+    return 0;
+}"
+1110599,2191,AC,NORMAL,random_30s_window,1379.4,542,Enter -> b -> [ -> i -> = -> a -> [,b -> [ -> 1 -> 0x5 -> 5 -> = -> Shift -> { -> } -> 0 -> b -> Enter -> b -> [ -> i -> = -> a -> [,n -> u -> m -> ;,"n -> u -> m -> ; -> ,","3#include<>stdio,.h
+int main(
+{}
+return 0;
+int n,m;
+char str[10000045;
+scanf(""
+scanf(""%d %d,&n,&m;%s,str;
+pprintf(""%s,str;for(int 0;ii=0;i<n;i++
+{}
+,a[30char ch=str[i;
+a[ch-'aint num=;
+num=ch-'a;
+a[num++;={}0
+printf(""%d,a[num;\n
+10 10
+aabhbhbhbh
+1
+2
+3
+4
+5
+6
+7
+8
+9mn
+for(int j=1;j<=m;j++
+{}
+int t;
+scanf(""%d,&t;
+printf(pq] p,qp
+q=str[p-'a;""%d\n,&q;a[qct,tt-1c
+char e;
+char e=str[t-1ec;b[1000005={}0b
+b[i=a[n",,"#include<stdio.h>
+int main()
+{
+    int n,m,a[30]={0},b[1000005]={0};
+    scanf(""%d %d"",&n,&m);
+    char str[1000005];
+    scanf(""%s"",str);
+    for(int i=0;i<n;i++)
+    {
+        char ch=str[i];
+        int num;
+        num=ch-'a';
+        a[num]++;
+        b[i]=a[num];
+    }
+    for(int j=1;j<=m;j++)
+    {
+        int t,q;
+        scanf(""%d"",&t);
+        printf(""%d\n"",b[t-1]);
+    }
+    return 0;
+}"
+1360456,1748,AC,NORMAL,random_30s_window,1546.8,197,"Backspace -> Enter -> p -> r -> i -> n -> t -> f -> Shift -> ( -> "" -> % -> d ->  ","Backspacex28 -> Enter -> p -> r -> i -> n -> t -> f -> Shift -> ( -> "" -> % -> d ->  ","Shift -> % -> d -> \ -> n -> , -> c -> n -> t -> , -> m -> i -> d","Shift -> % -> d -> \ -> n -> , -> c -> n -> t -> , -> m -> i -> d -> ;","#v)(
+int n=0;
+whielillie
+while(acscannf(:""%s,str
+printf(""%d ",,"#include<stdio.h>
+#include<string.h>
+#define MAX 1005
+int main()
+{
+	char str[MAX];
+	while(scanf(""%s"",str)!=EOF){
+	    //printf(""%s\n"",str);
+    	int len=strlen(str);
+    	int cnt=0;
+    	int sum=0;
+    	for(int i=0;i<len;i++){
+    		if(str[i]=='7')cnt++;
+    		int tem=str[i]-'0';
+    		sum+=tem;
+    	}
+    	int mid=len/2;
+    	//printf(""%d %d\n"",cnt,mid);
+    	if(cnt>mid||sum%7==0)printf(""Yes\n"");
+    	else printf(""No\n"");
+	}
+	return 0;
+}"
+1421900,1166,NoData,NORMAL,random_30s_window,1433.4,565,d -> Shift -> < -> = -> t -> ; -> d -> Shift -> +x2 -> Shift,k -> = -> d -> = -> s -> ; -> d -> = -> s -> ; -> d -> Shift -> < -> = -> t -> ; -> d -> Shift -> +x2 -> Shift,{ -> } -> Enter -> i -> f -> Shift -> ( -> ) -> x -> - -> k -> Shift -> >,{ -> } -> Enter -> i -> f -> Shift -> ( -> ) -> x -> - -> k -> Shift -> > -> = -> 0 -> d -> Shift -> { -> } -> Enter -> d -> s -> t -> [ -> x -> =,"#include<>sytdio.h
+int main();{}
+int bnn;
+scanf();""5%d,&n
+int s,t,m;
+scanf();""%d %^d %d ,&s,&t,&m
+dint dp[10004;
+={}0for()int i=0;io<<m;i++{}
+if(),mnkscnanf();""%d,&k
+if()dp[k=1;
+i++i++int st[10004;
+dp[[0=0;
+st
+for()int x=1;i<=ln;i++x=++x{}
+for()inyt k=d=s;d=s;d<=t;d++{",,"#include<stdio.h>
+#include<string.h>
+int main(){
+    int n;
+    scanf(""%d"",&n);
+    int s,t,m;
+    scanf(""%d %d %d"",&s,&t,&m);
+    int dp[10004]={0};
+    for(int i=0;i<m;i++){
+        int k;
+        scanf(""%d"",&k);
+        dp[k]=1;
+    }int st[10004];
+    memset(st,64,sizeof(st));
+    st[0]=0;
+    for(int x=1;x<=n;x++){
+        for(int d=s;d<=t;d++){
+            if(x-d>=0){
+                st[x]=st[x-d]+dp[x]<st[x]?st[x-d]+dp[x]:st[x];
+            }
+        }
+    }
+    printf(""%d\n"",st[n]);
+    return 0;
+    
+}"
+1016399,1799,WA,NORMAL,random_30s_window,792.8,362,Shift -> ( -> r -> e -> s -> u,Enter -> r -> e -> t -> u -> r -> n ->   -> r -> e -> s -> u -> l -> t -> Shift -> ( -> r -> e -> s -> u,l -> t -> Shift -> * -> = -> f -> a,l -> t -> Shift -> * -> = -> f -> a -> c -> tx2 -> Shift -> ( -> i -> - -> 1 -> ; -> e -> l -> s -> e -> Shiftx17 -> ;,"v1
+double e=;
+for(int i=0;i<n;i99++
+e+=1==01/n;
+}
+{
+pr(""%lld.15f,e;
+}
+return 0;
+{}i
+
+
+
+int fact()int i{
+
+
+
+
+returmn factif(i==1
+returmmn 1;else
+return result(resul",,"#include<stdio.h>
+int fact(int i){
+    
+    if(i==1)
+    return 1;
+    
+    
+    return i*fact(i-1);
+}
+
+
+
+int main(){
+    int n;
+    while(scanf(""%d"",&n)==1){
+        double e=1;
+        
+        for(int i=1;i<=n;i++){
+        double c=fact(i);
+        e=e+1/c;
+        
+            
+        }
+        printf(""%.15lf"",e);
+    }
+    return 0;
+}
+    "
+1368147,1902,RE,NORMAL,random_30s_window,1393.0,704,Control -> Enter -> Shift -> { -> Enter -> s,Enter -> i -> n -> t ->   -> sx2 -> = -> 0 -> ; -> Enter -> Control -> Enter -> Shift -> { -> Enter -> s,s -> = -> 1 -> ; -> Enter -> b -> r -> e -> a -> k -> [ -> ;,s -> = -> 1 -> ; -> Enter -> b -> r -> e -> a -> k -> [ -> ; -> i -> f -> Shift -> ( -> sx2,"#include<stdio.h>
+int amint pan(int n{
+
+\(if(n==1
+return o0;
+if(n==2
+return 1;
+if(n%2==0;
+return 0;
+for(int i=3;i<*i<=n;i+=2
+   if(n%i==0
+return 0;{}{}
+
+return 1;
+int main({
+
+
+ int a[1000=0
+for(int i=0;i++<10;i<1000;;int np=-2p++{
+if(pan(p
+a(i{
+}
+[a[i=p;i++;
+while(
+int nl;while(scanf(""%d,&n!=EOF{
+
+int sum=
+forint sum=a[0+a[1+a[32;
+for(int i=3;i<=1000;i++   {
+sum+=+=[aa[i;
+sum-=a[i-3;
+int sum[998;[0]
+[i-3][i-3] for(int i=0;i<998;i++{
+iof(f((sum[i==n
+printf(
+int ss=0;
+
+{
+ss",,"#include<stdio.h>
+int pan(int n){
+    if(n==1)
+    return 0;
+    if(n==2)
+    return 1;
+    if(n%2==0)
+    return 0;
+    for(int i=3;i*i<=n;i+=2){
+       if(n%i==0){
+       return 0;}
+       
+    }
+    return 1;
+}
+int main(){
+     int a[1000]={0};int p=2;
+     for(int i=0;i<1000;p++){
+         if(pan(p)){
+         a[i]=p;
+         i++;
+         }
+     }
+     int sum[998];
+     int n; sum[0]=a[0]+a[1]+a[2];
+     for(int i=3;i<1000;i++){
+         sum[i-2]+=a[i];
+         sum[i-2]-=a[i-3];
+         
+     }
+       printf(""%d %d %d %d %d"",sum[0],sum[1],sum[2],sum[3],sum[4]);
+     while(scanf(""%d"",&n)!=EOF){
+         int ss=0;
+          for(int i=0;i<998;i++){
+          if(sum[i]==n){
+              ss=1;
+              break;
+          }
+          }
+           if(ss)
+           printf(""Yes\n"");
+           else
+           printf(""No\n"");
+              
+          
+         
+     }
+    return 0;
+    
+}"
+1121878,1551,AC,NORMAL,random_30s_window,615.3,467,n -> c -> a -> h -> e -> r -> h -> a -> r ->   -> s -> t,Enter -> i -> n -> t ->   -> n -> c -> a -> h -> e -> r -> h -> a -> r ->   -> s -> t,r -> 0 -> [ -> 2 -> 1 -> 0x2 -> ; -> Enter,"r -> 0 -> [ -> 2 -> 1 -> 0x2 -> ; -> Enter -> s -> p -> r -> i -> n -> t -> f -> Shift -> ( -> s -> t -> r -> , -> Shift -> "" -> 5 -> d -> Shift -> % -> , -> n -> ;","#include<stdio.h>
+intmain(void 
+int dihgit(int n,int k;
+{
+char[int lwnen=srtrleenlen(nl=;
+if(k>len
+{
+return 0;
+else
+{
+int am=n[len-nk;
+returb m;n
+{
+int T,l,r,k;
+scanf(""%d,&T;
+sscawhile(i<T
+int i=0;
+{
+scanf(""%d%d%d,&l,&r,&k;
+for(innt j=0;j<ir;j++=
+{
+
+int sum=0;sum+=digit(l+j,k;
+prinrtftf(""%d,sum;
+return 0;\n
+#uinclude<string.h>-'0
+int ncaherhar str",,"#include<stdio.h>
+#include<string.h>
+int digit(int n,int k)
+{
+    char str[20];
+    sprintf(str,""%d"",n);
+    int len=strlen(str);
+    if(k>len)
+    {
+        return 0;
+    }
+    else
+    {
+        int m=str[len-k]-'0';
+        return m;
+    }
+}
+int main(void)
+{
+    int T,l,r,k;
+    int i=0;
+    scanf(""%d"",&T);
+    while(i<T)
+    {
+        int sum=0;
+        scanf(""%d%d%d"",&l,&r,&k);
+        for(int j=l;j<=r;j++)
+        {
+            sum+=digit(j,k);
+        }
+        printf(""%d\n"",sum);
+        i++;
+    }
+    return 0;
+}"
+1440343,1016,TLE,NORMAL,random_30s_window,1085.6,582,"; -> Enter -> , -> i",z -> e -> Shift -> ( -> =x2 -> n -> Shift -> { -> Enter -> r -> e -> s -> . -> p -> u -> s -> h -> Shift -> _ -> b -> a -> c -> k -> Shift -> ( -> p -> a -> t -> h -> ; -> Enter -> r -> e -> t -> u -> r -> n ->   -> ; -> Enter,n -> t ->   -> u,"n -> t ->   -> u -> f -> o -> r -> Shift -> ( -> i -> n -> t ->   -> i -> = -> 0 -> i -> - -> = -> u -> , -> i -> Shift -> <x2","c#include<bits./stdc++.h>
+
+us na s;
+
+int main({
+inint n;
+while(cin>>n{
+vector<int>ve<nint>> res;
+ve<int> path:;
+
+
+
+void DFS(cv&,cv&,int n{
+if(pa!.size(==n{
+res.push_back(path;
+return ;
+,in",,"#include<bits/stdc++.h>
+
+using namespace std;
+
+void DFS(vector<vector<int>> &res,vector<int> &path,int n,vector<bool> &used){
+    if(path.size()==n){
+        res.push_back(path);
+        return;
+    }
+    for(int i=n;i>0;i--){
+        if(!used[i]){
+            used[i]=true;
+            path.push_back(i);
+            DFS(res,path,n,used);
+            path.pop_back();
+            used[i]=false;
+        }
+        
+    }
+    return;
+}
+
+int main(){
+    int n;
+    while(cin>>n){
+        vector<vector<int>> res;
+        vector<int> path;
+        vector<bool> used(n+1,false);
+        DFS(res,path,n,used);
+
+        for(auto item:res){
+            for(auto i:item){
+                cout<<i<<"" "";
+            }
+            cout<<endl;
+        }
+        
+    }
+    return 0;
+}"
+1072733,1508,MLE,NORMAL,random_30s_window,1479.0,819,  -> Shift -> |x2 ->   -> a -> =x2 -> 6 ->   -> Shift -> |,Shiftx5 -> % -> 1 -> 0x3 -> - -> b -> - -> a -> ;x2 -> Enter -> i -> f -> Shift -> ( -> i -> Shift -> % -> 6 -> =x2 -> 0 ->   -> Shift -> |x2 ->   -> a -> =x2 -> 6 ->   -> Shift -> |,| ->   -> b -> =x2 -> 6 -> 0 -> ; ->   -> Shift -> |x2 ->   -> c -> =x2,| ->   -> b -> =x2 -> 6 -> 0 -> ; ->   -> Shift -> |x2 ->   -> c -> =x2 -> 6 -> 0x2 -> Enter -> Shift -> { -> Enter -> n -> u -> m -> [ -> k -> = -> i,"#<stdio.h>
+int main()
+{
+int m;
+nwhile(scanf(""%d,&n!=EOF
+{
+int result=1;
+if(nlong longll%2=1!=06!=0
+{
+result=0';
+int num[;
+if(for(int i=0;i<3;i++
+{
+ontint temp;
+temp=n%10;0=1
+,Result=0
+n?/10=;
+nj
+if(temp==6
+{
+Result=1;
+if(result && Result
+{
+cnunum[i=n;
+int num[i100000={0};
+for(int i=0;i<1000000;i++
+{
+if(i$%6==0
+{
+int temp=;
+temp=i%1000;for(int i=0;i<3;i++
+{
+temp=
+temp=i;int a;
+a=temp%jjj2010;
+temp/=10;a,b,c;a=i%10;
+b=i%100-a
+c=i%1000-b-a;;
+if(i%6==0 || a==6 || ",,"#include<stdio.h>
+int main()
+{
+    int num[1000000000]={0};
+    int k=0;
+    for(long long i=0;i<1000000000;i++)
+    {
+        int a,b,c;
+        a=i%10;
+        b=i%100-a;
+        c=i%1000-b-a;
+        if(i%6==0 || a==6 || b==60 || c==600)
+        {
+            num[k]=i;
+            k++;
+        }
+    }
+    int n;
+    while(scanf(""%d"",&n)!=EOF)
+    {
+        printf(""%d\n"",num[n]);
+    }
+    return 0;
+}"
+1438301,1738,TLE,NORMAL,random_30s_window,1204.3,1642,i -> f ->   -> Shift -> ( -> d -> i -> s -> [ -> s -> [ -> u -> p -> [ -> k ->   -> =x2 ->   -> Shift -> I -> N -> F ->   -> c -> o,  -> n -> ; ->   -> s -> u -> Shift -> +x2 ->   -> Shift -> { -> Enter -> i -> f ->   -> Shift -> ( -> d -> i -> s -> [ -> f -> o -> r ->   -> Shift -> ( -> i -> n -> t ->   -> j -> k ->   -> = ->   -> 0 -> ; ->   -> k,"; -> Enter -> r -> e -> s ->   -> = ->   -> m -> i -> n -> Shift -> ( -> r -> e -> s -> , ->   -> d -> i -> [ -> s -> [ -> u","; -> Enter -> r -> e -> s ->   -> = ->   -> m -> i -> n -> Shift -> ( -> r -> e -> s -> , ->   -> d -> i -> [ -> s -> [ -> u -> [ -> k -> / -> Shift -> ( -> d -> o -> k -> ; -> Enterx2 -> i","while (!q.empty( {
+int cur = q.front(;
+q.pop(;
+for (int i = Ed next : ad[cur {
+if (ind[ne.to---- == 0 q.push(ne.to;
+vec<int.> topo;
+topo.pus_back(cur;
+
+fo r (int s = 1; is <= n; is=+++ {
+fofr (int ueu : to {
+for (int k = 0; k <= n-1; k=+++ {
+if (d[s[u[k >= INF=#de INF 10x3d3f3f3f3fINF cot;
+for (itn nt next : ad[uE
+{
+int to = ne.to;
+, w = ne.wif (dis[s[to[k+1 = min(dp[s[to[k+1, dpdisdis[s[to[k+1wu;
+
+vec<vec<ve<int>> res((n+,1, rveM<int>(n+1, iiNINF;doub0dou1e18
+fror (int s = 1; s <= n; s++ {
+for (int j = u = 1; u M<= n; su++ {
+if (dis[for (int jk = 0; k <= n-1; k+= + {
+if (dis[s[up[k == INF co;",,"#include <bits/stdc++.h>
+using namespace std;
+#define INF 0x3f3f3f3f
+#define N 55
+int dist[N][N][N]; // 有向无环图最多走n-1条边
+int n, m;
+
+struct Edge {
+    int to, w;
+};
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    
+    cin >> n >> m;
+    vector<vector<Edge>> adjacentList(n+1);
+    vector<int> indegree(n+1);
+    for (int i = 0; i < m; i++) {
+        int a, b, w;
+        cin >> a >> b >> w;
+        adjacentList[a].push_back({b, w});
+        indegree[b]++;
+    }
+    
+    queue<int> q;
+    vector<int> topo;
+    for (int i = 1; i <= n; i++) {
+        if (indegree[i] == 0) q.push(i);
+    }
+    
+    while (!q.empty()) {
+        int cur = q.front();
+        q.pop();
+        topo.push_back(cur);
+        for (Edge next : adjacentList[cur]) {
+            if (--indegree[next.to] == 0) q.push(next.to);
+        }
+    }
+    
+    // 有向无环图 使用拓扑排序
+    
+    memset(dist, 0x3f, sizeof dist); // dist[i][j][k]表示i到j的边数为k的最短距离
+    for (int i = 1; i <= n; i++) {
+        dist[i][i][0] = 0;
+    }
+    
+    for (int s = 1; s <= n; s++) {
+        for (int u : topo) {
+            for (int k = 0; k <= n-1; k++) {
+                if (dist[s][u][k] == INF) continue;
+                for (Edge next : adjacentList[u]){
+                    int to = next.to, w = next.w;
+                    dist[s][to][k+1] = min(dist[s][to][k+1], dist[s][u][k]+w);
+                }
+                
+            }
+        }
+    }
+    
+    vector<vector<double>> res(n+1, vector<double>(n+1, 1e18));
+
+    for (int s = 1; s <= n; s++) {
+        for (int u = 1; u <= n; u++) {
+            if (u == s) {
+                res[u][s] = 0.0;
+                continue;
+            }
+            for (int k = 1; k <= n-1; k++) {
+                if (dist[s][u][k] == INF) continue;
+                res[s][u] = min(res[s][u], dist[s][u][k]/(double)k);
+            } 
+        }
+    }
+    
+    int Q;
+    cin >> Q;
+    while (Q--) {
+        int s, t;
+        cin >> s >> t;
+        if (res[s][t] == 1e18) cout << ""OMG!"" << endl;
+        else cout << fixed << setprecision(3) << res[s][t] << endl;
+    }
+    
+    return 0;
+}"

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Label 1162776</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: Consolas, monospace; background: #1e1e1e; color: #d4d4d4; display: flex; height: 100vh; }
+#left { width: 55%; display: flex; flex-direction: column; }
+#code { flex: 1; padding: 14px; overflow-y: auto; font-size: 13px; line-height: 1.6; white-space: pre-wrap; background: #1a1a1a; }
+#right { width: 45%; display: flex; flex-direction: column; border-left: 1px solid #3e3e3e; }
+#tl { flex: 1; padding: 12px; overflow-y: auto; display: flex; flex-wrap: wrap; align-items: flex-start; align-content: flex-start; gap: 2px; }
+.seg { border-radius: 3px; cursor: pointer; }
+.seg:hover { outline: 2px solid white; z-index: 10; transform: scale(1.1); }
+.seg.marked { outline: 2px solid #007acc; }
+.gap { width: 100%; height: 6px; background: repeating-linear-gradient(90deg, #333 0, #333 4px, transparent 4px, transparent 8px); margin: 1px 0; font-size: 10px; color: #666; line-height: 16px; padding-left: 4px; }
+#bar { padding: 10px 16px; background: #252526; border-top: 1px solid #3e3e3e; }
+#btns { display: flex; gap: 6px; margin-top: 6px; align-items: center; flex-wrap: wrap; }
+.btn { padding: 6px 14px; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; font-size: 12px; color: white; }
+.y { background: #22863a; } .n { background: #6a737d; } .s { background: #444; color: #aaa; }
+#info { font-size: 11px; color: #888; margin-top: 4px; }
+#detail { padding: 8px 12px; background: #2a2a2a; font-size: 11px; color: #aaa; min-height: 30px; word-break: break-all; }
+.legend { display: flex; gap: 14px; font-size: 10px; margin-top: 4px; flex-wrap: wrap; }
+.legend span { display: flex; align-items: center; gap: 4px; }
+.legend .dot { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+</style>
+</head>
+<body>
+<div id="left">
+  <div style="padding:6px 14px;background:#333;font-size:12px">
+    SID:1162776 PID:1904 Judge:<b style="color:#f44747">CE</b>
+    | 1763 keys 3649s | <span id="lc">0</span> labels
+  </div>
+  <div id="code"></div>
+</div>
+<div id="right">
+  <div style="padding:6px 12px;background:#333;font-size:11px">Timeline — gaps = pauses &gt;30s. Click bar to see what was typed.</div>
+  <div id="tl"></div>
+  <div id="detail">Click any bar to see key sequence</div>
+  <div id="bar">
+    <div class="legend">
+      <span><span class="dot" style="background:#4ec9b0"></span>Busy</span>
+      <span><span class="dot" style="background:#555"></span>Slow</span>
+      <span><span class="dot" style="background:#e2b714"></span>Mid BS</span>
+      <span><span class="dot" style="background:#f44747"></span>High BS(>25%)</span>
+      <span><span class="dot" style="background:#333;border:1px dashed #666"></span>Pause>30s</span>
+    </div>
+    <div id="btns">
+      <button class="btn y" onclick="mark(1)">Y 该弹</button>
+      <button class="btn n" onclick="mark(0)">N 不该弹</button>
+      <button class="btn s" onclick="mark(-1)">S 跳过</button>
+      <button onclick="saveLabels()" style="padding:6px 10px;background:#007acc;color:#fff;border:none;border-radius:4px;cursor:pointer;font-size:12px">Save JSON</button>
+    </div>
+    <div id="info">Click bar, then press Y/N/S to label</div>
+  </div>
+</div>
+<script>
+var segs = [{"type": "burst", "start": "0s", "end": "93s", "keys": 48, "bs": 0, "enter": 4, "ctrl": 2, "bs_pct": "0%", "color": "#4ec9b0", "width": 144, "height": 14, "seq": "Meta → Control → Meta → Control → Shift → # → i → n → c → l → u → d → e → Shift → < → s → t → d → i → o → . → h → Shift → > → Enterx2 → t → y → p → e →   → s → t → rx2 → u → Shift → { → Enter → i → t → nx2"}, {"type": "gap", "label": "Pause 56s"}, {"type": "burst", "start": "149s", "end": "149s", "keys": 1, "bs": 0, "enter": 0, "ctrl": 0, "bs_pct": "0%", "color": "#555", "width": 4, "height": 6, "seq": "F11"}, {"type": "gap", "label": "Pause 40s"}, {"type": "burst", "start": "189s", "end": "341s", "keys": 98, "bs": 0, "enter": 9, "ctrl": 0, "bs_pct": "0%", "color": "#4ec9b0", "width": 294, "height": 14, "seq": "t → i → n → t →   → w → ; → p → l → a → t → y → e → r → ; → Enter → i → n → t →   → i → n → t →   → Enter → i → n → t →   → e → n → e → m → y → Shift → ( → i → n → t →  "}, {"type": "gap", "label": "Pause 34s"}, {"type": "burst", "start": "375s", "end": "378s", "keys": 5, "bs": 0, "enter": 1, "ctrl": 0, "bs_pct": "0%", "color": "#555", "width": 15, "height": 6, "seq": "Enter → t → +x2 → ;"}, {"type": "gap", "label": "Pause 65s"}, {"type": "burst", "start": "443s", "end": "451s", "keys": 5, "bs": 0, "enter": 1, "ctrl": 0, "bs_pct": "0%", "color": "#555", "width": 15, "height": 6, "seq": "Enter → i → n → t →  "}, {"type": "gap", "label": "Pause 53s"}, {"type": "burst", "start": "504s", "end": "779s", "keys": 373, "bs": 0, "enter": 14, "ctrl": 0, "bs_pct": "0%", "color": "#4ec9b0", "width": 1119, "height": 14, "seq": "j → = → 0 → ; → Enter → i → fx2 → o → r → Shift → ( → i → n → t →   → i → = → 0 → ; → i → Shift → < → j → t → ; → i → Shift → +x2 → Shiftx4 → Enter → Shift → { → Enter → i → f → Shift → ( → = → 0 → s"}, {"type": "gap", "label": "Pause 83s"}, {"type": "burst", "start": "862s", "end": "922s", "keys": 75, "bs": 0, "enter": 4, "ctrl": 0, "bs_pct": "0%", "color": "#4ec9b0", "width": 225, "height": 14, "seq": "/x2 → Shift → * → e → Shiftx2 → Enter → e → l → s → e → Enter → Shift → { → Enter → p → 0 → Shiftx28 → _ → - → . → Shift → > → w → t → -x2 → ; → Enter → p → - → Shift → > → w → Shift → * → e → = → Shift → _ → - → ="}, {"type": "gap", "label": "Pause 91s"}, {"type": "burst", "start": "1013s", "end": "1063s", "keys": 37, "bs": 0, "enter": 4, "ctrl": 1, "bs_pct": "0%", "color": "#4ec9b0", "width": 111, "height": 14, "seq": "Meta → Control → Enter → p → i → n → t →   → p → o → s → t → = → r → ix2 → t → o → i → o → m → n → Shift → ( → i → n → t →   → Shift → * → k → ; → Enterx2 → Shift → { → Enter"}, {"type": "gap", "label": "Pause 43s"}, {"type": "burst", "start": "1105s", "end": "1233s", "keys": 67, "bs": 0, "enter": 2, "ctrl": 0, "bs_pct": "0%", "color": "#4ec9b0", "width": 201, "height": 14, "seq": "c → o → s → t → n → t → s → t →   → , → i → n → t →   → ix4 → = → i → Shift → + → k → ; → Enter → i → f → Shift → ( → i → Shiftx7 → > → n → = → i → - → = → n → ; → Enter → r → e → t"}, {"type": "gap", "label": "Pause 33s"}, {"type": "burst", "start": "1265s", "end": "1712s", "keys": 425, "bs": 0, "enter": 25, "ctrl": 1, "bs_pct": "0%", "color": "#4ec9b0", "width": 1275, "height": 14, "seq": "Enter → d → Meta → Control → Enter → Shift → # → i → n → c → l → u → d → e → Shift → < → s → t → r → i → n → g → . → h → Shift → > → Enter → Shift → # → i → Shift → < → s → t → r → d → i → l → i → b"}, {"type": "gap", "label": "Pause 48s"}, {"type": "burst", "start": "1760s", "end": "1801s", "keys": 38, "bs": 0, "enter": 2, "ctrl": 0, "bs_pct": "0%", "color": "#4ec9b0", "width": 114, "height": 14, "seq": ", → i → k → = → e → n → Shift → ( → m → ; → f → o → r → Shift → ( → i → n → t →   → i → = → 0 → ; → i → Shift → < → n → - → k → ; → i → Shift → +x2 → Enter → Shift → { → Enter"}, {"type": "gap", "label": "Pause 62s"}, {"type": "burst", "start": "1862s", "end": "1956s", "keys": 45, "bs": 0, "enter": 2, "ctrl": 0, "bs_pct": "0%", "color": "#4ec9b0", "width": 135, "height": 14, "seq": "f → o → r → Shift → ( → i → n → t →   → i → = → 0 → ; → i → Shift → < → n → ; → i → Shift → +x2 →   → i → ; → Enter → Shift → { → Shift → Enter → Shift → 1 → = → , → r → e → s → t → = → 0 → /x2"}, {"type": "gap", "label": "Pause 44s"}, {"type": "burst", "start": "2000s", "end": "2001s", "keys": 4, "bs": 0, "enter": 0, "ctrl": 0, "bs_pct": "0%", "color": "#555", "width": 12, "height": 6, "seq": ", → p → = → 0"}, {"type": "gap", "label": "Pause 31s"}, {"type": "burst", "start": "2032s", "end": "2163s", "keys": 21, "bs": 0, "enter": 0, "ctrl": 0, "bs_pct": "0%", "color": "#555", "width": 63, "height": 6, "seq": "p → = → Shift → ( → k → , → p → , → n → ; → = → Shiftx2 → % → - → i → - → 1 → + → 1 → 0"}, {"type": "gap", "label": "Pause 39s"}, {"type": "burst", "start": "2202s", "end": "2244s", "keys": 33, "bs": 0, "enter": 5, "ctrl": 0, "bs_pct": "0%", "color": "#4ec9b0", "width": 99, "height": 14, "seq": "= → Enter → i → f → Shift → ( → i → =x2 → n → Enter → Shift → { → Enter → r → e → s → t → u → = → 0 → ; → Enter → c → o → n → t → i → n → u → e → ; → Enter"}, {"type": "gap", "label": "Pause 34s"}, {"type": "burst", "start": "2278s", "end": "2318s", "keys": 21, "bs": 0, "enter": 2, "ctrl": 0, "bs_pct": "0%", "color": "#555", "width": 63, "height": 6, "seq": "v → o → i → d → Enter → r → e → ; → b → a →   → Shift → ( → Enter → p → l →   → p → l → s → ;"}, {"type": "gap", "label": "Pause 41s"}, {"type": "burst", "start": "2360s", "end": "2430s", "keys": 31, "bs": 0, "enter": 2, "ctrl": 0, "bs_pct": "0%", "color": "#4ec9b0", "width": 93, "height": 14, "seq": "p → s → [ → . → t → p → . → w → Shift → $ → & → p → l → , → Shift → & → w → [ → m → o → [ → i → p → ; → Enter → q → s → o → r → t → Enter"}, {"type": "gap", "label": "Pause 39s"}, {"type": "burst", "start": "2469s", "end": "2509s", "keys": 21, "bs": 0, "enter": 2, "ctrl": 0, "bs_pct": "0%", "color": "#555", "width": 63, "height": 6, "seq": "i → n → t →   → Enter → r → e → u → t →   → 1 → ; → Enter → r → ex2 →   → t →   → 0 → ;"}, {"type": "gap", "label": "Pause 97s"}, {"type": "burst", "start": "2606s", "end": "2846s", "keys": 122, "bs": 0, "enter": 5, "ctrl": 0, "bs_pct": "0%", "color": "#4ec9b0", "width": 366, "height": 14, "seq": "Enter → t → y → p →   → s → t → Shift → { → Enter → i → n → t →   → e → ; → Enter → i → n → t →   → h → u → r → t → ; → Shift → M → o → n → s → t → r → e → r → ; → Shift → M → o → Shift"}, {"type": "gap", "label": "Pause 56s"}, {"type": "burst", "start": "2901s", "end": "3033s", "keys": 63, "bs": 0, "enter": 3, "ctrl": 0, "bs_pct": "0%", "color": "#4ec9b0", "width": 189, "height": 14, "seq": "Enter → r → e → t → u → r → n → ; → v → o → i → Shift → M → o → n → Shift → M → o → n → s → Shift → M → o → Shift → M → Shift → M → a → - → Shift → > → e → - → m → b → - → Shift → > → e → Shift"}, {"type": "gap", "label": "Pause 36s"}, {"type": "burst", "start": "3068s", "end": "3131s", "keys": 55, "bs": 0, "enter": 1, "ctrl": 0, "bs_pct": "0%", "color": "#4ec9b0", "width": 165, "height": 14, "seq": "i → f → Shift → ( → Shift → ) → Enter → Shiftx24 → ( → b → a → m → , → n → - → i → , → s → i → z → e → o → f → Shift → ( → Shift → M → , → c → m → p → ;"}, {"type": "gap", "label": "Pause 64s"}, {"type": "burst", "start": "3195s", "end": "3256s", "keys": 25, "bs": 0, "enter": 1, "ctrl": 0, "bs_pct": "0%", "color": "#555", "width": 75, "height": 6, "seq": "Enter → i → f → Shift → ( → t → p → . → t → =x2 → 0 → n → - → i → ; → r → e → s → t → = → n → - → i → ;"}, {"type": "gap", "label": "Pause 88s"}, {"type": "burst", "start": "3344s", "end": "3367s", "keys": 14, "bs": 0, "enter": 1, "ctrl": 0, "bs_pct": "0%", "color": "#555", "width": 42, "height": 6, "seq": "; → Enter → w → h → i → l → e → Shift → ( → i → Shift → ! → = → n"}, {"type": "gap", "label": "Pause 34s"}, {"type": "burst", "start": "3401s", "end": "3414s", "keys": 13, "bs": 0, "enter": 3, "ctrl": 0, "bs_pct": "0%", "color": "#555", "width": 39, "height": 6, "seq": "Enter → Shift → { → 1 → Enter → i → Shift → +x2 → ; → Enter → Shift → }"}, {"type": "gap", "label": "Pause 107s"}, {"type": "burst", "start": "3521s", "end": "3649s", "keys": 123, "bs": 0, "enter": 3, "ctrl": 0, "bs_pct": "0%", "color": "#4ec9b0", "width": 369, "height": 14, "seq": "b → e → a → k → r → e → a → k → Enter → r → e → s → t → = → n → - → i → ; → Enter → i → f → Shift → ( → r → e → s → t → Shiftx38 → < → =x2 → 0 → p → r → i → n → t → f → Shift → ( → \""}];
+var labels = JSON.parse(localStorage.getItem("labels_1162776") || "[]");
+var active = -1;
+var nBursts = 0;
+for (var i = 0; i < segs.length; i++) { if (segs[i].type === "burst") nBursts++; }
+
+function renderTL() {
+  var h = "";
+  for (var i = 0; i < segs.length; i++) {
+    var s = segs[i];
+    if (s.type === "gap") { h += "<div class=gap>" + s.label + "</div>"; continue; }
+    var cls = "seg"; if (i === active) cls += " marked";
+    for (var j = 0; j < labels.length; j++) { if (labels[j].seg === i) { cls += " marked"; break; } }
+    var title = s.start + "-" + s.end + " | " + s.keys + " keys | BS=" + s.bs + "(" + s.bs_pct + ")";
+    h += "<div class=\"" + cls + "\" style=\"width:" + s.width + "px;height:" + s.height + "px;background:" + s.color + "\" title=\"" + title + "\" onclick=\"clickSeg(" + i + ")\"></div>";
+  }
+  document.getElementById("tl").innerHTML = h;
+}
+
+function clickSeg(i) {
+  if (segs[i].type === "gap") return;
+  active = i; renderTL();
+  var s = segs[i];
+  document.getElementById("info").textContent = "[" + s.start + "-" + s.end + "] " + s.keys + "keys BS=" + s.bs + "(" + s.bs_pct + ") Enter=" + s.enter + " Ctrl=" + s.ctrl;
+  document.getElementById("detail").textContent = "Keys: " + s.seq;
+}
+
+function mark(v) {
+  if (active < 0) { alert("Click a bar first!"); return; }
+  var s = segs[active];
+  labels.push({seg: active, time: s.start + "-" + s.end, label: v, keys: s.keys, bs: s.bs, bs_pct: s.bs_pct});
+  localStorage.setItem("labels_1162776", JSON.stringify(labels));
+  document.getElementById("lc").textContent = labels.length;
+  document.getElementById("info").textContent = "Marked [" + s.start + "-" + s.end + "] as " + (v===1?"YES":v===0?"NO":"SKIP") + " | " + labels.length + " total";
+  active = -1; renderTL();
+}
+
+document.onkeydown = function(e) {
+  if (e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA") return;
+  if (e.key === "y" || e.key === "Y") mark(1);
+  if (e.key === "n" || e.key === "N") mark(0);
+  if (e.key === "s" || e.key === "S") mark(-1);
+};
+
+function saveLabels() {
+  var b = new Blob([JSON.stringify(labels, null, 2)], {type: "application/json"});
+  var a = document.createElement("a"); a.href = URL.createObjectURL(b);
+  a.download = "labels_1162776.json"; a.click();
+}
+
+document.getElementById("code").textContent = "#include<stdio.h>\n#include<string.h>\n#include<stdlib.h>\n#include<limits.h>\n\ntypedef struct{\n    int t;\n    int w;\n}player;\ntypedef struct{\n    int e;\n    int hurt;\n}Monster;\n\nint enemy(int m);\n{\n    int max=0,s[32],t=0;\n    while(m!=0)\n    {\n        s[t]=m%2;\n        m/=2;\n        t++;\n    }\n    int j=0;\n    for(int i=0;i<t;i++)\n    {\n        if(s[i]==1)j++;\n        else\n        {\n            if(max<j)max=j;\n            j=0;\n        }\n    }\n    return max;\n}\nint battle(player *p,Monster *en)\n{\n    en->hurt+=p->w;\n    if(en->hurt>=en->e)\n    {\n        p->w+=en->e;\n        //*e的变化\n        en->e=INT_MAX/2;\n        return 1;\n    }\n    else\n    {\n        p->t--;\n        en->hurt+=p->w;\n        return 0;\n    }\n}\nint position(const int k,int i,const int n)\n{\n    i=i+k;\n    if(i>=n)i%=n;\n    return i;\n}\n\nint cmp(const void *p1,const void *p2)\n{\n    Monster *a=(Monster *)p1;\n    Monster *b=(Monster *)p2;\n    return (a->e)-(b->e);\n}\n\nint main()\n{\n    player players;\n    int n,m;\n    while(scanf(\"%d%d%d%d\",&n,&players.t,&players.w,&m)!=EOF)\n    {\n        //读入\n        int *monster=(Monster *)malloc(sizeof(Monster)*n);\n        for(int i=0;i<n;i++)\n        {\n            scanf(\"%d\",&monster[i].e);\n            monster[i].hurt=0;\n        }\n        \n        int rest,k=enemy(m),p=0;//剩余怪兽数 rest；\n        int i=0;//死亡怪兽数 i;\n        while(i!=n)\n        {\n            p=(k,p,n-i);\n            if(battle(&players,&monster[p]))\n            {\n                qsort(monster,n-i,sizeof(Monster),cmp);\n                i++;\n            }\n            if(players.t==0)break;\n        }\n        rest=n-i;\n        if(rest==0)printf(\"Yes %d\",players.t);\n        else printf(\"No %d\",rest);\n    }\n    return 0;\n}";
+document.getElementById("lc").textContent = labels.length;
+renderTL();
+</script>
+</body>
+</html>

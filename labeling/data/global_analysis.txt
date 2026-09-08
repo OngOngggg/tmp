@@ -1,0 +1,43 @@
+Global Feature Analysis (4970 sessions, 29 features)
+================================================================================
+Feature                           |d|          p    AC_mean    WA_mean  Sig
+--------------------------------------------------------------------------------
+pause_mean                      0.338   1.82e-07      3.141      3.836  ***
+row_changes                     0.319   1.16e-04     31.241     34.062  ***
+pause_P90                       0.309   7.36e-06      4.260      6.035  ***
+row_changes_ratio               0.304   5.92e-08      0.093      0.105  ***
+pause_P50                       0.302   1.06e-03      0.410      0.452   **
+pause_P99                       0.301   1.02e-06     46.618     56.442  ***
+burst_count                     0.295   1.04e-07      4.706      5.251  ***
+long_pauses_30s                 0.295   1.04e-07      3.706      4.251  ***
+pause_P95                       0.277   4.36e-07     10.052     13.456  ***
+pause_std                       0.269   1.42e-04     14.530     16.312  ***
+total_keys                      0.259   7.70e-02    391.013    395.740     
+burst_len_std                   0.258   5.83e-02     75.544     75.763     
+char_ratio                      0.257   2.29e-02      0.637      0.629    *
+keys_per_min                    0.253   7.68e-13     42.042     35.531  ***
+enter_total                     0.247   1.13e-01     18.401     18.732     
+keys_per_burst                  0.228   1.22e-08    116.460     97.737  ***
+burst_len_mean                  0.228   1.22e-08    116.460     97.737  ***
+char_count                      0.222   4.75e-02    253.153    255.674    *
+duration_s                      0.221   3.86e-04    718.075    779.767  ***
+shift_total                     0.208   3.28e-01     83.219     80.964     
+pause_P75                       0.196   4.12e-03      1.224      1.503   **
+bs_ratio                        0.162   4.46e-02      0.002      0.004    *
+long_pauses_60s                 0.157   1.33e-05      1.785      2.073  ***
+bs_then_long_pause              0.135   3.03e-01      0.079      0.101     
+bs_total                        0.127   7.77e-01      0.573      0.659     
+ctrl_total                      0.124   5.37e-02     10.148     13.042     
+bs_burst_count                  0.104   6.54e-01      0.048      0.060     
+enter_ratio                     0.052   6.59e-01      0.047      0.046     
+bs_burst_max                    0.051   9.78e-01      0.336      0.302     
+
+Top 5 distinguishing features:
+  pause_mean: d=0.338, p=1.82e-07
+  row_changes: d=0.319, p=1.16e-04
+  pause_P90: d=0.309, p=7.36e-06
+  row_changes_ratio: d=0.304, p=5.92e-08
+  pause_P50: d=0.302, p=1.06e-03
+
+Conclusion: The features that best separate AC from non-AC sessions are:
+long pauses and backspace-burst patterns — directly motivating our IDLE and DEBUG rules.

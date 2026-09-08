@@ -1,0 +1,1557 @@
+﻿window_id,solution_id,judge,current_idle_s,keys_5s,keys_10s,keys_30s,text_keys_30s,keys_60s,text_keys_60s,backspace_30s,enter_30s,control_30s,clipboard_ops_30s,row_changes_30s,column_changes_30s,my_label,reason,key_summary,code_replay
+1061476-w005,1061476,WA,74.577,0,0,0,0,0,0,0,0,0,0,0,0,0,前100条已完成复核，沿用AI最终标签,""" -> Shiftx2 -> % -> Shift -> d -> , -> Enter -> i -> n -> t ->   -> a -> ; -> a -> ; -> Enter -> i -> f -> Shift -> ( -> a -> Shiftx4 -> % -> 2x2 -> =x2 -> 0 -> Shift -> { -> Enter -> o -> c -> u -> n -> t -> Shift -> +x2 -> ; -> Enter -> p -> r -> Shiftx7 -> ( -> "" -> % -> d -> , -> c -> o -> u -> ; -> Enter -> r -> t -> e -> u -> r -> 0 ->   -> ; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> "" -> % -> d -> , -> Shiftx6 -> & -> n -> Shiftx8 -> ! -> = -> Shift -> E -> O -> F -> Shift -> { -> Enter -> Shift -> } -> Backspace -> Enter -> [ -> 1 -> 0x5 -> 5 -> [","#include<stdio.h>
+int main(void {
+    int n;
+    int count=0;
+    int a[1000005<n;i++ {
+    while(scanf(""%d ,&n !=EOF {
+                   a ;
+           a%2==0 { [i
+        }   [i]nt++;
+        for(int i=0;i<n;i++ {
+            if(a[i %2==0 {
+    pr    (""%d ,count++;
+    }etur  0;
+
+        pr    (""%d ,count ;
+    }"
+1005008-w001,1005008,TLE,37.125,0,0,0,0,36,29,0,0,0,0,0,0,1,前100条已完成复核，沿用AI最终标签,"Shift -> # -> i -> n -> c -> l -> u -> d ->   -> e -> Shift -> < -> s -> d -> t -> i -> o -> . -> h -> Shift -> > -> Enter -> i -> t ->   -> n -> m -> a -> i -> n -> Shift -> ( -> { -> Enter -> Shift -> i -> n -> t ->   -> n -> ; -> Enter -> w -> h -> i -> l -> ; -> ex2 -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> d -> , -> n -> Shift -> ! -> = -> Shift -> E -> F -> O -> Shift -> { -> Enter","#include <stdio.h>
+int main( {
+    int n;
+    while(scanf(""%d ,n !=EOF {
+"
+1154790-w001,1154790,WA,22.039,0,0,4,4,8,8,0,0,0,0,0,3,-1,前100条已完成复核，沿用AI最终标签,2 ->   -> 1x2 -> Backspacex5 -> Enter ->   -> m -> = -> y -> / -> 6 -> ;,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        m=y/6;
+
+
+        1"
+1154790-w005,1154790,WA,0.491,2,2,3,3,3,3,0,0,0,0,1,2,-1,前100条已完成复核，沿用AI最终标签,2 ->   -> 1x2 -> Backspacex5 -> Enter ->   -> m -> = -> y -> / -> 6 -> ; -> m -> Enter -> i -> n -> y -> t ->   -> n -> = -> y -> Shift -> % -> 6 -> ; -> 6 -> Shiftx7 -> * -> m -> Shift -> + -> 1 -> Shiftx6 -> + -> 2 -> Shift -> * -> m -> 1 ->   -> 1 -> 0 -> bx2 -> 0x3 -> Control -> c -> Enterx2 -> Control -> c -> Control -> v -> Enter -> a -> n -> a -> i -> n -> t ->   -> l -> e -> a -> e -> x -> t -> r -> a -> = -> 0 -> ; -> x -> e -> t -> r -> a -> - -> e -> x -> t -> r -> a -> - -> 2 -> Shiftx12 -> * -> n -> = -> + -> 1 -> Shift -> Backspacex10 -> 7 ->   -> 1 -> 3 -> Control -> c -> = -> -,"
+
+
+
+
+
+
+
+
+
+
+
+          b   0
+                       b
+
+
+    int n=y%6;m
+     c  m=y/6; 6*+1
+    int extra=0;
+    v     a-1
+ c      1      n     =a
+
+           extra       +2*m 0
+
+
+    3
+                           -extra-2*n+1
+
+ c"
+1138163-w002,1138163,AC,53.681,0,0,0,0,10,4,0,0,0,0,0,0,0,前100条已完成复核，沿用AI最终标签,Shift -> Unidentified -> I -> N -> Unidentifiedx2 -> Shift -> n -> c -> l -> u -> e -> d -> Shift -> Unidentified -> Shift -> Unidentified -> s -> t -> d -> i -> o -> Unidentified -> h -> Enter -> Shift -> Unidentified -> i -> n -> c -> l -> u -> d -> e -> Shift -> Unidentifiedx2 -> s -> r -> i -> t -> n -> g -> Unidentified -> h -> Enter -> Unidentified -> Shift -> i -> n -> c -> l -> u -> d -> e -> Shiftx3 -> Unidentifiedx2 -> m -> a -> t -> h -> Unidentified -> h -> Enter -> Shift -> Unidentified -> i -> n -> c -> l -> i -> u -> d -> e -> Shift -> Unidentifiedx2 -> s -> t -> d -> l -> i -> b -> Unidentified -> h -> Enterx2 -> i -> t -> Unidentified -> n -> m -> a -> i -> n -> Unidentified -> Shiftx2 -> Unidentified -> Enterx2 -> r -> e -> u -> r -> n," Include stdio h
+ include string h
+ include math h
+ include stdlib h
+
+int main
+    int nl
+    whilenscanf   d   n  EOF
+        forint i   i nn i
+            for int j i   j  n j
+
+"
+1138163-w003,1138163,AC,131.234,0,0,0,0,0,0,0,0,0,0,0,0,0,前100条已完成复核，沿用AI最终标签,Shift -> Unidentified -> I -> N -> Unidentifiedx2 -> Shift -> n -> c -> l -> u -> e -> d -> Shift -> Unidentified -> Shift -> Unidentified -> s -> t -> d -> i -> o -> Unidentified -> h -> Enter -> Shift -> Unidentified -> i -> n -> c -> l -> u -> d -> e -> Shift -> Unidentifiedx2 -> s -> r -> i -> t -> n -> g -> Unidentified -> h -> Enter -> Unidentified -> Shift -> i -> n -> c -> l -> u -> d -> e -> Shiftx3 -> Unidentifiedx2 -> m -> a -> t -> h -> Unidentified -> h -> Enter -> Shift -> Unidentified -> i -> n -> c -> l -> i -> u -> d -> e -> Shift -> Unidentifiedx2 -> s -> t -> d -> l -> i -> b -> Unidentified -> h -> Enterx2 -> i -> t -> Unidentified -> n -> m -> a -> i -> n -> Unidentified -> Shiftx2 -> Unidentified -> Enterx2 -> r -> e -> u -> r -> n," Include stdio h
+ include string h
+ include math h
+ include stdlib h
+
+int main
+    int nl
+    whilenscanf   d   n  EOF
+        forint i   i nn i
+            for int j i   j  n j
+
+"
+1138163-w004,1138163,AC,208.787,0,0,0,0,0,0,0,0,0,0,0,0,0,前100条已完成复核，沿用AI最终标签,Shift -> Unidentified -> I -> N -> Unidentifiedx2 -> Shift -> n -> c -> l -> u -> e -> d -> Shift -> Unidentified -> Shift -> Unidentified -> s -> t -> d -> i -> o -> Unidentified -> h -> Enter -> Shift -> Unidentified -> i -> n -> c -> l -> u -> d -> e -> Shift -> Unidentifiedx2 -> s -> r -> i -> t -> n -> g -> Unidentified -> h -> Enter -> Unidentified -> Shift -> i -> n -> c -> l -> u -> d -> e -> Shiftx3 -> Unidentifiedx2 -> m -> a -> t -> h -> Unidentified -> h -> Enter -> Shift -> Unidentified -> i -> n -> c -> l -> i -> u -> d -> e -> Shift -> Unidentifiedx2 -> s -> t -> d -> l -> i -> b -> Unidentified -> h -> Enterx2 -> i -> t -> Unidentified -> n -> m -> a -> i -> n -> Unidentified -> Shiftx2 -> Unidentified -> Enterx2 -> r -> e -> u -> r -> n," Include stdio h
+ include string h
+ include math h
+ include stdlib h
+
+int main
+    int nl
+    whilenscanf   d   n  EOF
+        forint i   i nn i
+            for int j i   j  n j
+
+"
+1080234-w003,1080234,WA,53.878,0,0,0,0,6,6,0,0,0,0,0,0,0,前100条已完成复核，沿用AI最终标签,"Shiftx24 -> + -> Shiftx2 -> = -> Shift -> { -> 3 -> 1 -> , -> 2 -> 8 -> , -> 3 -> 1 -> , -> 3 -> 0 -> , -> 3 -> 1 -> , -> 3 -> 0 -> , -> 3 -> 1 -> , -> 3 -> 1 -> , -> 3 -> 0 -> , -> 1 -> , -> 3x2 -> 0 -> , -> 1 -> 3 -> Shiftx29 -> } -> Shiftx3 -> ; -> Enter -> i -> n -> t ->   -> t -> o -> a -> l -> t -> Shift -> _ -> d -> a -> y -> s -> = -> 0 -> ; -> t -> o -> t -> a -> l -> = -> m -> o -> [ -> m -> - -> 1 -> ; -> Enter -> i -> f -> Shift -> ( -> m -> = -> 2 -> Shift -> &x2 -> i -> s -> 9 -> Shift -> ( -> y -> Shift -> { -> Enter -> t -> Shift -> +x2 -> ; -> Enter","#include<stdio.h>
+int is_leap_year(int year {
+int return(year%4==0&&year%400!=0 ||(year%400==  ;
+    int y,m;
+    while(scanf(""%d/%d ,&y,&m !=EOF {
+
+
+    int month_ays [12 ={31,28,31,30,31,30,31,31,30,31,30,31};
+    int total_days=0;
+
+        votal     =mo        [m-1 ;
+        if(m=2&&is          (y  {
+            break;    ++;
+
+        if(m<0||m>12||y<0 {      ;
+            printf(""-1\n  ;
+    return 0;"
+1080234-w004,1080234,WA,2.818,5,5,7,6,7,6,0,0,1,1,1,5,0,前100条已完成复核，沿用AI最终标签,", -> 1 -> 3 -> Shiftx29 -> } -> Shiftx3 -> ; -> Enter -> i -> n -> t ->   -> t -> o -> a -> l -> t -> Shift -> _ -> d -> a -> y -> s -> = -> 0 -> ; -> t -> o -> t -> a -> l -> = -> m -> o -> [ -> m -> - -> 1 -> ; -> Enter -> i -> f -> Shift -> ( -> m -> = -> 2 -> Shift -> &x2 -> i -> s -> 9 -> Shift -> ( -> y -> Shift -> { -> Enter -> t -> Shift -> +x2 -> ; -> Enter -> p -> r -> i -> n -> t -> f -> Shift -> ( -> "" -> % -> d -> \ -> n -> , -> t -> o -> ; -> Enter -> r -> e -> t -> u -> r -> n ->   -> 0 -> ; -> Enter -> f -> i -> Shift -> ( -> m -> Shiftx4 -> < -> 0 -> Shift","#include<stdio.h>
+int is_leap_year(int year {
+int return(year%4==0&&year%400!=0 ||(year%400==  ;
+    int y,m;
+    while(scanf(""%d/%d ,&y,&m !=EOF {
+
+
+    int month_ays [12 ={31,28,31,30,31,30,31,31,30,31,30,31};
+    int total_days=0;
+
+        votal     =mo        [m-1 ;
+        if(m=2&&is          (y  {
+            break;    ++;
+
+        if(m<0||m>12||y<0 {      ;
+        else rintf(""-1\n  ;
+    return 0printf(""29\n
+            break;
+         else{
+
+                      v
+        }"
+1080234-w005,1080234,WA,76.142,0,0,0,0,0,0,0,0,0,0,0,0,0,前100条已完成复核，沿用AI最终标签,"Shiftx3 -> } -> Shiftx3 -> ; -> Enter -> i -> n -> t ->   -> t -> o -> a -> l -> t -> Shift -> _ -> d -> a -> y -> s -> = -> 0 -> ; -> t -> o -> t -> a -> l -> = -> m -> o -> [ -> m -> - -> 1 -> ; -> Enter -> i -> f -> Shift -> ( -> m -> = -> 2 -> Shift -> &x2 -> i -> s -> 9 -> Shift -> ( -> y -> Shift -> { -> Enter -> t -> Shift -> +x2 -> ; -> Enter -> p -> r -> i -> n -> t -> f -> Shift -> ( -> "" -> % -> d -> \ -> n -> , -> t -> o -> ; -> Enter -> r -> e -> t -> u -> r -> n ->   -> 0 -> ; -> Enter -> f -> i -> Shift -> ( -> m -> Shiftx4 -> < -> 0 -> Shift -> |x2 -> m -> Shift","#include<stdio.h>
+int is_leap_year(int year {
+int return(year%4==0&&year%400!=0 ||(year%400==  ;
+    int y,m;
+    while(scanf(""%d/%d ,&y,&m !=EOF {
+
+
+    int month_ays [12 ={31,28,31,30,31,30,31,31,30,31,30,31};
+    int total_days=0;
+
+        votal     =mo        [m-1 ;
+        if(m=2&&is          (y  {
+            break;    ++;
+
+        else 0||m>12||y<0 {      ;
+        else rintf(""-1\n  ;
+    return 0break;(""29\n
+         else{eak;
+            e{
+
+        }             v
+        }"
+1055866-w001,1055866,WA,29.157,0,0,6,0,6,0,0,0,3,0,0,0,-1,前100条已完成复核，沿用AI最终标签,Control -> Insert -> Control -> Insert -> Control -> Insert,
+1055866-w002,1055866,WA,53.081,0,0,0,0,6,0,0,0,0,0,0,0,-1,前100条已完成复核，沿用AI最终标签,Control -> Insert -> Control -> Insert -> Control -> Insert,
+1055866-w003,1055866,WA,5.051,0,2,2,0,2,0,0,0,1,0,0,0,-1,前100条已完成复核，沿用AI最终标签,Control -> Insert -> Control -> Insert -> Control -> Insert -> Control -> Insert,
+1055866-w004,1055866,WA,28.974,0,0,2,0,2,0,0,0,1,0,0,0,-1,前100条已完成复核，沿用AI最终标签,Control -> Insert -> Control -> Insert -> Control -> Insert -> Control -> Insert,
+1055866-w005,1055866,WA,0.291,8,9,15,7,17,7,0,1,3,0,3,7,-1,前100条已完成复核，沿用AI最终标签,Control -> Insert -> Control -> Insert -> Control -> Insert -> Control -> Insert -> Control -> Insert -> Control -> Insert -> Control -> Insert -> Enter -> i -> f -> Shift -> ( -> j -> Shift -> * -> j,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                if(j*j"
+1387653-w003,1387653,WA,42.225,0,0,0,0,8,7,0,0,0,0,0,0,0,前100条已完成复核，沿用AI最终标签,"Shift -> 9 -> Shift -> s -> Shiftx2 -> ( -> s -> i -> n -> t ->   -> l -> n -> e -> = -> s -> t -> r -> l -> e -> n -> Shiftx3 -> ( -> s -> ; -> Enter -> q -> s -> o -> Shiftx12 -> ( -> s -> , -> l -> e -> n -> , -> s -> i -> z -> e -> o -> f -> ( -> Shift -> i -> n -> t ->   -> , -> c -> o -> [ -> m -> ; -> Enter -> i -> n -> t ->   -> s -> u -> m -> = -> l -> 0x2 -> ; -> w -> Enter -> f -> o -> r -> Shift -> ( -> i -> n -> t -> i ->   -> = -> 0 -> ; -> i -> Shift -> > -> l -> e -> n -> ; -> i -> Shift -> +x2 -> Shift -> { -> Enter -> s -> u -> m -> Shift -> +","c   lude<stdio.h>
+int compare(const void *a,c     void *b {
+    ret n;(*(int* a-*(int* b ;
+
+
+    int s[100001 ;
+
+    while(scanf(""%d ,&n !=EOF){
+        int pd=0;=0;i<n;i++ {
+            pranf((""Yes\n[i; ;
+            cont    ;
+
+
+
+
+        int len=strlen(s ;
+        qso  (s,len,sizeof(int ,com     ;
+        int sum=0;
+        for(int=s[0;i>len;i++ {
+            sum+=s1i <   -1
+            if(sum<=s[i+1  {
+                pr    (""No\n  ;
+                pd=1;   ;
+
+
+        if(pd== {
+            pr    (""Yes\n  ;
+         elss{
+            pr    (""No\n  ;
+
+
+    ret    0;"
+1387653-w004,1387653,WA,44.461,0,0,0,0,5,5,0,0,0,0,0,0,0,前100条已完成复核，沿用AI最终标签,"i ->   -> = -> 0 -> ; -> i -> Shift -> > -> l -> e -> n -> ; -> i -> Shift -> +x2 -> Shift -> { -> Enter -> s -> u -> m -> Shift -> + -> = -> s -> [ -> i -> ; -> Enter -> i -> f -> Shift -> s -> u -> ( -> m -> Shift -> < -> = -> s -> [ -> i -> Shift -> + -> 1 -> Shift -> { -> Enter -> r -> p -> Shift -> ( -> "" -> N -> o -> \ -> n -> ; -> Enter -> c -> o -> n -> t -> l -> ; -> Enter -> i -> n -> t ->   -> p -> d -> = -> 0 -> ; -> p -> d -> = -> 1 -> = -> ; -> Enter -> i -> f -> Shift -> ( -> p -> f -> d -> 0 -> = -> Shift -> { -> p -> r -> Enter -> Shift -> ( -> Y -> e","c   lude<stdio.h>
+int compare(const void *a,c     void *b {
+    ret n;(*(int* a-*(int* b ;
+
+
+    int s[100001 ;
+
+    while(scanf(""%d ,&n !=EOF){
+        int pd=0;=0;i<n;i++ {
+            pranf((""Yes\n[i; ;
+            cont    ;
+
+
+
+
+        int len=strlen(s ;
+        qso  (s,len,sizeof(int ,com     ;
+        int sum=0;
+        int  long[0;i>len;i++ {
+            sum+=s1i <=  -1
+            if(s[i<<=um+{  {
+               spd=1; (""No\n  ;
+                pd=1;   ;
+            sum+=s[i ;
+
+        if(pd== {
+            pr    (""Yes\n  ;
+         elss{
+            pr    (""No\n  ;
+
+
+    ret    0;"
+1387653-w005,1387653,WA,312.878,0,0,0,0,0,0,0,0,0,0,0,0,0,前100条已完成复核，沿用AI最终标签,"i ->   -> = -> 0 -> ; -> i -> Shift -> > -> l -> e -> n -> ; -> i -> Shift -> +x2 -> Shift -> { -> Enter -> s -> u -> m -> Shift -> + -> = -> s -> [ -> i -> ; -> Enter -> i -> f -> Shift -> s -> u -> ( -> m -> Shift -> < -> = -> s -> [ -> i -> Shift -> + -> 1 -> Shift -> { -> Enter -> r -> p -> Shift -> ( -> "" -> N -> o -> \ -> n -> ; -> Enter -> c -> o -> n -> t -> l -> ; -> Enter -> i -> n -> t ->   -> p -> d -> = -> 0 -> ; -> p -> d -> = -> 1 -> = -> ; -> Enter -> i -> f -> Shift -> ( -> p -> f -> d -> 0 -> = -> Shift -> { -> p -> r -> Enter -> Shift -> ( -> Y -> e","c   lude<stdio.h>
+int compare(const void *a,c     void *b {
+    ret n;(*(int* a-*(int* b ;
+
+
+    int s[100001 ;
+
+    while(scanf(""%d ,&n !=EOF){
+        int pd=0;=0;i<n;i++ {
+            pranf((""Yes\n[i; ;
+            cont    ;
+
+
+
+
+        int len=strlen(s ;
+        qso  (s,len,sizeof(int ,com     ;
+        int sum=0;
+        int  long[0;i>len;i++ {
+            sum+=s1i <=  -1
+            if(s[i<<=um+{  {
+               spd=1; (""No\n  ;
+                pd=1;   ;
+            sum+=s[i ;
+
+        if(pd== {
+            pr    (""Yes\n  ;
+         elss{
+            pr    (""No\n  ;
+
+
+    ret    0;"
+1009937-w004,1009937,AC,28.223,0,0,3,2,24,22,0,1,0,0,0,1,1,前100条已完成复核，沿用AI最终标签,", -> s ->   -> Shiftx6 -> @ -> = -> CapsLock -> Shift -> ! -> = ->   -> Shift -> e -> o -> f -> Shift -> o -> f -> e -> CapsLock -> Shift -> E -> O -> F -> Shift -> { -> Enter -> s -> r -> t -> l -> Shift -> ( -> s -> ; -> i -> n -> t ->   -> l -> e -> n ->   -> = ->   -> Enter -> f -> o -> r -> Shift -> ( -> i -> n -> t ->   -> i ->   -> = ->   -> 0 -> ; ->   -> , ->   -> j ->  x2 -> l -> e -> = -> n -> - -> 1 -> i -> Shift -> < -> = -> j -> ; ->   -> i -> Shift -> +x2 -> , ->   -> j -> Shiftx2 -> -x2 -> Shift -> { -> Enter -> f -> Shift -> i -> ( -> s -> [ -> i ->   -> Shift -> !","#include<stdio.h>
+#includ <string.h>
+int main(){
+    cha  s[56 ;
+    while(scanf(""%s ,s  != EOF {
+        int len =
+        int flag = 0;, j = len-1  i<=j; i++, j-- {
+        int if(s26  = {0[;  {
+                break;(""
+                fla  = 1;
+
+        if(i==
+             els {
+           f    {
+            pri   (""NO\n  ;
+         els {
+            p     (""YES\n  ;"
+1008476-w002,1008476,AC,18.694,0,0,2,2,2,2,0,0,0,0,0,1,1,前100条已完成复核，沿用AI最终标签,"Shiftx4 -> # -> i -> n -> c -> l -> u -> d ->   -> e -> Shiftx27 -> < -> > -> Shiftx2 -> s -> t -> d -> i -> o -> . -> h -> Enter -> i -> n -> t -> m -> a ->   -> i -> n -> Shift -> ( -> ) -> { -> Enterx2 -> i -> n -> t ->   -> n -> ; -> w -> h -> i -> Enter -> e -> l -> ( -> ) -> Shift -> i -> n -> t ->   -> n -> s -> c -> a -> n -> f -> g -> Shift -> ( -> Shift -> "" -> % -> D -> d -> , -> Shift -> n -> & -> Shift -> 1 -> Shiftx3 -> ! -> = -> Shiftx13 -> E -> Shift -> O -> F -> Shift -> { -> Enter -> Control -> v -> - -> 1 -> Enterx2 -> Shift -> } -> Enter -> p -> Enter -> p -> Shift -> ( -> Shift -> ""","#include <stdio.h
+int main()
+{
+    int n;
+    while(scang(""%d ,&n !=EOF {
+        v              -1
+
+
+
+
+
+
+        }   p     (""%c ,'a++i ;
+        p"
+1050643-w003,1050643,AC,38.444,0,0,0,0,30,28,0,0,0,0,0,0,1,前100条已完成复核，沿用AI最终标签,"a -> i -> n -> Shift -> ( -> v -> o -> p -> i -> d -> i -> d ->   -> { -> Enter -> Shift -> c -> h -> a -> r ->   -> s -> t -> [ -> r -> 8 -> 1 -> [ -> ; -> Enter -> w -> h -> i -> l -> e ->   -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> ( -> Shift -> "" -> Shiftx11 -> % -> Shiftx2 -> s -> , -> s -> t -> r ->   -> Shift -> ! -> = ->   -> Shift -> O -> E -> F ->   -> Shift -> Enter -> i -> { -> Enter -> Shift -> # -> i -> n -> l -> c -> u -> d ->   -> e -> Shiftx2 ->   -> Shift -> < -> > -> t -> r -> s -> i -> n -> g -> , -> h -> . -> h -> Shift -> > -> n -> t ->  ","#include <stdio.h
+#includ  <string.h>
+int main(voidd {
+    char str[81[;
+    while (scanf(""%s ,str  != EOF  {
+        i
+         nt len - strlen(str ;]
+        char s[81i;= 0;i<len i++  {
+            if (str[it >= 'a  && str[i  <= 'z   {
+"
+1135122-w001,1135122,AC,26.876,0,0,1,1,3,2,0,1,0,0,0,0,1,前100条已完成复核，沿用AI最终标签,"Shift -> # -> i -> n -> l -> u -> d -> e -> c -> Shift -> < -> s -> d -> i -> t -> o -> . -> h -> Shift -> > -> Enter -> Shiftx6 -> # -> i -> n -> c -> Shift -> < -> t -> r -> i -> s -> n -> g -> . -> j -> h -> Shift -> > -> Enterx2 -> i -> n ->   -> t -> , -> m -> a -> m -> a -> n ->   -> i -> Shift -> ( -> Enter -> Shift -> { -> Enter -> i -> n -> t ->   -> Enter -> + -> t -> n ->   -> ix2 -> o -> j -> nx2 -> r -> t ->   -> x -> e -> i -> w -> hx2 -> i -> l -> e -> Shift -> ( -> s -> a -> n -> f -> c -> Shift -> ( -> "" -> % -> d -> , -> Shiftx13 -> & -> n -> Shift -> ~","#include<stdio.h>
+#inc    <string.h>
+
+int main(
+{
+    while(scanf(""%d ,&n !=EOF {
+        int x=(n-4 /3;
+        int L=x+2;
+        int W=2*L;
+
+        v
+
+
+
+"
+1135122-w005,1135122,AC,11.03,0,0,1,1,12,12,0,0,0,0,0,0,0,前100条已完成复核，沿用AI最终标签,Enter -> i -> n -> t ->   -> l -> a -> s -> t -> Shift -> _ -> c -> a -> h -> a -> r -> = -> - -> 0 -> 1 -> - -> 1 -> 2 -> 1 -> ; -> Enter -> f -> o -> r -> Shift -> ( -> i -> n ->   -> t -> Shift -> W -> c -> = -> Shift -> - -> W -> 1 -> ; -> c -> Shift -> > -> 0 -> ; -> c -> Shift -> _x2 -> -x2 -> Shift -> { -> Enter -> = -> i -> f -> Shift -> ( -> g -> r -> i -> d -> [ -> r -> [ -> c -> Shift -> ! -> = -> ' ->   -> Shift -> ! -> = ->   -> ' -> Shiftx4 -> &x2 -> g -> r -> i -> d -> [ -> r -> [ -> c -> Shift -> ! -> = -> 0 -> Shift -> { -> Enter -> l -> a -> = -> c,"#include<stdio.h>
+#inc    <string.h>
+
+int main(
+{
+    while(scanf(""%d ,&n !=EOF {
+        int x=(n-4 /3;
+        int L=x+2;
+        int W=2*L;
+
+        v
+
+
+
+
+        char grid[100={2000;
+
+        int row=0; for
+        for(int i=12i<=op     ;i++ {
+            int col=2*(i-1 ;
+            sp     (""\rid[row [col ,%""2d ""i  ;
+
+        for(int r=1;r<=x;r++ {
+            int num=mi          +r-1;
+            int col=2*(L-r-1 ;
+            s      (&g   [r [col ,""%02d ,num ;
+
+        row=x+1;
+        v
+
+
+
+
+        }
+        int total_rows=x+2;
+        for(int r=0;r<t         ;r++ {
+        inr int last_char=-1;
+            for(int c=W-1;c>=;c-- {
+                if(grid[r [c!!='  &&grid[r [c !=0 {
+                    la       =c;
+                    b    ;
+
+
+            if(l        >=0 {\
+                for(int c=0;c<=l        ;c++ {
+                    puchar (&rid [r [c  ;
+
+
+            p      ('\n  ;
+
+
+    return 0;"
+1145934-w002,1145934,AC,84.086,0,0,0,0,0,0,0,0,0,0,0,0,0,前100条已完成复核，沿用AI最终标签,"Control -> v -> Enter -> Shift -> } -> Shift -> 2 -> * -> Shift -> ( -> Shift -> ) -> n -> -x2 -> y -> x -> y -> Shift -> + -> x -> Shift -> + -> 1 -> ; -> y -> Shift -> < -> = -> n -> ; -> y -> Shiftx2 -> +x2 -> Shift -> { -> Enter -> p -> i -> r -> t -> m -> n -> t -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> . -> 2 -> d -> , -> i -> ; -> Enter -> p -> r -> n -> t -> f -> i -> Shift -> ( -> Shift -> "" -> \ -> n -> ;","v
+
+
+
+
+
+
+
+
+
+
+
+                          2*(   )
+
+
+
+
+                  y+x+1;y<=n;y++ {
+            printf(""%.2d ,i ;
+
+    }   printf(""\n  ;"
+1145934-w003,1145934,AC,188.511,0,0,0,0,0,0,0,0,0,0,0,0,0,前100条已完成复核，沿用AI最终标签,"Control -> v -> Enter -> Shift -> } -> Shift -> 2 -> * -> Shift -> ( -> Shift -> ) -> n -> -x2 -> y -> x -> y -> Shift -> + -> x -> Shift -> + -> 1 -> ; -> y -> Shift -> < -> = -> n -> ; -> y -> Shiftx2 -> +x2 -> Shift -> { -> Enter -> p -> i -> r -> t -> m -> n -> t -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> . -> 2 -> d -> , -> i -> ; -> Enter -> p -> r -> n -> t -> f -> i -> Shift -> ( -> Shift -> "" -> \ -> n -> ;","v
+
+
+
+
+
+
+
+
+
+
+
+                          2*(   )
+
+
+
+
+                  y+x+1;y<=n;y++ {
+            printf(""%.2d ,i ;
+
+    }   printf(""\n  ;"
+1145934-w004,1145934,AC,17.671,0,0,6,6,19,17,0,1,0,0,3,4,0,前100条已完成复核，沿用AI最终标签,"Control -> v -> Enter -> Shift -> } -> Shift -> 2 -> * -> Shift -> ( -> Shift -> ) -> n -> -x2 -> y -> x -> y -> Shift -> + -> x -> Shift -> + -> 1 -> ; -> y -> Shift -> < -> = -> n -> ; -> y -> Shiftx2 -> +x2 -> Shift -> { -> Enter -> p -> i -> r -> t -> m -> n -> t -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> . -> 2 -> d -> , -> i -> ; -> Enter -> p -> r -> n -> t -> f -> i -> Shift -> ( -> Shift -> "" -> \ -> n -> ; -> Enter -> p -> r -> i -> n -> t -> f -> Shift -> ( -> Shift -> "" -> \ -> n -> ; -> / -> * -> Enter -> * -> /","v
+
+
+
+
+
+
+
+
+
+        printf(""\n  ;
+        /*
+                          2*(   )
+
+
+
+
+                  y+x+1;y<=n;y++ {
+            printf(""%.2d ,i ;
+
+    }   */intf(""\n  ;"
+1145934-w005,1145934,AC,6.429,0,3,3,3,6,5,0,1,0,0,1,2,0,前100条已完成复核，沿用AI最终标签,"Control -> v -> Enter -> Shift -> } -> Shift -> 2 -> * -> Shift -> ( -> Shift -> ) -> n -> -x2 -> y -> x -> y -> Shift -> + -> x -> Shift -> + -> 1 -> ; -> y -> Shift -> < -> = -> n -> ; -> y -> Shiftx2 -> +x2 -> Shift -> { -> Enter -> p -> i -> r -> t -> m -> n -> t -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> . -> 2 -> d -> , -> i -> ; -> Enter -> p -> r -> n -> t -> f -> i -> Shift -> ( -> Shift -> "" -> \ -> n -> ; -> Enter -> p -> r -> i -> n -> t -> f -> Shift -> ( -> Shift -> "" -> \ -> n -> ; -> / -> * -> Enter -> * -> / -> Enter -> / -> * -> Enter -> Shift -> } -> Enter -> / -> *","v
+
+
+
+
+
+
+
+
+
+        printf(""\n  ;
+        /*
+                          2*(   )
+
+
+            }*
+
+        /*        y+x+1;y<=n;y++ {
+            printf(""%.2d ,i ;
+
+    }   */intf(""\n  ;"
+1359598-w001,1359598,CE,58.976,0,0,0,0,2,2,0,0,0,0,0,0,0,前100条已完成复核，沿用AI最终标签,"Shift -> i -> # -> c -> l -> n -> u -> d -> e -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> > -> Enter -> Shift -> i -> t -> n ->   -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> Shiftx4 -> Enter -> { -> Enter -> c -> a -> r -> h ->   -> a -> [ -> 4 -> 1 -> ; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> "" -> Shiftx8 -> % -> s -> , -> a -> Shift -> ! -> = -> e -> CapsLock -> O -> E -> F -> CapsLock -> Shiftx2 -> { -> Enterx2 -> Shiftx10 -> # -> Shift -> i -> n -> c -> l -> u -> d -> e -> Shift -> < -> s -> t -> i -> t -> i","#include<stdio.h>
+#include<string.h>
+{
+    char a[41 ;
+    while(scanf(""%s ,a !=EOF {
+
+        int len=strlen(a ;
+        int sign_1=0;
+        int count=0;gn_1=1;
+"
+1359598-w003,1359598,CE,37.132,0,0,0,0,13,8,0,0,0,0,0,0,1,前100条已完成复核，沿用AI最终标签,"Shiftx32 -> $ -> Shift -> |x2 -> a -> [ -> i -> =x2 -> ' -> Shift -> % -> Shiftx42 -> | -> Shift -> | -> Shiftx2 -> a -> [ -> i -> =x2 -> ' -> Shift -> { -> [ -> ] -> Shift -> |x2 -> a -> [ -> i -> =x2 -> ' -> ] -> Shiftx6 -> | -> Shiftx2 -> | -> a -> [ -> i -> =x2 -> 'x3 -> Shift -> "" -> 'x2 -> Shiftx7 -> |x2 -> a -> [ -> i -> =x2 -> / -> ' -> / -> Shiftx11 -> |x2 -> a -> [ -> i -> = -> ' -> \ -> Shift -> |x2 -> a -> [ -> i -> = -> ' -> Shift -> "" -> Shift -> |x2 -> a -> [ -> i -> = -> ' -> Shiftx3 -> ( -> | -> Shift -> | -> a -> [ -> i -> = -> ' -> = -> 0 -> ) -> Shift -> { -> Shift -> Enter -> s -> i -> g -> n -> Shift","#include<stdio.h>
+#include<string.h>
+{
+    char a[41 ;
+    while(scanf(""%s ,a !=EOF {
+
+        int len=strlen(a ;
+        int sign_1=0,sign_2=0,sign_3=0,sign_4=0,sign_5=0
+        int count=0;gn_1=1;
+
+c       count+=len;
+        for(int i=0;i<len;i++ {             c
+            if(a[i >'a &&a[i <'z   sign_3=1;
+            v        A         Z        4
+            if(a[i ==~ ||a[i = ='! ||a[i =='@ ||a[i =='# ||a[i =='$ ||a[i =='% ||a[i =='[]||a[i =='] ||a[i =='' ||a[i =='/ ||a[i ='\ ||a[i ='"" ||a[i ='( ||a[i ==')  {
+                sign_5=1;
+
+
+        for(int i=0;i<len-3;i++ {
+"
+1428909-w001,1428909,AC,30.163,0,0,0,0,64,55,0,0,0,0,0,0,1,前100条已完成复核，沿用AI最终标签,Control -> v -> Control -> Shiftx2 -> e -> c -> v -> t -> o -> r -> Shift -> < -> i -> n -> t -> Shift -> > ->   -> n -> u -> m -> s -> Shift -> ( -> b -> n -> ; -> Enterx2 -> f -> o -> t -> r -> Shift -> ( -> i -> n -> t ->   -> i -> 0 -> ; -> = -> i -> Shift -> < -> n -> ; -> Shift -> i -> +x2 ->   -> c -> i -> n -> Shift -> >x2 -> n -> u -> m -> [ -> s -> i -> ;,"
+
+
+
+
+
+
+        vector<int> nums(n ;
+        for(int i=0;i<n;i++  cin>>nums[i ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ v"
+1428909-w003,1428909,AC,57.094,0,0,0,0,7,6,0,0,0,0,0,0,1,前100条已完成复核，沿用AI最终标签,Control -> v -> Control -> Shiftx2 -> e -> c -> v -> t -> o -> r -> Shift -> < -> i -> n -> t -> Shift -> > ->   -> n -> u -> m -> s -> Shift -> ( -> b -> n -> ; -> Enterx2 -> f -> o -> t -> r -> Shift -> ( -> i -> n -> t ->   -> i -> 0 -> ; -> = -> i -> Shift -> < -> n -> ; -> Shift -> i -> +x2 ->   -> c -> i -> n -> Shift -> >x2 -> n -> u -> m -> [ -> s -> i -> ; -> Enter -> Shift -> { -> Enter -> i -> n -> t ->   -> a -> ; -> Enter -> c -> i -> n -> Shift -> >x2 -> a -> ; -> Enter -> i -> f -> Shift -> ( -> a -> Shift -> % -> 2 -> =x2 -> 0 ->   -> n -> u -> m -> s -> [ -> i -> =,"
+
+
+
+
+
+
+        vector<int> nums(n ;
+        for(int i=0;i<n;i++  cin>>nums[i ;
+        {
+            int a;
+            cin>>a;
+            nums[i==(a+1u/2;i =a/2;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ v"
+1006107-w001,1006107,WA,53.968,0,0,0,0,9,6,0,0,0,0,0,0,1,前100条已完成复核，沿用AI最终标签,"Shift -> # -> i -> n -> c -> l -> u -> d -> e ->   -> Shift -> > -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> > -> Enter -> i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> Enter -> Shift -> { -> Enter -> r -> e -> t -> u -> r -> n ->   -> 0 -> ; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> d -> , -> Shift -> & -> n -> Shift -> ! -> = -> Shift -> O -> E -> F -> Shift -> Enter -> [ -> Enterx2 -> Shift -> { -> Enterx2 -> i -> n -> t ->   -> n -> ; -> f -> o -> r -> Shift -> ( -> i -> t ->   -> n","#include <stdio.h>
+int main(
+{
+    int n;scanf(""%d ,&n !=EOF
+    {
+
+        for(int i=1;i<= ;i++
+        {
+            for(int j=1;j<i;j++
+            {
+"
+1006107-w003,1006107,WA,39.033,0,0,0,0,6,4,0,0,0,0,0,0,1,前100条已完成复核，沿用AI最终标签,"Shift -> > -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> > -> Enter -> i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> Enter -> Shift -> { -> Enter -> r -> e -> t -> u -> r -> n ->   -> 0 -> ; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> d -> , -> Shift -> & -> n -> Shift -> ! -> = -> Shift -> O -> E -> F -> Shift -> Enter -> [ -> Enterx2 -> Shift -> { -> Enterx2 -> i -> n -> t ->   -> n -> ; -> f -> o -> r -> Shift -> ( -> i -> t ->   -> n -> i -> = -> 0 -> ; -> i -> Shiftx11 -> < -> n -> 1 -> =","#include <stdio.h>
+int main(
+{
+    int n;scanf(""%d ,&n !=EOF
+    int count=0;
+
+        for(int i=1;i<= /2++
+        {             =
+            for(int j=n/2<n;j++
+            {
+                if
+                  ((i+j %(*+=)0
+                {
+                    count++;
+
+
+
+        printf(""%d\ncount ;"
+1006107-w004,1006107,WA,4.223,2,2,3,2,3,2,0,0,0,0,1,1,1,前100条已完成复核，沿用AI最终标签,"h -> Shift -> > -> Enter -> i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> Enter -> Shift -> { -> Enter -> r -> e -> t -> u -> r -> n ->   -> 0 -> ; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> d -> , -> Shift -> & -> n -> Shift -> ! -> = -> Shift -> O -> E -> F -> Shift -> Enter -> [ -> Enterx2 -> Shift -> { -> Enterx2 -> i -> n -> t ->   -> n -> ; -> f -> o -> r -> Shift -> ( -> i -> t ->   -> n -> i -> = -> 0 -> ; -> i -> Shiftx11 -> < -> n -> 1 -> = -> ; -> i -> Shiftx2 -> +x2 -> Enter -> Shift -> Enter -> Shift -> Enter -> Shift","#include <stdio.h>
+int main(
+{
+    int n;scanf(""%d ,&n !=EOF
+    int count=0;
+
+        for(int i=1;i<= /2++
+        {             = /2
+            for(int j=n/2<n;j++
+            {        =n/2   =
+                if
+                  ((i+j %(**=)0
+                {
+                    count++;
+
+
+
+        printf(""%d\ncount ;"
+1120829-w001,1120829,MLE,184.957,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,o -> r -> Shift -> ( -> f -> Shiftx2 -> # -> n -> i -> c -> l -> u -> d -> e -> Shift -> < -> > -> s -> t -> d -> i -> o -> . -> h -> Enter -> i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> Shift -> { -> Enterx4 -> r -> u -> t -> e -> n -> r ->   -> t -> u -> r -> n ->   -> ; -> 0 -> n -> t ->   -> ix2 -> n -> t ->   -> n -> u -> m -> [ -> 1x2 -> 0 -> ; -> Enter,"#include<stdio.h
+int main( {
+    int num[110 ;
+
+
+    return 0;"
+1120829-w004,1120829,MLE,26.601,0,0,4,4,8,8,0,0,0,0,0,0,0,没有明确卡住证据，保守不打扰,"u -> [ -> m -> 1x2 -> 0 -> i -> * -> y -> i -> n -> g -> =x2 -> 1 ->   -> o -> n -> c -> t -> n -> u -> i -> e -> ; -> Enter -> l -> s -> ex2 ->   -> Shift -> ( -> Shiftx3 -> { -> Enter -> n -> u -> m -> [ -> i -> * -> y -> i -> n -> g -> Control -> Insert -> =x2 -> 1 -> ; -> Enter -> f -> o -> r -> Shift -> ( -> i -> n ->   -> t -> a -> , -> b -> ; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> "" -> %x2 -> dx2 -> , -> Shift -> &x2 -> a -> , -> b -> Shiftx4 -> 1 -> = -> Shiftx2 -> ! -> = -> Shiftx4 -> E -> o -> Shift -> O -> F -> Shift","#include<stdio.h
+int main( {
+    int num[110 ={0}
+ r  int ying[3 ={2,3,6 ;
+            i=0;i<3;i++ {
+    retufor(int j=1;j*ying[i  110;j++ {
+            if(num[j*ying[i=1  continue;
+            else{(
+                num[j*ying[i=0;
+
+
+
+
+    int a,b;
+    while(scanf(""%d d ,&a, b !=EOF {
+        int count=0;
+        for(int i=a;i<=b;i++ {
+            if(num[i ==0  count++
+            elr
+        printf(""%d\n ,count ;
+"
+1297782-w001,1297782,AC,2.912,2,2,21,19,23,20,0,1,0,0,1,19,-1,按键/代码证据过少或回放异常，跳过,Shift -> # -> i -> n -> c -> u -> l -> d -> e -> Shift -> s -> < -> t -> d -> i -> o -> . -> h -> Shift -> > -> Enter -> i -> n,"#include<stdio.h>
+in"
+1136332-w001,1136332,AC,107.232,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> i -> n -> c -> l -> u -> e -> d -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> > -> Enterx2 -> i -> n -> t ->   -> m -> i -> n -> a -> Shift -> ( -> Shift -> Enter -> r -> { -> e -> u -> t -> r -> n ->   -> 0 -> ; -> Enter -> i -> n -> t ->   -> t -> ; -> s -> a -> c -> n -> f -> Shiftx10 -> Enter -> Shift -> s -> c -> a -> n -> Shift -> f -> ( -> Shift -> "" -> 5 -> Shift -> % -> d -> , -> Shift -> & -> t -> lx2 -> ; -> Enter -> w -> i -> h -> l -> e -> Shift -> ( -> t -> -x2 -> Shift -> { -> Enter","#include<stdio.h>
+
+int main( {
+    int t;scanf
+    scanf(""%d ,&t ;
+    while(t-- {
+"
+1136332-w002,1136332,AC,241.628,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> i -> n -> c -> l -> u -> e -> d -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> > -> Enterx2 -> i -> n -> t ->   -> m -> i -> n -> a -> Shift -> ( -> Shift -> Enter -> r -> { -> e -> u -> t -> r -> n ->   -> 0 -> ; -> Enter -> i -> n -> t ->   -> t -> ; -> s -> a -> c -> n -> f -> Shiftx10 -> Enter -> Shift -> s -> c -> a -> n -> Shift -> f -> ( -> Shift -> "" -> 5 -> Shift -> % -> d -> , -> Shift -> & -> t -> lx2 -> ; -> Enter -> w -> i -> h -> l -> e -> Shift -> ( -> t -> -x2 -> Shift -> { -> Enter","#include<stdio.h>
+
+int main( {
+    int t;scanf
+    scanf(""%d ,&t ;
+    while(t-- {
+"
+1136332-w003,1136332,AC,376.023,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> i -> n -> c -> l -> u -> e -> d -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> > -> Enterx2 -> i -> n -> t ->   -> m -> i -> n -> a -> Shift -> ( -> Shift -> Enter -> r -> { -> e -> u -> t -> r -> n ->   -> 0 -> ; -> Enter -> i -> n -> t ->   -> t -> ; -> s -> a -> c -> n -> f -> Shiftx10 -> Enter -> Shift -> s -> c -> a -> n -> Shift -> f -> ( -> Shift -> "" -> 5 -> Shift -> % -> d -> , -> Shift -> & -> t -> lx2 -> ; -> Enter -> w -> i -> h -> l -> e -> Shift -> ( -> t -> -x2 -> Shift -> { -> Enter","#include<stdio.h>
+
+int main( {
+    int t;scanf
+    scanf(""%d ,&t ;
+    while(t-- {
+"
+1136332-w004,1136332,AC,510.419,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> i -> n -> c -> l -> u -> e -> d -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> > -> Enterx2 -> i -> n -> t ->   -> m -> i -> n -> a -> Shift -> ( -> Shift -> Enter -> r -> { -> e -> u -> t -> r -> n ->   -> 0 -> ; -> Enter -> i -> n -> t ->   -> t -> ; -> s -> a -> c -> n -> f -> Shiftx10 -> Enter -> Shift -> s -> c -> a -> n -> Shift -> f -> ( -> Shift -> "" -> 5 -> Shift -> % -> d -> , -> Shift -> & -> t -> lx2 -> ; -> Enter -> w -> i -> h -> l -> e -> Shift -> ( -> t -> -x2 -> Shift -> { -> Enter","#include<stdio.h>
+
+int main( {
+    int t;scanf
+    scanf(""%d ,&t ;
+    while(t-- {
+"
+1136332-w005,1136332,AC,644.814,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> i -> n -> c -> l -> u -> e -> d -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> > -> Enterx2 -> i -> n -> t ->   -> m -> i -> n -> a -> Shift -> ( -> Shift -> Enter -> r -> { -> e -> u -> t -> r -> n ->   -> 0 -> ; -> Enter -> i -> n -> t ->   -> t -> ; -> s -> a -> c -> n -> f -> Shiftx10 -> Enter -> Shift -> s -> c -> a -> n -> Shift -> f -> ( -> Shift -> "" -> 5 -> Shift -> % -> d -> , -> Shift -> & -> t -> lx2 -> ; -> Enter -> w -> i -> h -> l -> e -> Shift -> ( -> t -> -x2 -> Shift -> { -> Enter","#include<stdio.h>
+
+int main( {
+    int t;scanf
+    scanf(""%d ,&t ;
+    while(t-- {
+"
+1299589-w003,1299589,AC,61.241,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> i -> n -> c -> l -> u -> d -> e -> Shift -> < -> t -> d -> s -> i -> . -> o -> h -> Shift -> > -> Enter -> n -> t ->   -> i -> m -> i -> n -> Shift -> a -> ( -> Shift -> { -> Enterx6 -> r -> e -> t -> u -> r ->   -> 0 -> n -> ; -> i -> n -> t ->   -> a -> , -> b -> , -> n -> ; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> d -> Shift -> ~ -> % -> Shift -> d -> , -> Shift -> % -> d -> , -> Shift -> & -> a -> , -> Shift -> & -> b -> , -> Shift -> & -> n -> Shift -> ! -> = -> CapsLock -> E -> O","#include<stdio.h>
+int main( {
+    int a,b,n;
+    while(scanf(""%d~%d,%d ,&a,&b,&n !=EOF {
+        if(a<0 {
+            printf(""Yes
+
+    return 0;"
+1299589-w004,1299589,AC,43.414,0,0,0,0,3,3,0,0,0,0,0,0,0,代码已有较大进展且当前空闲，优先不打扰,"Shift -> # -> i -> n -> c -> l -> u -> d -> e -> Shift -> < -> t -> d -> s -> i -> . -> o -> h -> Shift -> > -> Enter -> n -> t ->   -> i -> m -> i -> n -> Shift -> a -> ( -> Shift -> { -> Enterx6 -> r -> e -> t -> u -> r ->   -> 0 -> n -> ; -> i -> n -> t ->   -> a -> , -> b -> , -> n -> ; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> d -> Shift -> ~ -> % -> Shift -> d -> , -> Shift -> % -> d -> , -> Shift -> & -> a -> , -> Shift -> & -> b -> , -> Shift -> & -> n -> Shift -> ! -> = -> CapsLock -> E -> O","#include<stdio.h>
+int main( {
+    int a,b,n;
+    while(scanf(""%d~%d,%d ,&a,&b,&n !=EOF {
+        if(a<0 {
+            printf(""Yes\n  ;
+
+    retuelse{
+            int m=b-a"
+1249728-w001,1249728,WA,21.088,0,0,1,1,3,2,0,0,0,0,0,0,-1,低活动可能是思考/阅读，证据不足,"Shift -> # -> Shift ->   -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> Enterx2 -> > -> i -> n -> t ->   -> m -> i -> n -> a -> Shift -> ( -> Enter -> { -> Enter -> Shift -> s -> c -> a -> i -> n -> t ->   -> w -> h -> i -> l -> e -> Shift -> ( -> s ->   -> c -> a -> n -> f -> ( -> Shift -> "" -> Shiftx2 -> % -> d -> , -> & -> Shift -> n ->  x2 -> Shift -> ! -> = ->   -> CapsLock -> E -> O -> F -> Enter -> Shift -> CapsLock -> { -> Enterx2 -> r -> e -> t -> u -> r -> n ->   -> 0 -> ; -> Shift -> Enter -> Shift -> i -> n -> t -> n -> ; ->   -> Enter -> t -> n -> i -> n -> t -> a ->  ","#        <stdio.h>
+int a
+int main(
+{
+    int n; scanf(""%d, &n  != EOF
+    {                ,
+
+
+    return 0;
+
+ s"
+1249728-w002,1249728,WA,148.655,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> Shift ->   -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> Enterx2 -> > -> i -> n -> t ->   -> m -> i -> n -> a -> Shift -> ( -> Enter -> { -> Enter -> Shift -> s -> c -> a -> i -> n -> t ->   -> w -> h -> i -> l -> e -> Shift -> ( -> s ->   -> c -> a -> n -> f -> ( -> Shift -> "" -> Shiftx2 -> % -> d -> , -> & -> Shift -> n ->  x2 -> Shift -> ! -> = ->   -> CapsLock -> E -> O -> F -> Enter -> Shift -> CapsLock -> { -> Enterx2 -> r -> e -> t -> u -> r -> n ->   -> 0 -> ; -> Shift -> Enter -> Shift -> i -> n -> t -> n -> ; ->   -> Enter -> t -> n -> i -> n -> t -> a ->  ","#        <stdio.h>
+int a
+int main(
+{
+    int n; scanf(""%d, &n  != EOF
+    {                ,
+
+
+    return 0;
+
+ s"
+1249728-w003,1249728,WA,276.222,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> Shift ->   -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> Enterx2 -> > -> i -> n -> t ->   -> m -> i -> n -> a -> Shift -> ( -> Enter -> { -> Enter -> Shift -> s -> c -> a -> i -> n -> t ->   -> w -> h -> i -> l -> e -> Shift -> ( -> s ->   -> c -> a -> n -> f -> ( -> Shift -> "" -> Shiftx2 -> % -> d -> , -> & -> Shift -> n ->  x2 -> Shift -> ! -> = ->   -> CapsLock -> E -> O -> F -> Enter -> Shift -> CapsLock -> { -> Enterx2 -> r -> e -> t -> u -> r -> n ->   -> 0 -> ; -> Shift -> Enter -> Shift -> i -> n -> t -> n -> ; ->   -> Enter -> t -> n -> i -> n -> t -> a ->  ","#        <stdio.h>
+int a
+int main(
+{
+    int n; scanf(""%d, &n  != EOF
+    {                ,
+
+
+    return 0;
+
+ s"
+1249728-w004,1249728,WA,403.789,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> Shift ->   -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> Enterx2 -> > -> i -> n -> t ->   -> m -> i -> n -> a -> Shift -> ( -> Enter -> { -> Enter -> Shift -> s -> c -> a -> i -> n -> t ->   -> w -> h -> i -> l -> e -> Shift -> ( -> s ->   -> c -> a -> n -> f -> ( -> Shift -> "" -> Shiftx2 -> % -> d -> , -> & -> Shift -> n ->  x2 -> Shift -> ! -> = ->   -> CapsLock -> E -> O -> F -> Enter -> Shift -> CapsLock -> { -> Enterx2 -> r -> e -> t -> u -> r -> n ->   -> 0 -> ; -> Shift -> Enter -> Shift -> i -> n -> t -> n -> ; ->   -> Enter -> t -> n -> i -> n -> t -> a ->  ","#        <stdio.h>
+int a
+int main(
+{
+    int n; scanf(""%d, &n  != EOF
+    {                ,
+
+
+    return 0;
+
+ s"
+1249728-w005,1249728,WA,531.356,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> Shift ->   -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> Enterx2 -> > -> i -> n -> t ->   -> m -> i -> n -> a -> Shift -> ( -> Enter -> { -> Enter -> Shift -> s -> c -> a -> i -> n -> t ->   -> w -> h -> i -> l -> e -> Shift -> ( -> s ->   -> c -> a -> n -> f -> ( -> Shift -> "" -> Shiftx2 -> % -> d -> , -> & -> Shift -> n ->  x2 -> Shift -> ! -> = ->   -> CapsLock -> E -> O -> F -> Enter -> Shift -> CapsLock -> { -> Enterx2 -> r -> e -> t -> u -> r -> n ->   -> 0 -> ; -> Shift -> Enter -> Shift -> i -> n -> t -> n -> ; ->   -> Enter -> t -> n -> i -> n -> t -> a ->  ","#        <stdio.h>
+int a
+int main(
+{
+    int n; scanf(""%d, &n  != EOF
+    {                ,
+
+
+    return 0;
+
+ s"
+1132940-w005,1132940,AC,327.613,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"; -> Enterx3 -> v -> o -> i -> d ->   -> m -> a -> x -> Shiftx2 -> i -> n -> t -> ( ->   -> a -> , -> i -> n -> t ->   -> b -> Shift -> { -> Enter -> r -> e -> t ->   -> Shiftx7 -> ( -> a ->   -> Shift -> > ->   -> b ->   -> Shift -> ? ->   -> a ->   -> : -> Shift ->   -> b -> ; -> Enter -> i -> n -> t ->   -> m -> x -> a ->   -> Shift -> _ -> l -> e -> nx2 ->   -> = ->   -> m -> a -> x -> ( -> Shift -> l -> 1 -> ; -> , -> l -> Enter -> ; -> f -> o -> r -> Shift -> ( -> i -> n -> t ->   -> n ->   -> = ->   -> 0 -> i -> j -> ; ->   -> i ->   -> Shift -> <","#include <stdio.h
+#include <string.h
+    charbefore[1005 ;
+void ma(int a,int b;{
+    retle( (a > b%   a   b;   ,a      != EOF {
+
+        int len_1 = strlen(b      ;
+        int len_2 = strlen(af    ;
+
+
+
+
+
+        int n = max(l   1,l     ;
+        int str[1   0; i < n; i ++{
+
+            s   tem    ]   [i  -  0 (  + (a    [i  - '0  (-   - 'a
+
+
+
+
+
+
+
+"
+1055705-w004,1055705,WA,1.539,6,6,14,8,14,8,0,0,3,2,2,7,0,最近仍在持续输入，不应因活动本身弹窗,"v -> , -> Controlx8 -> Shift -> & -> Control -> v -> ; -> m -> a -> e -> n -> c -> Enter -> Control -> v -> t -> o -> t -> a -> l -> = -> Controlx4 -> v -> Control -> = -> - -> Control -> = -> Control -> - -> Control -> = -> Control -> = -> Control -> -x2 -> Shift -> + -> Controlx5 -> v -> Shift -> + -> Control -> v -> c -> Control -> Insert -> e -> n -> m -> a -> r -> hx2 -> t -> ; -> Enter -> q -> s -> o -> t -> r -> Shift -> ( -> s -> d -> . -> t -> ,x2 -> n -> s -> i -> z -> o -> ex2 -> o -> d -> Shift -> ( -> =x2 -> f -> Shift -> ( -> sx2 -> t -> r -> u -> c -> t ->   -> s -> t -> d -> u -> e -> n -> t -> , -> m -> p","#include<stdio.h>'
+#include<stdlib.h>
+#include<string.h>
+{ char id[6 ;
+ ;int math;
+  int english;
+  int c;
+  int total
+
+    return 0;
+
+
+ ;
+int cmp(const void*a,const void&*b
+{
+    struct student*c=(v               a;
+    v              y=(v               b;
+    if(y->total == x->totallal;
+    {
+        return strcmp(x->id,y->id ;
+
+
+
+
+
+
+
+
+    int n;
+    while(scaf( ""%d ,&n !=EOF
+    {
+        struct studuen std[n ;
+        for(int i=0;i<n;i++
+        {
+            scaf( ""%s %d %d %d ,std[i .idc&v      ma,&v        env         ;   cc
+            v      total=v      c +v     en +v          math;
+
+        qsort(std,n,sizeof(struct student ,cmp ;
+        printf(""BEST\n  ;
+        printf(""%s %d %d %d\nv   0         0           0              0      c
+        printf(""WOR%d n  ;                 cv                                ;
+        v                    \n    n-1         n-1           n-1              n-1
+                   %d                                                                  ;"
+1272023-w003,1272023,TLE,115.187,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"n -> t -> ; -> , -> c -> o -> u -> n -> t -> ; -> Enter -> i -> n -> t ->   -> i -> s -> p -> r -> i -> m -> e -> Shift -> ( -> i -> n -> t ->   -> n -> Enter -> Shift -> { -> Enter -> i -> f -> Shift -> n -> ( -> Shift -> < -> = -> 1 -> Enter -> r -> e -> t -> u -> r -> n ->   -> ; -> Enter -> 0 -> i -> f -> Shift -> n -> ( -> Shift -> < -> = -> 3 -> Enter -> r -> Alt ->   -> 1 -> ; -> Enter -> i -> f -> Shift -> ( -> n -> Shiftx5 -> 2 -> % -> =x2 -> 0 -> Shift -> |x2 -> n -> Shift -> % -> 3 -> =x2 -> 0 -> Enter -> r ->   -> 0 -> ; -> Enter ->   -> Enter -> f -> o -> Shift -> ( -> r","#include <stdio.h>
+
+int isprime(long long
+{
+    if(n<=1
+    return 0; ,&N ;
+    if(n<=3--
+    r      1;
+    if(n%2==0||n%3==0 a,b,i,count;
+    r   sc 0;(""%lld%lld ,&a,&b ;
+    for(long long int i=5;i*i<=n;i+=6
+    {       if(isprime(i
+        if(n%i==0||n%(i+2 ==0
+        r      0;
+        printf(""%lld\n ,count ;
+    r      1;
+
+
+
+
+
+
+
+
+                          k
+
+            k   k    k
+                       k"
+1272023-w004,1272023,TLE,164.181,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,m -> e -> Shift -> ( -> i -> n -> t ->   -> n -> Enter -> Shift -> { -> Enter -> i -> f -> Shift -> n -> ( -> Shift -> < -> = -> 1 -> Enter -> r -> e -> t -> u -> r -> n ->   -> ; -> Enter -> 0 -> i -> f -> Shift -> n -> ( -> Shift -> < -> = -> 3 -> Enter -> r -> Alt ->   -> 1 -> ; -> Enter -> i -> f -> Shift -> ( -> n -> Shiftx5 -> 2 -> % -> =x2 -> 0 -> Shift -> |x2 -> n -> Shift -> % -> 3 -> =x2 -> 0 -> Enter -> r ->   -> 0 -> ; -> Enter ->   -> Enter -> f -> o -> Shift -> ( -> r -> i -> n -> t ->   -> l -> o -> g ->   -> l -> o -> nx2 -> g ->   -> i -> n -> t ->   -> i -> = -> 5,"#include <stdio.h>
+
+int isprime(long long
+{
+    if(n<=1
+    return 0; ,&N ;
+    if(n<=3--
+    r      1;
+    if(n%2==0||n%3==0 a,b,i,count;
+    r   sc 0;(""%lld%lld ,&a,&b ;
+    for(long long int i=5;i*i<=n;i+=6
+    {       if(isprime(i
+        if(n%i==0||n%(i+2 ==0
+        r      0;
+        printf(""%lld\n ,count ;
+    r      1;
+
+
+
+
+
+
+
+
+                          k
+
+            k   k    k
+                       k  7
+"
+1272023-w005,1272023,TLE,369.497,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,m -> e -> Shift -> ( -> i -> n -> t ->   -> n -> Enter -> Shift -> { -> Enter -> i -> f -> Shift -> n -> ( -> Shift -> < -> = -> 1 -> Enter -> r -> e -> t -> u -> r -> n ->   -> ; -> Enter -> 0 -> i -> f -> Shift -> n -> ( -> Shift -> < -> = -> 3 -> Enter -> r -> Alt ->   -> 1 -> ; -> Enter -> i -> f -> Shift -> ( -> n -> Shiftx5 -> 2 -> % -> =x2 -> 0 -> Shift -> |x2 -> n -> Shift -> % -> 3 -> =x2 -> 0 -> Enter -> r ->   -> 0 -> ; -> Enter ->   -> Enter -> f -> o -> Shift -> ( -> r -> i -> n -> t ->   -> l -> o -> g ->   -> l -> o -> nx2 -> g ->   -> i -> n -> t ->   -> i -> = -> 5,"#include <stdio.h>
+
+int isprime(long long
+{
+    if(n<=1
+    return 0; ,&N ;
+    if(n<=3--
+    r      1;
+    if(n%2==0||n%3==0 a,b,i,count;
+    r   sc 0;(""%lld%lld ,&a,&b ;
+    for(long long int i=5;i*i<=n;i+=6
+    {       if(isprime(i
+        if(n%i==0||n%(i+2 ==0
+        r      0;
+        printf(""%lld\n ,count ;
+    r      1;
+
+
+
+
+
+
+
+
+                          k
+
+            k   k    k
+                       k  7
+"
+1259801-w004,1259801,AC,16.562,0,0,16,15,36,30,0,1,0,0,1,13,0,没有明确卡住证据，保守不打扰,"# -> i -> n -> c -> Shift -> l -> u -> d -> Shift -> < -> e -> s -> d -> t -> i -> o -> . -> h -> Shift -> Enter -> > -> n -> t ->   -> m -> i -> a -> i -> Shift -> N -> ( -> Shift -> ( -> n -> Shift -> { -> Enter -> ' -> Enterx3 -> r -> t -> u -> r -> e -> n ->   -> 0 -> ; -> Enter -> Shift -> } -> i -> n -> t -> s ->   -> , -> e -> , -> r -> Enter -> ; -> w -> h -> i -> e -> Shift -> l -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> "" -> s -> Shift -> ~ -> e -> , -> r -> , -> Shift -> & -> s -> Shift -> "" -> % -> d -> Shift -> ~ -> Shift -> d -> % -> , -> Shift -> d -> %","#include<stdio.h>
+int main(
+{'
+    int s,e,r;
+    while(scanf(""%d~%d,%ds ,&s,&e,&r ;
+}   {
+        if(e-s>r||
+        {
+            printf(""Yes\n  ;
+            continue;
+
+        printf(""No\n  ;
+"
+1259801-w005,1259801,AC,17.817,0,0,9,6,10,7,0,0,0,0,0,7,0,没有明确卡住证据，保守不打扰,"# -> i -> n -> c -> Shift -> l -> u -> d -> Shift -> < -> e -> s -> d -> t -> i -> o -> . -> h -> Shift -> Enter -> > -> n -> t ->   -> m -> i -> a -> i -> Shift -> N -> ( -> Shift -> ( -> n -> Shift -> { -> Enter -> ' -> Enterx3 -> r -> t -> u -> r -> e -> n ->   -> 0 -> ; -> Enter -> Shift -> } -> i -> n -> t -> s ->   -> , -> e -> , -> r -> Enter -> ; -> w -> h -> i -> e -> Shift -> l -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> "" -> s -> Shift -> ~ -> e -> , -> r -> , -> Shift -> & -> s -> Shift -> "" -> % -> d -> Shift -> ~ -> Shift -> d -> % -> , -> Shift -> d -> %","#include<stdio.h>
+int main(
+{'
+    int s,e,r;
+    while(scanf(""%d~%d,%ds ,&s,&e,&r!=EOF
+}   {
+        if(e-s>r||
+        {
+            printf(""Yes\n  ;
+            continue;
+
+        printf(""No\n  ;
+"
+1166905-w003,1166905,WA,292.125,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,n -> l -> o -> n -> g ->   -> i -> n -> t ->   -> a -> t -> a -> d -> [ -> Shift -> N -> + -> 5 -> ;x2 -> i -> Shift -> < -> = -> Shift -> N -> ; -> i -> +x2 -> Shiftx2 -> { -> Enter -> d -> a -> t -> a -> [ -> i -> = -> 1 -> ; -> Enter -> f -> o -> r -> Shift -> ( -> i -> n -> t -> i -> = -> 2 -> ; -> i -> Shiftx41 -> * -> Shift -> i -> Shift -> = -> Shift -> N -> ; -> i -> Shift -> +x2 -> Shift -> Enter -> { -> f -> Shift -> ( -> i ->   -> Shiftx5 -> < -> d -> a -> t -> a -> [ -> i -> Shift -> { -> Enter -> f -> o -> r -> Shift -> ( -> i -> n -> t ->   -> j -> = -> 2 -> Shiftx6 -> *,"#       <stdio.h>
+
+#define N_MAX vt nn {
+    for(int i=2
+void long intint n[N+5n;x=EOF
+    n=N    ;
+int         int data[
+               ;i<=N;i++ {
+        data[i =1;
+
+    for(int =2;i*i=<;i++ {
+        if(data[i  {
+            for(Nnt j=2*i;j<=N;j+=i {
+                n--;[j =0;
+
+
+
+
+
+int calculate(int n {
+"
+1166905-w004,1166905,WA,129.525,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,; -> i -> Shift -> < -> = -> Shift -> N -> ; -> i -> +x2 -> Shiftx2 -> { -> Enter -> d -> a -> t -> a -> [ -> i -> = -> 1 -> ; -> Enter -> f -> o -> r -> Shift -> ( -> i -> n -> t -> i -> = -> 2 -> ; -> i -> Shiftx41 -> * -> Shift -> i -> Shift -> = -> Shift -> N -> ; -> i -> Shift -> +x2 -> Shift -> Enter -> { -> f -> Shift -> ( -> i ->   -> Shiftx5 -> < -> d -> a -> t -> a -> [ -> i -> Shift -> { -> Enter -> f -> o -> r -> Shift -> ( -> i -> n -> t ->   -> j -> = -> 2 -> Shiftx6 -> * -> i -> ; -> j -> Shift -> < -> = -> Shift -> N -> ; -> j -> Shift -> +x2 -> = -> i -> Shift -> { -> Enter -> d -> a,"#       <stdio.h>
+
+#define N_MAX vt nn {
+    for(int i=2
+void long intint n[N+5n;x=EOF
+    n=N    ;
+int         int data[
+               ;i<=N;i++ {
+        data[i =1;
+
+    for(int =2;i*i=<;i++ {
+        if(data[i  {
+            for(Nnt j=2*i;j<=N;j+=i {
+                n--;[j =0;
+
+
+
+     calcula  ( {
+    c
+int calculate(int n {
+"
+1380331-w002,1380331,AC,77.157,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> ; -> t -> m -> p -> Controlx2 -> Enter -> n -> s -> t -> r -> c -> o -> p -> y -> Shift -> ( -> n -> a -> q -> m -> 1 -> , -> t -> m -> p -> ; -> Shiftx3 -> s -> t -> r -> Shift -> ( -> n -> 1 -> 2 -> , -> t -> m -> p -> Shiftx2 -> + -> i -> ; -> Shiftx3 -> + -> 1 -> Shift -> c -> Controlx2 -> c -> Alt","
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c           c                           ;
+            tmp
+            strcpy(n1,tmp ;
+            str   (n2,tmp+i+1"
+1070364-w003,1070364,WA,156.702,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> i -> n -> c -> l -> u -> d -> Shift -> e -> Shift -> < -> s -> t -> d -> i -> o -> h -> . -> Shift -> > -> Enter -> i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ) -> Shift -> ( -> v -> i -> o -> i -> d -> Shift -> { -> Enter -> i -> t ->   -> a -> n -> , -> b -> ; -> Enter -> s -> c -> a -> n -> g -> f -> Shift -> ( -> "" -> % -> d -> Shift -> % -> d -> , -> Shiftx6 -> & -> a -> , -> Shiftx10 -> & -> b -> ; -> Enter -> f -> o -> r -> Shift -> ( -> b -> Shift -> > -> 0 -> Shift -> { -> Enterx2 -> n -> t ->   -> i -> c -> ; -> c -> = -> a -> Shiftx21 -> % -> b -> ;","#include<stdio.h>
+int main(void {
+    int a,b;
+    scanf(""%d%d ,&a,&b ;
+    int c;0 {
+    while
+        c=a%b;
+        a=b;
+        b=c;
+
+    printf(""%d ,a ;
+    return 0;"
+1070364-w005,1070364,WA,74.963,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Enter -> i -> t ->   -> a -> n -> , -> b -> ; -> Enter -> s -> c -> a -> n -> g -> f -> Shift -> ( -> "" -> % -> d -> Shift -> % -> d -> , -> Shiftx6 -> & -> a -> , -> Shiftx10 -> & -> b -> ; -> Enter -> f -> o -> r -> Shift -> ( -> b -> Shift -> > -> 0 -> Shift -> { -> Enterx2 -> n -> t ->   -> i -> c -> ; -> c -> = -> a -> Shiftx21 -> % -> b -> ; -> Enter -> a -> = -> b -> ; -> Enter -> b -> = -> c -> ; -> Enter -> p -> r -> i -> n -> t -> f -> Shift -> ( -> "" -> % -> d -> , -> a -> ; -> Enter -> r -> e -> y -> t -> u -> r -> n ->   -> 0 -> ; -> e -> w -> f -> h -> i","cinclude<stdio.h>
+int main(void {
+    int a,b;
+    while(""%d%d ,&a,&b ;     !=EOF){
+    int c;0 {
+    while
+        c=a%b;
+        a=b;
+        b=c;
+
+    printf(""%d\na ;
+    }eturn 0;"
+1271224-w001,1271224,AC,42.727,0,0,0,0,4,1,0,0,0,0,0,0,1,近期输入很少但仍在任务中，可能卡住，可考虑弹窗,"ArrowDownx8 -> ArrowUpx2 -> ArrowDownx3 -> ArrowUpx8 -> ArrowDown -> ArrowUpx2 -> Shift -> # -> i -> n -> l -> c -> u -> d -> e -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> > -> Enter -> i -> n -> t ->   -> m -> a -> n -> i -> ( -> Shiftx2 -> { -> Enter -> w -> h -> i -> l -> e -> ( -> Shift -> c -> s -> a -> f -> n -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> d -> , -> n -> Shift -> & -> = -> Shiftx25 -> ! -> Shiftx2 -> E -> O -> F -> Shift -> { -> Enter -> i -> n -> t ->   -> n -> ; -> Enter -> i -> n -> t ->   -> z -> h -> a -> n -> g -> [ -> a -> i -> c -> Control -> ArrowRightx2","#include<stdio.h>
+int main( {
+    while(scanf(""%d ,&  ! EOF {
+        int n;
+        int zhang[aic"
+1440765-w001,1440765,AC,84.426,0,0,0,0,0,0,0,0,0,0,0,0,-1,按键/代码证据过少或回放异常，跳过,Control -> v -> Shift -> s -> t -> i -> r -> n -> g ->   -> s -> Controlx2 -> t -> r -> i -> s -> n -> g -> s ->   -> ; -> Enter,"v
+
+
+
+
+string s;
+"
+1116414-w002,1116414,WA,39.597,0,0,0,0,48,21,0,0,0,0,0,0,-1,按键/代码证据过少或回放异常，跳过,Controlx5 -> v -> - -> n ->  x2 -> Shift -> &x2 -> n -> Shift -> ! -> = -> 0 -> Shift -> &x2 -> Shift -> ! -> m -> = -> 0 -> Enter -> i -> f -> Shift -> ( -> * -> Shiftx22 -> n -> =x2 -> 0,"v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    &&n!=0&&m!=0
+                            n
+
+
+        if(n==0"
+1116414-w003,1116414,WA,87.256,0,0,0,0,0,0,0,0,0,0,0,0,-1,按键/代码证据过少或回放异常，跳过,Controlx5 -> v -> - -> n ->  x2 -> Shift -> &x2 -> n -> Shift -> ! -> = -> 0 -> Shift -> &x2 -> Shift -> ! -> m -> = -> 0 -> Enter -> i -> f -> Shift -> ( -> * -> Shiftx22 -> n -> =x2 -> 0,"v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    &&n!=0&&m!=0
+                            n
+
+
+        if(n==0"
+1036007-w002,1036007,WA,118.991,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> i -> n -> c -> l -> u -> d -> e -> Shift -> s -> t -> < -> d -> i -> o -> . -> h -> Shift -> > -> Enter -> i -> n -> t -> m -> a -> i -> n ->   -> Shift -> ( -> Enter -> Shift -> { -> Enter -> i -> n -> t ->   -> m -> , -> n -> ; -> Enter -> c -> h -> a -> r ->   -> c -> h -> ; -> Enter -> w -> s -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> "" -> Shiftx8 -> % -> D -> d ->   -> Shift -> % -> d ->   -> Shift -> % -> c -> , -> Shift -> &x3 -> Shiftx5 -> m -> , -> m -> , -> c -> h -> Shift -> ! -> =x2 -> Shift -> E -> O -> F","#include<stdio.h>
+int main(
+{
+    int m,n;
+    char ch;
+    while(scanf(""%d %d %c ,&m, n, ch !=EOF {
+ =      int k[m [n0={}m;i++ {
+            for(int j=0;j<n;j++ {
+                scanf(""%d ,&
+                            k[i [j  ;
+
+
+"
+1036007-w003,1036007,WA,253.436,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> i -> n -> c -> l -> u -> d -> e -> Shift -> s -> t -> < -> d -> i -> o -> . -> h -> Shift -> > -> Enter -> i -> n -> t -> m -> a -> i -> n ->   -> Shift -> ( -> Enter -> Shift -> { -> Enter -> i -> n -> t ->   -> m -> , -> n -> ; -> Enter -> c -> h -> a -> r ->   -> c -> h -> ; -> Enter -> w -> s -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> "" -> Shiftx8 -> % -> D -> d ->   -> Shift -> % -> d ->   -> Shift -> % -> c -> , -> Shift -> &x3 -> Shiftx5 -> m -> , -> m -> , -> c -> h -> Shift -> ! -> =x2 -> Shift -> E -> O -> F","#include<stdio.h>
+int main(
+{
+    int m,n;
+    char ch;
+    while(scanf(""%d %d %c ,&m, n, ch !=EOF {
+ =      int k[m [n0={}m;i++ {
+            for(int j=0;j<n;j++ {
+                scanf(""%d ,&
+                            k[i [j  ;
+
+
+"
+1019177-w003,1019177,AC,64.403,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> i -> n -> c -> l -> u -> d -> e -> Shift -> > -> < -> s -> t -> d -> i -> o -> . -> h -> Enter -> i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> ) -> Shift -> { -> Enterx2 -> r -> e -> t -> u -> r -> n ->   -> 0 -> ; -> Enterx3 -> i -> t -> n ->   -> a -> rx2 -> [ -> 8 -> = -> 0 -> ; -> w -> h -> i -> l -> Enter -> e -> w -> h -> i -> l -> e -> Shift -> ( -> ) -> Shiftx10 -> S -> Shiftx2 -> s -> c -> n -> a -> f -> Shift -> ( -> ) -> Shift -> "" -> Shiftx9 -> "" -> Shiftx10 -> % -> d -> Enter -> u -> i -> n -> t ->   -> n -> ; -> , -> Shiftx16 -> & -> n -> Shift","#include<stdio.h
+void turn(int *rr ,int n {
+whilint m=7;
+    return whil
+    arr[m--c=nf(""%d
+                    ,&n !=EOF {
+
+    turn(arr,int n
+    }
+"
+1142006-w001,1142006,WA,77.438,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> n -> c -> l -> i -> u -> d -> e -> Shift -> < -> s -> t -> d -> i -> o -> . -> Shift -> > -> Enter -> h -> Shiftx8 -> # -> i -> n -> c -> l -> u -> e -> d -> Shift -> s -> < -> t -> r -> i -> n -> g -> . -> h -> Shift -> < -> Enter -> > -> Shift -> Enter -> i -> n -> t ->   -> b -> i -> g -> Shift -> _ -> n -> u -> m -> Shift -> _ -> m -> o -> d -> Shift -> ( -> c -> h -> r ->   -> a -> s -> t -> r -> [ -> ,","#include<stdio.h>
+#include<string.h>
+int big_num_mod(char str[ ,"
+1142006-w005,1142006,WA,26.881,0,0,1,1,2,2,0,0,0,0,0,0,-1,低活动可能是思考/阅读，证据不足,( -> x -> * -> y -> i -> n -> t ->   -> p -> a -> r -> t -> = -> Shift -> ( -> x -> y -> * -> Shift -> % -> p -> ; -> Enter -> u -> s -> m -> + -> m -> + -> = -> p -> ; -> Enter -> s -> u -> m -> Shift -> % -> = -> p -> ; -> Enter -> x -> * -> 1 -> 0 -> = -> x -> ; -> Shift -> % -> ; -> Enter -> x -> Shift -> % -> = -> p -> ; -> r -> Enter -> e -> t -> u -> r ->   -> s -> n -> u -> m -> ; -> Enter -> i -> n -> t ->   -> a -> i -> n -> m -> Shift -> ( -> Shift -> Enter -> { -> h -> a -> c -> r ->   -> s -> t -> r -> [ -> 1 -> 0x4 -> 5 -> l -> ; -> Enter,"#include<stdio.h>
+#include<string.h>
+int big_num_mod(char str[ ,int l,long long
+    int x=1;
+    int sum=0;{
+    int flag=l-1;
+          flagg=
+        int y=str[--  -- -'0 ;
+        int part=(x*y %p;
+        sum+=p   ;
+        sum%=p;
+        x*=10;x%
+        x%=p;
+
+    return sum;
+
+int main( {
+    char str[10005 ;
+    int p;m
+    while(scanf(""%s ,%d,str,&p !=EOF {
+        int l=strlen(str ;    (str,l,p ;
+
+        printf(""%d\n ,r ;
+
+    return 0;"
+1055076-w001,1055076,TLE,2.728,1,1,1,1,1,1,0,1,0,0,0,0,-1,按键/代码证据过少或回放异常，跳过,Shift -> # -> i -> n -> c -> u -> d -> l -> e -> < -> Shift -> . -> s -> t -> s -> t -> i -> o -> dx2 -> i -> o -> h -> Shift -> > -> Enter -> i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> Shift -> { -> Enterx2,"#include<stidio h>
+int main( {
+"
+1055076-w005,1055076,TLE,62.317,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,i -> n -> t ->   -> n -> { -> Shift -> Enter -> f -> o -> Shift -> r -> 9 -> Shiftx3 -> ( -> i -> n -> t ->   -> i ->   -> = ->   -> 1 -> ; -> i -> Shiftx4 -> * -> i -> < -> Shift -> = -> n -> ; -> i -> +x2 -> Shiftx2 -> { -> Enter -> i -> f -> Shift -> ( -> n -> % -> Shift -> 2 -> Shift -> { -> ( -> n -> Shift -> % -> 2 -> i -> =x2 -> 0 -> Shift -> { -> Enterx2 -> n -> t ->   -> i -> r -> e -> ; -> r -> e ->   -> = ->   -> 0 -> = -> Shift -> + -> =x2 ->   -> e -> r -> Shift -> + -> i -> Shift -> + -> n -> / -> i -> ' -> ; -> Enter -> r -> e -> t -> u -> r -> n ->   -> r -> ;,"#include<studio h>
+int find(int nc{u
+    int re=0i = 1;i*i<=n;i++ {
+        if(n%i==0 {
+
+            re = re+i+n/i;
+
+
+    return re;
+
+
+    int t,n,re
+    while(scanf(""%d ,&t !=EOF {
+        for(int j = 0;j<t;j++ {
+           scanf(""%d ,&n ;
+           re = find(n ;
+           printf(""%d\n ,re ;"
+1272188-w003,1272188,WA,87.672,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,Shiftx12 -> & -> n -> Shift -> ! -> = -> Shift -> E -> O -> F -> Shift -> { -> Enter -> f -> o -> r ->   -> Shift -> ( -> i -> n -> t ->   -> i -> = -> ; -> i -> 1 -> Shift -> < -> n -> ; -> i -> Shift -> +x2 -> Shift -> { -> Enter -> i -> f -> Shift -> ( ->   -> n -> Shift -> > -> = -> i -> Shift -> * -> ( -> Shift -> i -> Shift -> + -> 1 -> / -> 2 -> Shift -> &x2 -> n -> Shift -> < -> = -> Shift -> ( -> i -> Shift -> + -> 1 -> ( -> Shift -> i -> Shift -> + -> 2 -> Shift -> ) -> * -> / -> 2 ->   -> x -> = -> i -> ; -> Enterx2 -> b -> e -> a -> k -> r -> ; -> Enter -> f -> o ->   -> r -> Shift -> i,"#include <stdio.h>
+int main ( {
+    int n,k
+    while (scanf (""%d ,&; !=EOF {
+        int res=0;=1;i<n;i++ {
+            if (n>=i*(i+1 /2&&n<(i+2)*     /2  x=i;
+            break;                             k
+
+        for (int i=1;i<=;i++  {
+            if (i!=k  res+=i*i;
+            else res+=(n-k *k;
+
+        printf (""%d\n ,res ;
+
+c   return 0;"
+1272188-w004,1272188,WA,65.761,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,Enter -> f -> o -> r ->   -> Shift -> ( -> i -> n -> t ->   -> i -> = -> ; -> i -> 1 -> Shift -> < -> n -> ; -> i -> Shift -> +x2 -> Shift -> { -> Enter -> i -> f -> Shift -> ( ->   -> n -> Shift -> > -> = -> i -> Shift -> * -> ( -> Shift -> i -> Shift -> + -> 1 -> / -> 2 -> Shift -> &x2 -> n -> Shift -> < -> = -> Shift -> ( -> i -> Shift -> + -> 1 -> ( -> Shift -> i -> Shift -> + -> 2 -> Shift -> ) -> * -> / -> 2 ->   -> x -> = -> i -> ; -> Enterx2 -> b -> e -> a -> k -> r -> ; -> Enter -> f -> o ->   -> r -> Shift -> i -> n -> t -> ( -> i ->   -> = -> 1 -> ; -> i -> Shift -> < -> k,"cinclude <stdio.h>
+int main ( {
+    int n,k
+    while (scanf (""%d ,&; !=EOF {
+        int res=0;=1;i<n;i++ {
+            if (n>=i*(i+1 /2&&n<(i+2)*     /2  x=i;
+            break;                            {k
+            c     }
+        for (int i=1;i<=;i++  {
+            if (i!=k  res+=i*i;
+            else res+=(n-k *k;
+                         (k+1 *k/2
+        printf (""%d\n ,res ;
+
+c   return 0;"
+1204075-w002,1204075,WA,21.991,0,0,2,1,4,3,0,0,0,0,0,0,1,近期输入很少但仍在任务中，可能卡住，可考虑弹窗,"Shift -> # -> i -> n -> l -> u -> d -> e -> c ->   -> Shift -> < -> t -> s -> d -> i -> o -> . -> h -> Shift -> > -> Enter -> i -> Enter -> n -> t ->   -> m -> a -> i -> n -> Shift -> ) -> Shift -> ( -> Shift -> { -> Enter -> i -> n -> t ->   -> y -> , -> m -> , -> d -> , -> m -> i -> n -> y -> t -> e -> u -> t -> e -> , -> s -> ; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> "" -> h -> p -> Shift -> % -> d -> Shift -> : -> Shift -> % -> d -> , -> Shift -> % -> d -> / -> Shiftx4 -> % -> d -> / -> Shift -> % -> d -> , ->  ","#include <stdio.h>
+
+int main( {
+    int y,m,d,hips;e
+    while(scanf(""%d:%d,%d/%d/%d , &h,&p,&y)&m,&y !=EOF {
+"
+1322502-w001,1322502,AC,84.553,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"# -> Shift -> n -> c -> l -> i -> u -> d -> e -> Shift -> < -> s -> t -> d -> i -> o -> . -> h -> Shift -> > -> Enter -> i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> Shift -> { -> Enter -> i -> n ->   -> t -> i -> n -> t ->   -> n -> , -> ; -> m -> Enter -> h -> i -> w -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> : -> ""x2 -> Shiftx2 -> % -> d -> "" -> , -> Shift -> & -> n -> . -> Shift -> & -> m ->   -> Shift -> % -> d -> , -> Shift -> ! -> = -> Shift -> E -> O -> F -> Shift -> { -> Enter -> i -> n -> t -> a -> rx2 ->   -> [ -> 1 -> 5","#include<stdio.h>
+int main( {int
+    int n,m;
+    while(scanf(""%d %dn.&m,   !=EOF {
+        int arr[105 [105 ;
+        for(int i=0;i<n;i++ {
+            for(int j=0;j<5;j+  {
+"
+1262853-w001,1262853,AC,32.95,0,0,0,0,1,0,0,0,0,0,0,0,-1,按键/代码证据过少或回放异常，跳过,Controlx141 -> Shiftx2 -> # -> i -> n -> c -> l -> u -> d -> e -> d -> Altx5,#included
+1095283-w002,1095283,AC,65.628,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,Shift -> > -> Enter -> i -> t ->   -> m -> a -> i -> nx2 -> Shift -> ( -> [ -> Shift -> Enterx2 -> Shift -> { -> Enterx3 -> r -> t -> e -> u -> r -> n ->   -> c -> 0 -> ; -> ' -> r -> e -> t -> u -> r -> n ->   -> 0 -> ; -> i -> n -> t ->   -> Enter -> # -> Shift -> i -> c -> l -> d -> y -> u -> n -> e -> u -> d -> e ->   -> Shift -> < -> s -> t -> r -> i -> g -> n -> . -> h -> Shift -> > -> h -> a -> r -> c ->   -> s -> [ -> 1 -> 0x2 -> ; -> Enter -> h -> w -> i -> k -> w -> g -> h -> w -> h -> i -> l -> e -> 9 -> a -> Shift -> I -> Shift -> ( -> s -> c,"#include <[tdio.h>
+#include <string.h>
+{
+    int
+    char s[100 ;
+    while(scanf(""%s ,s !=EOF {
+        int flag=1;
+        int len=en(;i<(si;+
+                      len     {
+            if(s[i !=s[len-1-i  {
+                flag=0;
+                break;"
+1257843-w003,1257843,AC,94.291,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> # -> i -> n -> c -> l -> u -> d -> e ->   -> CapsLock -> Shift -> CapsLock -> Shiftx11 -> < -> Shift -> s -> t -> d -> o -> . -> h -> i -> Shift -> < -> Shift -> > -> Enterx2 -> i -> n ->   -> m -> a -> t -> i -> n -> Shiftx6 -> ( -> Enter -> Shift -> { -> Enter -> i -> n -> t ->   -> n -> ; -> Enter -> w -> h -> l -> e -> i -> Shift -> ( -> s -> a -> n -> c -> f -> Shift -> ( -> Shift -> "" -> Shift -> d -> % -> , -> Shiftx12 -> & -> n -> Shiftx2 -> ! -> = -> Shift -> E -> O -> F -> Shiftx2 -> Enter -> Shift -> { -> Enter","#include <stdio.h>
+
+int main(
+{
+    int n;
+    while(scanf(""%d ,&n !=EOF
+    {
+"
+1432485-w003,1432485,AC,76.82,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,[ -> u -> . -> s -> i -> z -> e -> ( -> Shift -> i -> ; -> Shift -> + -> Shift -> { -> + -> Enter -> i -> n -> t ->   -> v ->   -> = ->   -> g -> [ -> u -> [ -> i -> . -> f -> i -> s -> r -> t -> Enter -> ; -> i -> t ->   -> d -> n ->   -> = ->   -> g -> [ -> u -> [ -> i -> . -> s -> e -> c -> o -> d -> ; -> n -> Enterx2 -> f -> i -> Shift -> ( -> i -> s -> d -> t -> [ -> v ->   -> Shift -> > ->   -> ; -> d -> Shift -> Enter -> d -> i -> { -> t -> s -> [ -> v ->   -> = ->   -> d -> ; -> Enterx2 -> p -> q -> . -> p -> u -> d -> h -> s -> h,"#include <bits/stdc++.h>
+using namespace std;
+
+int main( {
+    int n,m;
+    while(cin >> n >> m {
+        vector<vector<iair<int,int> ;
+        while(m-- {
+            int u,v,w;
+            cin >> u >> v >> w;
+            g[u .push_back({v,w  ;
+            g[v .push_back({u,w  ;
+
+
+        vector<int> st(n,false ;
+        vector<int> dist(n ;
+        dist[0  = 0;
+        priority_queue<pair<int,int>cvector<v             ,greater<v               pq;
+        pr.push({0,0  ;
+        long long sum = 0;{
+            auto t = pq.top( ;
+            int u = t.second;
+            int w = t.first;
+
+            if(st[u  {
+                continue;
+
+            st[u  = true;
+
+            sum += w; = 0;i < g[u .size( ;i++ {
+                int v = g[u [i .first;
+                int d = g[u [i .second;
+
+                if(dist[v  > d;{
+                    dist[v  = d;
+                    pq.push({dist[v ,v  ;
+                    sum += d;
+
+
+
+        cout << sum << endl;"
+1432485-w005,1432485,AC,67.736,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"t -> Enter -> ; -> i -> t ->   -> d -> n ->   -> = ->   -> g -> [ -> u -> [ -> i -> . -> s -> e -> c -> o -> d -> ; -> n -> Enterx2 -> f -> i -> Shift -> ( -> i -> s -> d -> t -> [ -> v ->   -> Shift -> > ->   -> ; -> d -> Shift -> Enter -> d -> i -> { -> t -> s -> [ -> v ->   -> = ->   -> d -> ; -> Enterx2 -> p -> q -> . -> p -> u -> d -> h -> s -> h -> Shiftx71 -> ( -> Shift -> { -> Shift -> d -> s -> i -> t -> [ -> v -> , -> v -> ; -> Enterx3 -> l -> o -> n -> g ->   -> o -> n -> g -> l ->   -> s -> u -> m ->   -> = ->   -> 0 -> ; -> Enter -> s","#include <bits/stdc++.h>
+using namespace std;
+
+int main( {
+    int n,m;
+    while(cin >> n >> m {
+        vector<vector<iair<int,int> ;
+        while(m-- {
+            int u,v,w;
+            cin >> u >> v >> w;
+            g[u .push_back({v,w  ;
+            g[v .push_back({u,w  ;
+
+
+        vector<int> st(n,false ;
+        vector<int> dist(n ;
+        dist[0  = 0;
+        priority_queue<pair<int,int>cvector<v             ,greater<v               pq;
+        pr.push({0,0  ;
+        long long sum = 0;{
+            auto t = pq.top( ;
+            int u = t.second;
+            int w = t.first;
+
+            if(st[u  {
+                continue;
+
+            st[u  = true;
+
+            sum += w; = 0;i < g[u .size( ;i++ {
+                int v = g[u [i .first;
+                int d = g[u [i .second;
+
+                if(dist[v  > d;{
+                    dist[v  = d;
+                    pq.push({dist[v ,v  ;
+                    sum += d;
+
+
+
+        cout << sum << endl;
+
+
+ v
+ c"
+1154760-w004,1154760,AC,92.875,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"o -> . -> h -> > -> Enter -> i -> t ->   -> n -> m -> a -> n -> i -> ( -> v -> o -> i -> d -> Enter -> { -> Enter -> i -> n -> t ->   -> t -> ; -> Enter -> w -> s -> c -> a -> n -> f -> ( -> "" -> % -> d -> , -> & -> t -> ; -> Enter -> w -> h -> i -> l -> e -> ( -> t -> -x2 -> Enter -> { -> Enter -> i -> n -> t ->   -> n -> ; -> Enter -> s -> c -> a -> n -> f -> ( -> "" -> % -> d -> , -> & -> n -> ; -> Enter -> i -> n -> t -> i -> n -> t ->   -> a -> [ -> l -> o -> g -> n -> l -> o -> n -> g ->   -> l -> o -> n -> g ->   -> a -> [","#include <stdio.h>
+#include <string.h>
+{
+    int t;
+    scanf(""%d ,&t ;
+    while(t--
+    int a[max ;
+    for (int i=1;i<max;i++
+    {   scanf(""%lld&n ;
+        a[ig=1;ng a[
+
+    for(int i=2;i<max;i++
+    {   int
+        for (int j=i+"
+1328801-w003,1328801,WA,30.445,0,0,0,0,31,28,0,0,0,0,0,0,0,代码已有较大进展且当前空闲，优先不打扰,"Enter -> r -> e -> t -> u -> r -> n ->   -> 0 -> ; -> Enter -> n -> i -> t ->   -> n -> ; -> Enter -> w -> h -> i -> l -> i -> n -> t ->   -> a -> [ -> 2 -> 0 -> 4 -> 8 -> ; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> f -> n -> Shift -> ( -> Shiftx20 -> "" -> Shiftx16 -> % -> d ->   -> Shift -> % -> s -> , -> Shift -> & -> n -> ; -> , -> a -> Shift -> ! -> = -> CapsLock -> E -> F -> CapsLock -> O -> Shift -> { -> Enter -> f -> o -> r -> Shift -> ( -> i -> n -> t ->   -> i -> = -> 0 -> ; -> j -> i -> Shift -> < -> n -> ; -> Shift -> + -> Shift -> + -> i -> Shift","#include <stdio.h>
+int main(
+{
+    int n; 0;
+    int a[2048 ;
+    while(scanf(""%d %s ,&n,a !=EOF {
+        for(int i=0;i<n;i++ {
+            scanf(""%d ,&[i   ;
+            for(int j=0;j<n-i-1;j++ {
+                int t;a[i ;
+                if(a[i >a[i+1  {
+                    t=a[ia;i+11;
+
+                    a[i+1 =t;"
+1135851-w003,1135851,AC,97.131,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,""" -> , -> s -> 0x2 -> n -> s -> d -> n -> a -> ; -> Enter -> [ -> 5 -> 1 -> ] ->  x3 -> f -> o -> r ->   -> Shift -> ( -> i -> n -> t ->   -> j -> = -> 0 -> ; -> j -> Shift -> < -> n -> ; -> + -> j -> + -> Enter -> Shift -> { -> Enter -> s -> c -> a -> n -> f -> ( -> Shift -> "" -> % -> s -> , -> d -> n -> a -> c -> [ -> i -> [ -> j -> ; -> Enter -> i -> n -> t ->   -> e -> n -> l -> h -> n -> a -> Shift -> _ -> e -> n -> = -> l -> 0 -> ; -> Enter -> f -> o -> r -> Shift -> i -> ( -> n -> t ->   -> i -> = -> 0 -> ; -> i -> < -> n -> Shift -> ,","#include<stdio.h
+#nclude<string.h
+int main(
+{
+    int t;
+    while(scanf(""%d ,&t !=EOF
+    {
+        int m,n;
+        scanf(""%d %d ,&m,&n ;
+        char dna[51]5 ;
+        for(int i=0;i<m;i++
+        {
+            for(int j=0;j<n;j++
+            {
+                scanf(""%c ,dna[i [j  ;
+
+
+        int han_len[2000 ={0
+        for(int i=0;i<m;i++
+        {
+            for(int k=0;k<m;k++
+            {
+                if(i==k
+                {
+                    break;
+
+                else
+                {
+                    for(int j=0;j<n;j++
+                    {
+                        if(dna[i [j !=dna[k [j
+                        {
+                            hanlen[k ++;"
+1239234-w003,1239234,TLE,70.248,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shift -> < -> = -> c -> Controlx2 -> v -> ; -> i -> Shift -> +x2 -> Shift -> { -> Enter -> i -> f -> Shift -> ( -> z -> y -> n -> Shift -> ( -> i -> Shift -> { -> Enter -> a -> [ -> t -> o -> p -> = -> i -> ; -> Enter -> t -> o -> Shift -> + -> p -> + -> ; -> i -> Enter ->   -> t -> n -> o -> p -> t -> = -> 0 -> ; -> Enter -> w -> i -> n -> g -> t ->   -> n -> ; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shiftx2 -> ( -> "" -> Shift -> % -> d -> , -> Shift -> & -> n -> Shift -> ! -> = -> Shiftx3 -> E -> O -> F -> Shift -> { -> Enter -> i -> n -> t ->   -> a","#include<stdio.h>
+int zyn(int n {
+    if(n<=1 return 0;
+    if(n==2 return 1;
+    for(int i=2;i<n;i++ {
+        if(n%2==0 {
+            return 0;
+
+
+    return 1;
+
+int main( {
+    int z[v     5 ;
+    int top=0;2;i<=v      ;i++ {
+        if(zyn(i  {
+            a[top =i;
+            zop++;
+
+
+
+    int n;
+    while(scanf(""%d ,&n !=EOF {
+        int a,b;
+        for(int i=0;z[i <n;i++ {
+            a=z[i ;
+            b=n-a;
+            if(!yn(b  {
+                printf(""%d %d\n ,a,b ;
+
+         printf(""\n  ;
+
+    return 0;"
+1025438-w001,1025438,AC,22.984,0,0,9,9,43,32,0,1,0,0,0,8,0,没有明确卡住证据，保守不打扰,"Shift -> # -> i -> n -> c -> ; -> u -> d -> e -> l -> u -> d -> e -> < -> s -> Shift -> t -> d -> i -> o -> h -> Shift -> . -> > -> Enter -> i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> Enter -> Shift -> { -> Enter -> l -> o -> n -> g ->   -> o -> n -> l -> f -> g -> l -> o -> n -> g ->   -> l -> o -> g -> n ->   -> n -> ; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> n -> f -> a -> Shift -> ( -> Shift -> "" -> Shift -> % -> d -> lx2 -> d -> , -> Shiftx3 -> & -> n -> Shift -> ! -> = -> CapsLock -> E -> O -> F -> CapsLock -> Enter -> Shift -> { -> ' -> Enter","#include<stdio.h>
+int main(
+{
+    long long n;
+    while(scanf(""%lld ,&n !=EOF
+    {'
+        int t=n;
+"
+1010242-w003,1010242,AC,523.905,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"Shiftx2 -> # -> i -> n -> c -> l -> u -> d -> e -> Shift -> < -> s -> t -> d -> i -> o -> . -> Shift -> h -> > -> Enter -> n -> Enter -> i -> n -> t ->   -> m -> i -> n -> Shift -> a -> ( -> Shift -> } -> Shift -> { -> Enter -> c -> h -> a -> r ->   -> s -> t -> r -> [ -> 1 -> 0x3 -> ; -> Enter -> w -> h -> i -> e -> lx2 -> e -> Shift -> ( -> f -> g -> e -> t -> s -> Shift -> ( -> t -> r -> s -> , -> 1 -> - -> 0x6 -> , -> s -> t -> d -> i -> n -> Shift -> ! -> Shift -> ! -> = -> CapsLock -> E -> O -> F -> CapsLock -> Shift -> { -> Enter -> c -> h -> a -> r ->   -> s -> 1 -> [","#include<stdio.h>
+
+int main( {!
+    char str[1000 ;
+    while(fgets(str,1000,stdin !=EOF {
+        char s1[1000 ={0};s2[1000 ={0};
+"
+1233058-w001,1233058,AC,66.939,0,0,0,0,0,0,0,0,0,0,0,0,0,长时间无文本输入，保守视为阅读/检查，不打扰,"0 -> Shiftx3 -> } -> ; -> Enter -> c -> h -> a -> r ->   -> b -> [ -> 1 -> 0x2 -> 5 -> = -> Shift -> { -> 0 -> Shift -> ; -> Shift -> } -> Enter -> Shift -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> "" -> % -> s ->   -> Shift -> % -> s -> , -> a -> , -> b -> Shift -> ! -> = -> Shift -> O -> E -> F -> Shift -> { -> Enterx2 -> i -> n -> t ->   -> c -> = -> s -> t -> r -> l -> e -> n -> Shiftx5 -> ( -> Shift -> a -> ; -> Enter -> i -> n -> t ->   -> d -> s -> t -> = -> r -> l -> e -> n -> Shiftx3 -> ( -> b -> ; -> Enter -> i -> n -> t ->   -> m","#        <stdio.h>
+#include <string.h>
+int main(
+{
+    char a[1005 ={0};
+    char b[1005 ={0};
+    while(scanf(""%s %s ,a,b !=EOF
+    {
+        int c=strlen(a ;
+        int d=strlen(b ;
+        int max=c>d?c:d;
+        for(int i=c;i<max;i++
+        {
+            a[i ='0 ;"
+1233058-w002,1233058,AC,52.43,0,0,0,0,15,13,0,0,0,0,0,0,0,代码已有较大进展且当前空闲，优先不打扰,i -> n -> t ->   -> m -> a -> x -> = -> a -> Shift -> > -> c -> Shift -> > -> d -> Shiftx50 -> ? -> Shiftx2 -> c -> Shift -> : -> d -> ; -> Enter -> f -> o -> r -> ( -> Shift -> i -> n -> t ->   -> i -> = -> c -> Shiftx30 -> ; -> i -> Shift -> < -> = -> mx2 -> a -> x -> ; -> i -> Shift -> +x2 -> Enter -> Shift -> { -> Enter -> a -> [ -> i -> = -> ' -> 0 -> ; -> Control -> Insert -> Control -> Insert -> Control -> Insert -> Control -> Insert -> Control -> Insert -> Control -> Insert -> Control -> Insert -> Control -> Insert -> Enter -> [ -> m -> a -> x -> = -> Shiftx2 -> ' -> \ -> 0 -> ; -> Enter -> f -> o -> r -> Shift -> ( -> i -> n -> t ->   -> i -> = -> d,"#        <stdio.h>
+#include <string.h>
+int main(
+{
+    char a[1005 ={0};
+    char b[1005 ={0};
+    while(scanf(""%s %s ,a,b !=EOF
+    {
+        int c=strlen(a ;
+        int d=strlen(b ;
+        int max=c>d?c:d;
+        for(int i=c;i<max;i++
+        {
+            a[i ='0 ;
+
+         [max ='\0 ;
+        for(int i=d;i<max;i++
+        {
+            b[i ='\0
+
+        b[max ='\0 ;
+        char result[1005 ={0};"
+1326292-w005,1326292,AC,20.233,0,0,3,1,3,1,0,0,2,1,1,1,-1,最近主要是快捷键/剪贴板操作，不足以判断需要弹窗,"Shift -> # -> Shiftx2 -> < -> s -> t -> d -> i -> . -> o -> h -> > -> Enter -> Shift -> i -> n -> t ->   -> m -> a -> i -> n -> Shift -> ( -> Shift -> Enter -> { -> n -> t ->   -> i -> n -> ; -> Enter -> w -> h -> i -> l -> e -> Shift -> ( -> s -> c -> a -> n -> f -> Shift -> ( -> Shift -> "" -> Shift -> % -> d -> , -> Shift -> & -> n -> Shift -> ! -> = -> CapsLockx2 -> e -> o -> f -> CapsLockx2 -> e -> o -> f -> CapsLock -> E -> F -> O -> CapsLock -> Shift -> { -> Enter -> o -> f -> r -> Shift -> ( -> i -> n -> t -> i ->   -> = -> 0 -> ; -> i -> Shift -> n -> < -> ; -> i -> Shift -> +x2 -> Shift -> { -> Enter","v       <stdio.h>
+cnt main( {
+    int n;
+    while(scanf(""%d ,&n !=EOF {
+        int an[1000={0};i++ {
+        int count=0;d  ,&an[i  ;
+
+            count++;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ v
+
+
+
+
+
+
+
+ v"

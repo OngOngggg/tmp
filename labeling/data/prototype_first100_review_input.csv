@@ -1,0 +1,2404 @@
+﻿window_id,label,judge,duration_s,total_keys,current_idle_s,keys_5s,text_keys_5s,modifier_keys_5s,clipboard_ops_5s,keys_10s,text_keys_10s,keys_30s,text_keys_30s,modifier_keys_30s,clipboard_ops_30s,keys_60s,text_keys_60s,backspace_30s,enter_30s,pause_count_30s,pause_total_30s,code_replay
+1061476-w001,0,WA,422.4,414,0.586,9,5,4,0,14,9,66,22,44,0,109,61,0,2,4,11.767,"#include<stdio.h>
+int main(void {
+    int n;
+    int count=0;
+    int a;      i<n;i++ {
+        scanf(""%d ,
+                   a ;
+        if(a%22"
+1061476-w002,0,WA,422.4,414,1.069,14,5,9,0,23,8,41,24,17,0,68,44,0,1,0,0.0,"#include<stdio.h>
+int main(void {
+    int n;
+    int count=0;
+    int a;      i<n;i++ {
+    while(scanf(""%d ,&n !=EOF
+                   a ;
+        if(a%2==0 {
+            count++;
+
+
+    pr    (""%d ,cou   ;
+    retur  0;"
+1061476-w003,0,WA,422.4,414,0.212,6,6,0,0,6,6,12,12,0,0,20,20,0,0,4,24.978,"#include<stdio.h>
+int main(void {
+    int n;
+    int count=0;
+    int a[1000005<n;i++ {
+    while(scanf(""%d ,&n !=EOF {
+                   a ;
+        if(a%2==0 { [i
+            [i]nt++;
+
+
+    pr    (""%d ,cou   ;
+    }etur  0;
+"
+1061476-w004,0,WA,422.4,414,0.653,6,5,1,0,12,11,29,26,3,0,104,61,0,0,3,12.756,"#include<stdio.h>
+int main(void {
+    int n;
+    int count=0;
+    int a[1000005<n;i++ {
+    while(scanf(""%d ,&n !=EOF {
+                   a ;
+           a%2==0 { [i
+        }   [i]nt++;
+        for(int i=0;i<n;i++ {
+            if(a[i %2==0 {
+    pr    (""%d ,count++;
+    }etur  0;
+
+        pr    (""%d ,count ;
+    }"
+1061476-w005,1,WA,422.4,414,74.577,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"#include<stdio.h>
+int main(void {
+    int n;
+    int count=0;
+    int a[1000005<n;i++ {
+    while(scanf(""%d ,&n !=EOF {
+                   a ;
+           a%2==0 { [i
+        }   [i]nt++;
+        for(int i=0;i<n;i++ {
+            if(a[i %2==0 {
+    pr    (""%d ,count++;
+    }etur  0;
+
+        pr    (""%d ,count ;
+    }"
+1005008-w001,1,TLE,368.7,261,37.125,0,0,0,0,0,0,0,0,0,0,36,29,0,0,0,0.0,"#include <stdio.h>
+int main( {
+    int n;
+    while(scanf(""%d ,n !=EOF {
+"
+1005008-w002,-1,TLE,368.7,261,12.784,0,0,0,0,0,0,5,5,0,0,27,27,0,1,1,3.294,"#include <stdio.h>
+int main( {
+    int n;
+    while(scanf(""%d ,n !=EOF {
+        int found10;
+        int f    2=0;
+"
+1005008-w003,0,TLE,368.7,261,0.716,2,2,0,0,6,5,32,28,4,0,44,37,0,2,3,10.571,"#include <stdio.h>
+int main( {
+    int n;
+    while(scanf(""%d ,n !=EOF {
+        int found10;
+        int f    2=0;
+        if(n>2&&n%2==0 {
+            f     =1;
+
+        for(int a=1;a<n;"
+1005008-w004,0,TLE,368.7,261,1.37,5,4,1,0,12,10,24,20,4,0,51,44,0,2,3,15.695,"#include <stdio.h>
+int main( {
+    int n;
+    while(scanf(""%d ,n !=EOF {
+        int found10;
+        int f    2=0;
+        if(n>2&&n%2==0 {
+            f     =1;
+
+        for(int a=1;a<n;a+=2 {
+            for(int b=1;b<=a;b+=2 {
+                if((a+b ==n {
+                    f"
+1005008-w005,0,TLE,368.7,261,7.433,0,0,0,0,6,6,27,23,4,0,55,45,0,3,3,7.059,"#include <stdio.h>
+int main( {
+    int n;
+    while(scanf(""%d ,n !=EOF {
+        int found10;
+        int f    2=0;
+        if(n>2&&n%2==0 {
+            f     =1;
+
+        for(int a=1;a<n;a+=2 {
+            for(int b=1;b<=a;b+=2 {
+                if((a+b ==n {
+                    f     =1;
+
+
+
+        if(f     &&f      {
+            pri   (""Yes\n  ;
+         el  {
+            p     (""No\n  ;
+
+
+    ret    0;"
+1201971-w001,0,AC,1683.0,1127,4.564,1,1,0,0,1,1,13,11,2,0,18,16,0,2,3,21.006,"#include<stdio.h>
+#define MAX 51S
+int a[MAX [MAX ,m[MAX [MAX ;
+    int n,m;
+    while(scanf(""%d%d ,&n,&m !=EOF
+    {      ,k=0s
+        int a[n [m ;
+        cor(int i=0;i<n;i++s
+            for(int j=0;j<m;j++s
+                scanf(""%d ,&[i [jaa;
+        v       s
+        for(int i=0;i<n;i++s
+        {   for(int j=0;j<m;j++s
+            k=0;s
+        }   while(k<ms[s;s
+            {
+        v       s"
+1201971-w002,0,AC,1683.0,1127,59.19,0,0,0,0,0,0,0,0,0,0,6,5,0,0,0,0.0,"#include<stdio.h>
+#define MAX 51S
+int a[MAX [MAX ,m[MAX [MAX ;
+    int n,m;
+    while(scanf(""%d%d ,&n,&m !=EOF
+    {      ,k,ts
+        int a[n [m ;
+        cor(int i=0;i<n;i++s
+            for(int j=0;j<m;j++s
+                scanf(""%d ,&[i [jaa;
+        v       s
+        for(int i=0;i<n;i++s
+        {   for(int j=0;j<m;j++s
+            k=0,s=0s
+        }   t=k+1;s<ms[s;s
+            {
+        v       if(a[is[ks==a[is
+                while(t<m&&a[is[kt==a[is[t  t+=1;w
+                {
+                    k+=1;s"
+1201971-w003,0,AC,1683.0,1127,0.147,17,14,3,0,27,23,77,67,10,0,83,72,0,7,2,5.57,"#include<stdio.h>
+#define MAX 51S
+int a[MAX [MAX ,m[MAX [MAX =
+    int n,m;
+    while(scanf(""%d%d ,&n,&m !=EOF
+    {      ,k,t,ls
+        int a[n [m ;
+        cor(int i=0;i<n;i++s
+        c   for(int j=0;j<m;j++s
+                scanf(""%d ,&[i [jaa;
+        v       s
+        for(int i=0;i<n;i++s
+        {   for(int j=0;j<m;j++s
+            k=0,s=0s
+        }   t=k+1;s<ms[s;s
+            {
+        v       if(a[is[ks==a[is
+                while(t<m&&a[is[kt==a[is[t  t+=1;w
+                l =t-k;s
+                if(l>=3s;s
+                {
+                    for(int j=k;j<t;j++s
+                        mais[j =0;s
+
+                k = t;s
+
+
+        for(int i=0;i<m;i++s
+        {
+            k=0;hilnt
+            while(k<n;s
+            {rintf(""\ns ;s
+                t = k+1;s
+        v       while(t<n&&"
+1201971-w004,0,AC,1683.0,1127,2.708,2,2,0,0,8,7,27,22,5,0,56,48,0,3,4,12.132,"#include<stdio.h>
+#define MAX 51S
+int a[MAX [MAX ,m[MAX [MAX ={0s
+    int n,m;
+    while(scanf(""%d%d ,&n,&m !=EOF
+    {      ,k,t,ls
+        int a[n [m ;
+        cor(int i=0;i<n;i++s
+        c   for(int j=0;j<m;j++s
+                scanf(""%d ,&[i [jaa;
+        v       s
+        for(int i=0;i<n;i++s
+        {   for(int j=0;j<m;j++s
+            k=0,s=0s
+        }   t=k+1;s<ms[s;s
+            {
+        v       if(a[is[ks==a[is
+                while(t<m&&a[is[kt==a[is[t  t+=1;w
+                l =t-k;s
+                if(l>=3s;s
+                {
+                    for(int j=k;j<t;j++s
+                        mais[j =01s
+
+                k = t;s
+
+
+c       for(int i=0;i<m;i++s
+        {
+            k=0;hilnt
+            while(k<n;s
+            {rintf(""\ns ;s
+                t = k+1;s
+        v       while(t<n&&a[k [i ==a[t [is t+=1;s
+                l = t-kss
+                if(l>=3s
+                {
+                    for(int j=k;j<t;j++s
+                        m[j [is=01s
+
+                k = t;s
+
+        }s
+        for(int i=0;i<n;i++a
+
+
+            {
+                if(m[s
+            }"
+1201971-w005,0,AC,1683.0,1127,17.994,0,0,0,0,0,0,8,4,4,3,51,41,0,0,2,10.689,"#include<stdio.h>
+#include<string.h>s
+int a[MAX [MAX ,m[MAX [MAX ={zsz
+v   int n,m;
+    while(scanf(""%d%d ,&n,&m !=EOF
+    {      ,k,t,ls
+        int a[n [m ;
+        cor(int i=0;i<n;i++s
+        c   for(int j=0;j<m;j++s
+        v       scanf(""%d ,&[i [jaa;
+        v       s
+        for(int i=0;i<n;i++s
+        {   for(int j=0;j<m;j++s
+            k=0,s=0s
+        }   t=k+1;s<ms[s;s
+            {
+        v       if(a[is[ks==a[is
+                while(t<m&&a[is[kt==a[is[t  t+=1;w
+                l =t-k;s
+                if(l>=3s;s
+                {
+                    for(int j=k;j<t;j++s
+                        aais[j =zzs
+
+                k = t;s
+
+
+c       for(int i=0;i<m;i++s
+        {
+            k=0;hilnt
+            while(k<n;s
+            {rintf(""\ns ;s
+                t = k+1;s
+        v       while(t<n&&a[k [i ==a[t [is t+=1;s
+                l = t-kss
+                if(l>=3s
+                {
+                    for(int j=k;j<t;j++s
+                        a[j [is=zzs
+
+                k = t;s
+
+        }s
+        for(int i=0;i<n;i++a
+
+
+            {z
+                if(msz zzsz1 zzzszzsz0;zz
+            }
+                if(m[i([js printf(""0   ;
+
+
+
+
+
+
+
+ c"
+1154790-w001,1,WA,1274.4,188,22.039,0,0,0,0,0,0,4,4,0,0,8,8,0,0,0,0.0,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        m=y/6;
+
+
+        1"
+1154790-w002,0,WA,1274.4,188,17.774,0,0,0,0,0,0,1,1,0,0,2,2,0,0,0,0.0,"
+
+
+
+
+
+
+
+
+
+
+
+          b
+                       b
+
+
+    int n=y%6;m
+        m=y/6; 6*+1
+
+
+        1
+
+                       +2*m 0"
+1154790-w003,0,WA,1274.4,188,119.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"
+
+
+
+
+
+
+
+
+
+
+
+          b   0
+                       b
+
+
+    int n=y%6;m
+        m=y/6; 6*+1
+
+
+ c      1
+
+                       +2*m 0"
+1154790-w004,0,WA,1274.4,188,45.703,0,0,0,0,0,0,0,0,0,0,14,14,0,0,0,0.0,"
+
+
+
+
+
+
+
+
+
+
+
+          b   0
+                       b
+
+
+    int n=y%6;m
+     c  m=y/6; 6*+1
+    int extra=0;
+    v     a
+ c      1      n      a
+
+           extra       +2*m 0
+
+
+    3
+                           -extra-2*n+1"
+1154790-w005,1,WA,1274.4,188,0.491,2,2,0,0,2,2,3,3,0,0,3,3,0,0,1,19.81,"
+
+
+
+
+
+
+
+
+
+
+
+          b   0
+                       b
+
+
+    int n=y%6;m
+     c  m=y/6; 6*+1
+    int extra=0;
+    v     a-1
+ c      1      n     =a
+
+           extra       +2*m 0
+
+
+    3
+                           -extra-2*n+1
+
+ c"
+1138163-w001,0,AC,443.2,336,0.203,12,5,2,0,27,12,68,19,30,0,135,68,0,2,2,8.031," Include stdio h
+ include string h
+ include math h
+ include stdlib h
+
+int main
+    int nl
+    whilenscanf   d   n  EOF
+        fo int i   i nn i
+"
+1138163-w002,1,AC,443.2,336,53.681,0,0,0,0,0,0,0,0,0,0,10,4,0,0,0,0.0," Include stdio h
+ include string h
+ include math h
+ include stdlib h
+
+int main
+    int nl
+    whilenscanf   d   n  EOF
+        forint i   i nn i
+            for int j i   j  n j
+
+"
+1138163-w003,1,AC,443.2,336,131.234,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0," Include stdio h
+ include string h
+ include math h
+ include stdlib h
+
+int main
+    int nl
+    whilenscanf   d   n  EOF
+        forint i   i nn i
+            for int j i   j  n j
+
+"
+1138163-w004,1,AC,443.2,336,208.787,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0," Include stdio h
+ include string h
+ include math h
+ include stdlib h
+
+int main
+    int nl
+    whilenscanf   d   n  EOF
+        forint i   i nn i
+            for int j i   j  n j
+
+"
+1138163-w005,0,AC,443.2,336,3.372,7,3,1,0,16,5,35,10,14,0,66,19,0,1,2,14.705," Include stdio h
+ include string h
+ include math h
+ include stdlib h
+
+int main
+    int nl
+    whilenscanf   d   n  EOF
+        intisumi   i nn i
+            for int j i   j  n j
+
+ f              if i j  i j
+                    sum"
+1080234-w001,0,WA,1490.6,551,2.813,4,3,1,0,11,9,32,27,5,0,66,56,0,0,4,9.128,"#include<stdio.h>
+int is_leap_year(int year {
+int return(year%4==0&&year%400!=0
+    int y,m;
+    while(scanf(""%d/%d ,&y,&m !=EOF {
+"
+1080234-w002,0,WA,1490.6,551,6.403,0,0,0,0,9,9,19,19,0,0,40,36,0,1,4,14.238,"#include<stdio.h>
+int is_leap_year(int year {
+int return(year%4==0&&year%400!=0 ||(year%400==  ;
+    int y,m;
+    while(scanf(""%d/%d ,&y,&m !=EOF {
+
+
+    int month_ays [12 ={31,28,31,30,31,30,31,31,30,31,30,31};
+    int total_days=0;
+
+        total     =mo        [m-1 ;
+        if(m=2&&is          (y  {
+            t         ++;
+
+        printf(""%d\n ,to         ;
+
+    return 0;"
+1080234-w003,1,WA,1490.6,551,53.878,0,0,0,0,0,0,0,0,0,0,6,6,0,0,0,0.0,"#include<stdio.h>
+int is_leap_year(int year {
+int return(year%4==0&&year%400!=0 ||(year%400==  ;
+    int y,m;
+    while(scanf(""%d/%d ,&y,&m !=EOF {
+
+
+    int month_ays [12 ={31,28,31,30,31,30,31,31,30,31,30,31};
+    int total_days=0;
+
+        votal     =mo        [m-1 ;
+        if(m=2&&is          (y  {
+            break;    ++;
+
+        if(m<0||m>12||y<0 {      ;
+            printf(""-1\n  ;
+    return 0;"
+1080234-w004,1,WA,1490.6,551,2.818,5,5,0,0,5,5,7,6,1,1,7,6,0,0,1,18.476,"#include<stdio.h>
+int is_leap_year(int year {
+int return(year%4==0&&year%400!=0 ||(year%400==  ;
+    int y,m;
+    while(scanf(""%d/%d ,&y,&m !=EOF {
+
+
+    int month_ays [12 ={31,28,31,30,31,30,31,31,30,31,30,31};
+    int total_days=0;
+
+        votal     =mo        [m-1 ;
+        if(m=2&&is          (y  {
+            break;    ++;
+
+        if(m<0||m>12||y<0 {      ;
+        else rintf(""-1\n  ;
+    return 0printf(""29\n
+            break;
+         else{
+
+                      v
+        }"
+1080234-w005,1,WA,1490.6,551,76.142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"#include<stdio.h>
+int is_leap_year(int year {
+int return(year%4==0&&year%400!=0 ||(year%400==  ;
+    int y,m;
+    while(scanf(""%d/%d ,&y,&m !=EOF {
+
+
+    int month_ays [12 ={31,28,31,30,31,30,31,31,30,31,30,31};
+    int total_days=0;
+
+        votal     =mo        [m-1 ;
+        if(m=2&&is          (y  {
+            break;    ++;
+
+        else 0||m>12||y<0 {      ;
+        else rintf(""-1\n  ;
+    return 0break;(""29\n
+         else{eak;
+            e{
+
+        }             v
+        }"
+1055866-w001,1,WA,139.7,35,29.157,0,0,0,0,0,0,6,0,6,0,6,0,0,0,0,0.0,
+1055866-w002,1,WA,139.7,35,53.081,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0.0,
+1055866-w003,1,WA,139.7,35,5.051,0,0,0,0,2,0,2,0,2,0,2,0,0,0,0,0.0,
+1055866-w004,1,WA,139.7,35,28.974,0,0,0,0,0,0,2,0,2,0,2,0,0,0,0,0.0,
+1055866-w005,1,WA,139.7,35,0.291,8,6,2,0,9,7,15,7,8,0,17,7,0,1,2,14.817,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                if(j*j"
+1387653-w001,0,WA,1533.8,728,0.889,5,5,0,0,17,16,56,40,16,0,85,54,0,1,2,7.729,"#   lude<stdio.h>
+int compare(const void *a,c     void *b {
+    ret n;(*(int* a-*(int* b ;
+
+
+    int s[100001 ;
+
+    while(scanf(""%d ,&n !=EOF){
+        if(n==1 {=0;i<n;i++ {
+            pranf((""Yes\n[i; ;
+            cont    ;
+
+
+
+
+        int len=strlen(s ;
+        qso  (s,len,sizeof(int ,com"
+1387653-w002,0,WA,1533.8,728,0.296,10,9,1,0,30,16,60,43,17,0,70,53,0,3,1,3.331,"#   lude<stdio.h>
+int compare(const void *a,c     void *b {
+    ret n;(*(int* a-*(int* b ;
+
+
+    int s[100001 ;
+
+    while(scanf(""%d ,&n !=EOF){
+        int pd=0;=0;i<n;i++ {
+            pranf((""Yes\n[i; ;
+            cont    ;
+
+
+
+
+        int len=strlen(s ;
+        qso  (s,len,sizeof(int ,com     ;
+        int sum=0;
+        for(int i=0;i>len;i++ {
+            sum+=s[i ;
+            if(sum<=s[i+1  {
+                pr    (""No\n  ;
+                pd=1;   ;
+
+
+        if(pd=0 {
+            pr    (""Yes\n  ;
+         elss{
+            pr    (""No\n  ;"
+1387653-w003,1,WA,1533.8,728,42.225,0,0,0,0,0,0,0,0,0,0,8,7,0,0,0,0.0,"c   lude<stdio.h>
+int compare(const void *a,c     void *b {
+    ret n;(*(int* a-*(int* b ;
+
+
+    int s[100001 ;
+
+    while(scanf(""%d ,&n !=EOF){
+        int pd=0;=0;i<n;i++ {
+            pranf((""Yes\n[i; ;
+            cont    ;
+
+
+
+
+        int len=strlen(s ;
+        qso  (s,len,sizeof(int ,com     ;
+        int sum=0;
+        for(int=s[0;i>len;i++ {
+            sum+=s1i <   -1
+            if(sum<=s[i+1  {
+                pr    (""No\n  ;
+                pd=1;   ;
+
+
+        if(pd== {
+            pr    (""Yes\n  ;
+         elss{
+            pr    (""No\n  ;
+
+
+    ret    0;"
+1387653-w004,1,WA,1533.8,728,44.461,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0.0,"c   lude<stdio.h>
+int compare(const void *a,c     void *b {
+    ret n;(*(int* a-*(int* b ;
+
+
+    int s[100001 ;
+
+    while(scanf(""%d ,&n !=EOF){
+        int pd=0;=0;i<n;i++ {
+            pranf((""Yes\n[i; ;
+            cont    ;
+
+
+
+
+        int len=strlen(s ;
+        qso  (s,len,sizeof(int ,com     ;
+        int sum=0;
+        int  long[0;i>len;i++ {
+            sum+=s1i <=  -1
+            if(s[i<<=um+{  {
+               spd=1; (""No\n  ;
+                pd=1;   ;
+            sum+=s[i ;
+
+        if(pd== {
+            pr    (""Yes\n  ;
+         elss{
+            pr    (""No\n  ;
+
+
+    ret    0;"
+1387653-w005,1,WA,1533.8,728,312.878,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"c   lude<stdio.h>
+int compare(const void *a,c     void *b {
+    ret n;(*(int* a-*(int* b ;
+
+
+    int s[100001 ;
+
+    while(scanf(""%d ,&n !=EOF){
+        int pd=0;=0;i<n;i++ {
+            pranf((""Yes\n[i; ;
+            cont    ;
+
+
+
+
+        int len=strlen(s ;
+        qso  (s,len,sizeof(int ,com     ;
+        int sum=0;
+        int  long[0;i>len;i++ {
+            sum+=s1i <=  -1
+            if(s[i<<=um+{  {
+               spd=1; (""No\n  ;
+                pd=1;   ;
+            sum+=s[i ;
+
+        if(pd== {
+            pr    (""Yes\n  ;
+         elss{
+            pr    (""No\n  ;
+
+
+    ret    0;"
+1046718-w001,0,AC,213.4,278,0.639,14,12,2,0,27,25,75,66,9,0,76,66,0,5,1,3.798,"#include<stdio.h>
+#include
+int main(
+{
+    int a,b,c,d;
+    while(scanf("
+1046718-w002,0,AC,213.4,278,4.765,1,1,0,0,11,8,38,28,10,0,96,79,0,2,2,9.454,"#include<stdio.h>
+#include
+int main(
+{
+    int a,b,c,d;
+    while(scanf(""%d.%d.%d.%d ,&a,&b,&c,&d  =EOF
+    {
+"
+1046718-w003,0,AC,213.4,278,1.083,5,4,1,0,13,11,17,14,3,0,44,34,0,0,3,7.027,"#include<stdio.h>
+#include
+int main(
+{
+    int a,b,c,d;
+    while(scanf(""%d.%d.%d.%d ,&a,&b,&c,&d  =EOF
+    {
+        if(a>="
+1046718-w004,0,AC,213.4,278,1.693,7,6,1,0,18,15,36,27,9,0,59,45,0,0,3,10.89,"#include<stdio.h>
+#include
+int main(
+{
+    int a,b,c,d;
+    while(scanf(""%d.%d.%d.%d ,&a,&b,&c,&d  =EOF
+    {
+        if((>=0&& a<=255 &&(b>=0&&b<=255"
+1046718-w005,0,AC,213.4,278,0.906,7,6,1,0,21,17,46,36,10,0,90,68,0,2,1,7.666,"#include<stdio.h>
+#include
+int main(
+{
+    int a,b,c,d;
+    while(scanf(""%d.%d.%d.%d ,&a,&b,&c,&d  =EOF
+    {
+        if((>=0&& a<=255 &&(b>=0&&b<=255 &&(c>=0&&c<=255 &&(d>=0&&d<=255
+        {
+            printf(""Yes\n  ;"
+1423437-w001,-1,AC,233.0,47,14.46,0,0,0,0,0,0,4,1,3,1,33,2,0,0,0,0.0,"v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
+1423437-w002,-1,AC,233.0,47,55.237,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0.0,"v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
+1423437-w003,-1,AC,233.0,47,96.013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
+1423437-w004,-1,AC,233.0,47,136.789,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
+1423437-w005,-1,AC,233.0,47,177.565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
+1299160-w001,-1,WA,171.9,65,27.141,0,0,0,0,0,0,3,1,2,1,4,1,0,0,0,0.0,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
+1299160-w002,-1,WA,171.9,65,57.319,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0.0,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
+1299160-w003,-1,WA,171.9,65,3.854,1,1,0,0,1,1,1,1,0,0,1,1,0,0,0,0.0,"
+
+
+ c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
+1299160-w004,-1,WA,171.9,65,34.032,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0.0,"
+
+
+ c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
+1299160-w005,0,WA,171.9,65,0.143,6,3,3,0,28,9,28,9,19,0,28,9,0,0,1,2.834,"
+
+
+ c
+
+
+    while(                  !=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
+1009937-w001,0,AC,472.2,499,2.118,9,8,1,0,10,9,31,28,3,0,98,77,0,2,4,14.232,"#include<stdio.h>
+#includ <string.h>
+int main(){
+    cha  s[56 ;
+    while(scanf(""%s ,s  != EOF {
+        int len =
+        for(int"
+1009937-w002,0,AC,472.2,499,0.828,9,9,0,0,12,12,34,15,19,0,72,45,0,1,2,19.918,"#include<stdio.h>
+#includ <string.h>
+int main(){
+    cha  s[56 ;
+    while(scanf(""%s ,s  != EOF {
+        int len =
+        int flag =  0, j = len-1  i<=j; i++, j-- {
+            if(s[i  != s[j  {
+                break;(""
+
+
+        if(i=="
+1009937-w003,0,AC,472.2,499,44.595,0,0,0,0,0,0,0,0,0,0,29,20,0,0,0,0.0,"#include<stdio.h>
+#includ <string.h>
+int main(){
+    cha  s[56 ;
+    while(scanf(""%s ,s  != EOF {
+        int len =
+        int flag = 0;, j = len-1  i<=j; i++, j-- {
+            if(s[i  != s[j  {
+                break;(""
+                fla  = 1;
+
+        if(i==
+
+           f    {
+            pri   (""NO\n  ;
+         els {
+            p     (""YES\n  ;"
+1009937-w004,1,AC,472.2,499,28.223,0,0,0,0,0,0,3,2,1,0,24,22,0,1,0,0.0,"#include<stdio.h>
+#includ <string.h>
+int main(){
+    cha  s[56 ;
+    while(scanf(""%s ,s  != EOF {
+        int len =
+        int flag = 0;, j = len-1  i<=j; i++, j-- {
+        int if(s26  = {0[;  {
+                break;(""
+                fla  = 1;
+
+        if(i==
+             els {
+           f    {
+            pri   (""NO\n  ;
+         els {
+            p     (""YES\n  ;"
+1009937-w005,0,AC,472.2,499,0.43,9,9,0,0,15,15,23,21,2,0,37,34,0,1,3,18.119,"#include<stdio.h>
+#includ <string.h>
+int main(){
+    cha  s[56 ;
+    while(scanf(""%s ,s  != EOF {
+        int len =
+        int flag = 0;, j = len-1  i<=j; i++, j-- {
+        int if(s26  = {0[;  {
+                break;(""
+                fla  = 1;
+
+        if(i==
+             els {
+           f    cn [s[ii-'a +++;
+            pri   (""NO\n  ;
+         els {
+        int count = 0;S\n  ;"
+1008476-w001,0,AC,1093.3,489,1.327,4,3,1,0,4,3,7,5,2,0,13,10,0,0,1,24.417,"#include <stdio.h
+int main()
+{
+    int n;
+    while(scang(""%d ,&n !=EOF {
+        v              -1
+
+
+
+
+
+
+        }   p     (""%c
+        p"
+1008476-w002,1,AC,1093.3,489,18.694,0,0,0,0,0,0,2,2,0,0,2,2,0,0,0,0.0,"#include <stdio.h
+int main()
+{
+    int n;
+    while(scang(""%d ,&n !=EOF {
+        v              -1
+
+
+
+
+
+
+        }   p     (""%c ,'a++i ;
+        p"
+1008476-w003,0,AC,1093.3,489,7.599,0,0,0,0,2,2,69,18,51,0,83,31,0,1,2,6.026,"#include <stdio.h
+int main()
+{
+    int n;
+    while(scang(""%d ,&n !=EOF {
+        v              -1
+
+
+
+
+
+
+        }   p     (""\n ,;a++i ;
+        p
+        for(int j=0;j<n;j++ {
+            p     (""%c ,'a++j ;
+
+        for(int j=n;j>0;j-- {
+            p     (""%c ,"
+1008476-w004,0,AC,1093.3,489,1.056,2,2,0,0,2,2,4,4,0,0,32,28,0,1,1,28.505,"#include <stdio.h
+int main()
+{
+    int n;
+    while(scang(""%d ,&n !=EOF {
+        v              -1
+
+
+
+
+
+
+        }   p     (""\n ,;a++i ;
+        p
+        for(int j=0;j<n;j++ {
+            p     (""%c ,'a++j ;
+
+        for(int j=0;j<n-1++ {
+            p     (""%c"",'a -j+n-2 ;
+
+        p     (""\n  ;
+        for(int i=0;i<n-1++ {
+"
+1008476-w005,0,AC,1093.3,489,18.911,0,0,0,0,0,0,2,2,0,0,7,7,0,0,1,7.968,"#include <stdio.h
+int main()
+{
+    int n;
+    while(scang(""%d ,&n !=EOF {
+        v              -1
+
+
+
+
+
+
+        }   p     (""\n ,;a++i ;
+        p
+        for(int j=0;j<n;j++ {
+            p     (""%c ,'a++j ;
+
+        for(int j=0;j<n-1++ {
+            p     (""%c"",'a -j+n-2 ;
+
+        p     (""\n  ;
+        for(int i=0;i<n-1++ {
+            for(int j=0;j<n-1;j++ {
+                p     (""   ;
+
+            for(int j=0;j<n-1-i;j++ {
+                p     (""%c ,'a +n-i-2 ;"
+1050643-w001,0,AC,352.4,482,6.717,0,0,0,0,5,5,55,48,7,0,119,93,0,3,3,6.865,"#include <stdio.h
+#includ  <string.h>
+int main(voidd {
+    char str[81[;
+    while (scanf(""%s ,str  != EOF  {
+        i
+         nt len - strlen(str ;
+"
+1050643-w002,0,AC,352.4,482,0.578,9,8,1,0,19,17,19,17,2,0,67,60,0,0,0,0.0,"#include <stdio.h
+#includ  <string.h>
+int main(voidd {
+    char str[81[;
+    while (scanf(""%s ,str  != EOF  {
+        i
+         nt len - strlen(str ;
+        for (int i = 0;i<len i++  {
+            if (str[it >= 'a
+"
+1050643-w003,1,AC,352.4,482,38.444,0,0,0,0,0,0,0,0,0,0,30,28,0,0,0,0.0,"#include <stdio.h
+#includ  <string.h>
+int main(voidd {
+    char str[81[;
+    while (scanf(""%s ,str  != EOF  {
+        i
+         nt len - strlen(str ;]
+        char s[81i;= 0;i<len i++  {
+            if (str[it >= 'a  && str[i  <= 'z   {
+"
+1050643-w004,0,AC,352.4,482,0.493,6,5,1,0,6,5,6,5,1,0,17,16,0,0,0,0.0,"#include <stdio.h
+#includ  <string.h>
+int main(voidd {
+    char str[81[;
+    while (scanf(""%s ,str  != EOF  {
+        i
+         nt len - strlen(str ;]
+        char s[81i;= 0;i<len i++  {
+            if (str[it >= 'a  && str[i  <= 'z   {
+
+                s[i  = 'z  - (str["
+1050643-w005,0,AC,352.4,482,1.044,4,4,0,0,9,9,51,46,5,0,99,88,0,2,3,10.972,"#include <stdio.h
+#includ  <string.h>
+int main(voidd {
+    char str[81[;
+    while (scanf(""%s ,str  != EOF  {
+        i
+         nt len - strlen(str ;]
+        char s[81i;= 0;i<len i++  {
+            if (str[it >= 'a  && str[i  <= 'z   {
+
+                s[i  = 'z  - (str[i  - 'a  ;
+              else if (str[i= 'A  && str   [i  <= 'Z   {
+                s[i  = 'Z  - (str[i  - 'A  ;
+              else {
+                s[i  = str i ;"
+1135122-w001,1,AC,1318.7,895,26.876,0,0,0,0,0,0,1,1,0,0,3,2,0,1,0,0.0,"#include<stdio.h>
+#inc    <string.h>
+
+int main(
+{
+    while(scanf(""%d ,&n !=EOF {
+        int x=(n-4 /3;
+        int L=x+2;
+        int W=2*L;
+
+        v
+
+
+
+"
+1135122-w002,0,AC,1318.7,895,0.334,6,5,1,0,8,6,15,12,3,0,27,24,0,1,2,6.032,"#include<stdio.h>
+#inc    <string.h>
+
+int main(
+{
+    while(scanf(""%d ,&n !=EOF {
+        int x=(n-4 /3;
+        int L=x+2;
+        int W=2*L;
+
+        v
+
+
+
+
+        char grid[100={2000;
+
+        int row=0  for
+        for(int i=12i<=op     ;i++ {
+            int col=2*(i-1 ;
+            sp     (""grid[row [col ,%02d ,i  ;
+"
+1135122-w003,0,AC,1318.7,895,29.279,0,0,0,0,0,0,3,3,0,0,18,15,0,0,0,0.0,"#include<stdio.h>
+#inc    <string.h>
+
+int main(
+{
+    while(scanf(""%d ,&n !=EOF {
+        int x=(n-4 /3;
+        int L=x+2;
+        int W=2*L;
+
+        v
+
+
+
+
+        char grid[100={2000;
+
+        int row=0  for
+        for(int i=12i<=op     ;i++ {
+            int col=2*(i-1 ;
+            sp     (""\rid[row [col ,%""2d ""i  ;
+
+        for(int r=1;r<=x;r++ {
+            int num=mi          +r-1;
+            int"
+1135122-w004,0,AC,1318.7,895,6.515,0,0,0,0,9,7,35,29,6,0,62,53,0,2,1,6.049,"#include<stdio.h>
+#inc    <string.h>
+
+int main(
+{
+    while(scanf(""%d ,&n !=EOF {
+        int x=(n-4 /3;
+        int L=x+2;
+        int W=2*L;
+
+        v
+
+
+
+
+        char grid[100={2000;
+
+        int row=0  for
+        for(int i=12i<=op     ;i++ {
+            int col=2*(i-1 ;
+            sp     (""\rid[row [col ,%""2d ""i  ;
+
+        for(int r=1;r<=x;r++ {
+            int num=mi          +r-1;
+            int col=2*(L-r-1 ;
+            s      (&g   [r [col ,""%02d ,num ;
+
+        row=x+1;
+        v
+
+
+
+
+        }
+        int total_rows=x+2;
+        for(int r=0;r<t         ;r++ {
+        inr int last_char=-1;
+            for(int c=W-1;c>0;c-- {
+"
+1135122-w005,1,AC,1318.7,895,11.03,0,0,0,0,0,0,1,1,0,0,12,12,0,0,0,0.0,"#include<stdio.h>
+#inc    <string.h>
+
+int main(
+{
+    while(scanf(""%d ,&n !=EOF {
+        int x=(n-4 /3;
+        int L=x+2;
+        int W=2*L;
+
+        v
+
+
+
+
+        char grid[100={2000;
+
+        int row=0; for
+        for(int i=12i<=op     ;i++ {
+            int col=2*(i-1 ;
+            sp     (""\rid[row [col ,%""2d ""i  ;
+
+        for(int r=1;r<=x;r++ {
+            int num=mi          +r-1;
+            int col=2*(L-r-1 ;
+            s      (&g   [r [col ,""%02d ,num ;
+
+        row=x+1;
+        v
+
+
+
+
+        }
+        int total_rows=x+2;
+        for(int r=0;r<t         ;r++ {
+        inr int last_char=-1;
+            for(int c=W-1;c>=;c-- {
+                if(grid[r [c!!='  &&grid[r [c !=0 {
+                    la       =c;
+                    b    ;
+
+
+            if(l        >=0 {\
+                for(int c=0;c<=l        ;c++ {
+                    puchar (&rid [r [c  ;
+
+
+            p      ('\n  ;
+
+
+    return 0;"
+1145934-w001,0,AC,596.7,116,3.996,1,1,0,0,7,6,40,31,9,0,45,36,0,1,1,2.414,"v
+
+
+
+
+
+
+
+
+
+
+
+                          2*(   )
+
+
+
+
+                  y+x+1;y<=n;y++ {
+            printf(""%.2d ,
+
+    }"
+1145934-w002,1,AC,596.7,116,84.086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"v
+
+
+
+
+
+
+
+
+
+
+
+                          2*(   )
+
+
+
+
+                  y+x+1;y<=n;y++ {
+            printf(""%.2d ,i ;
+
+    }   printf(""\n  ;"
+1145934-w003,1,AC,596.7,116,188.511,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"v
+
+
+
+
+
+
+
+
+
+
+
+                          2*(   )
+
+
+
+
+                  y+x+1;y<=n;y++ {
+            printf(""%.2d ,i ;
+
+    }   printf(""\n  ;"
+1145934-w004,1,AC,596.7,116,17.671,0,0,0,0,0,0,6,6,0,0,19,17,0,1,2,9.409,"v
+
+
+
+
+
+
+
+
+
+        printf(""\n  ;
+        /*
+                          2*(   )
+
+
+
+
+                  y+x+1;y<=n;y++ {
+            printf(""%.2d ,i ;
+
+    }   */intf(""\n  ;"
+1145934-w005,1,AC,596.7,116,6.429,0,0,0,0,3,3,3,3,0,0,6,5,0,1,0,0.0,"v
+
+
+
+
+
+
+
+
+
+        printf(""\n  ;
+        /*
+                          2*(   )
+
+
+            }*
+
+        /*        y+x+1;y<=n;y++ {
+            printf(""%.2d ,i ;
+
+    }   */intf(""\n  ;"
+1359598-w001,1,CE,1669.2,1554,58.976,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0.0,"#include<stdio.h>
+#include<string.h>
+{
+    char a[41 ;
+    while(scanf(""%s ,a !=EOF {
+
+        int len=strlen(a ;
+        int sign_1=0;
+        int count=0;gn_1=1;
+"
+1359598-w002,0,CE,1669.2,1554,11.062,0,0,0,0,0,0,168,3,165,0,264,30,0,0,1,12.392,"#include<stdio.h>
+#include<string.h>
+{
+    char a[41 ;
+    while(scanf(""%s ,a !=EOF {
+
+        int len=strlen(a ;
+        int sign_1=0,sign_2=0,sign_3=0,sign_4=0,sign_5=0
+        int count=0;gn_1=1;
+
+c       count+=len;
+        for(int i=0;i<len;i++ {             c
+            if(a[i >'a &&a[i <'z   sign_3=1;
+            v        A         Z        4
+            if(a[i ==~ ||a[i = ='! ||a[i =='@ ||a[i =='# ||a[i =='$ ||"
+1359598-w003,1,CE,1669.2,1554,37.132,0,0,0,0,0,0,0,0,0,0,13,8,0,0,0,0.0,"#include<stdio.h>
+#include<string.h>
+{
+    char a[41 ;
+    while(scanf(""%s ,a !=EOF {
+
+        int len=strlen(a ;
+        int sign_1=0,sign_2=0,sign_3=0,sign_4=0,sign_5=0
+        int count=0;gn_1=1;
+
+c       count+=len;
+        for(int i=0;i<len;i++ {             c
+            if(a[i >'a &&a[i <'z   sign_3=1;
+            v        A         Z        4
+            if(a[i ==~ ||a[i = ='! ||a[i =='@ ||a[i =='# ||a[i =='$ ||a[i =='% ||a[i =='[]||a[i =='] ||a[i =='' ||a[i =='/ ||a[i ='\ ||a[i ='"" ||a[i ='( ||a[i ==')  {
+                sign_5=1;
+
+
+        for(int i=0;i<len-3;i++ {
+"
+1359598-w004,0,CE,1669.2,1554,1.365,7,7,0,0,14,13,28,25,3,0,106,39,0,0,3,10.344,"#include<stdio.h>
+#include<string.h>
+{
+    char a[41 ;
+    while(scanf(""%s ,a !=EOF {
+    char b[15 ={'~ ,'! ,'@ ,'# ,'$ ,'% ,'[ ,'] ,'' ,'/ ,'\ ,'( ,')  ;
+        int len=strlen(a ;
+        int sign_1=0,sign_2=0,sign_3=0,sign_4=0,sign_5=0,sign_6=0
+        int count=0;gn_1=1;
+
+c       count+=len;
+        for(int i=0;i<len;i++ {             c
+            if(a[i >'a &&a[i <'z   sign_3=1;
+            v        A         Z        4
+            if(a[i ==~ ||a[i = ='! ||a[i =='@ ||a[i =='# ||a[i =='$ ||a[i =='% ||a[i =='[]||a[i =='] ||a[i =='' ||a[i =='/ ||a[i ='\ ||a[i ='"" ||a[i ='( ||a[i ==')  {
+            for(int j=0;;c
+
+
+        for(int i=0;i<len-3;i++ {
+            if(a[i -'0 ==[i+1'0    &&a[i+1 -'0 ==a[i+2 -'0   sign_6=1;
+            else"
+1359598-w005,0,CE,1669.2,1554,0.001,8,8,0,0,11,11,48,35,13,0,64,48,0,1,4,9.979,"#include<stdio.h>
+#include<string.h>
+{
+    char a[41 ;
+    while(scanf(""%s ,a !=EOF {
+    char b[15 ={'~ ,'! ,'@ ,'# ,'$ ,'% ,'[ ,'] ,'' ,'/ ,'\ ,'( ,')  ;
+        int len=strlen(a ;
+        int sign_1=0,sign_2=0,sign_3=0,sign_4=0,sign_5=0,sign_6=0
+        int count=0;gn_1=1;
+
+c       count+=len;
+        for(int i=0;i<len;i++ {             c
+            if(a[i >'a &&a[i <'z   sign_3=1;
+            v        A         Z        4
+            if(a[i ==~ ||a[i = ='! ||a[i =='@ ||a[i =='# ||a[i =='$ ||a[i =='% ||a[i =='[]||a[i =='] ||a[i =='' ||a[i =='/ ||a[i ='\ ||a[i ='"" ||a[i ='( ||a[i ==')  {
+            for(int j=0;j<14;i++ {c
+                if(a[i ==b[j   sign_5=1;
+
+        for(int i=0;i<len-3;i++ {
+            if(a[i -'0 ==[i+1'0    &&a[i+1 -'0 ==a[i+2 -'0   sign_6=1;
+            else
+               e{f
+                vor(int
+                    =b[j ;}
+                v   }                 }
+                    a[i]b[j  ;
+                       +1
+
+                sign_6=1;
+            c       a[
+
+     c  if(sign_1==1 {
+            printf(""0\n  ;con"
+1428909-w001,1,AC,328.5,277,30.163,0,0,0,0,0,0,0,0,0,0,64,55,0,0,0,0.0,"
+
+
+
+
+
+
+        vector<int> nums(n ;
+        for(int i=0;i<n;i++  cin>>nums[i ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ v"
+1428909-w002,0,AC,328.5,277,0.204,9,7,2,0,15,13,38,34,4,0,58,52,0,0,2,7.048,"
+
+
+
+
+
+
+        vector<int> nums(n ;
+        for(int i=0;i<n;i++  cin>>nums[i ;
+        {
+            int a;
+            cin>>a;
+            nums[i==(a+1u/2[i =a/2;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ v"
+1428909-w003,1,AC,328.5,277,57.094,0,0,0,0,0,0,0,0,0,0,7,6,0,0,0,0.0,"
+
+
+
+
+
+
+        vector<int> nums(n ;
+        for(int i=0;i<n;i++  cin>>nums[i ;
+        {
+            int a;
+            cin>>a;
+            nums[i==(a+1u/2;i =a/2;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ v"
+1428909-w004,0,AC,328.5,277,20.705,0,0,0,0,0,0,30,25,5,0,77,69,0,3,0,0.0,"
+
+
+
+
+
+
+        vector<int> nums(n ;
+        for(int i=0;i<n;i++  cin>>nums[i ;
+        {
+            int a;
+            cin>>a;
+            nums[i==(a+1u/2;i =a/2;
+
+        sort(nums.begin( ,nums.end(  ;
+        int result=0;
+        for(int i=0;i<n;i++
+        {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ v"
+1428909-w005,0,AC,328.5,277,0.527,8,7,1,0,18,17,22,20,2,0,24,22,0,0,0,0.0,"
+
+
+
+
+
+
+        vector<int> nums(n ;
+        for(int i=0;i<n;i++  cin>>nums[i ;
+        {
+            int a;
+            cin>>a;
+            nums[i==(a+1u/2;i =a/2;
+
+        sort(nums.begin( ,nums.end(  ;
+        int result=1;
+        for(int i=1;i<n;i++
+        {
+            if(nums[i -nums[i-1 >1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ v"
+1006107-w001,1,WA,1617.0,282,53.968,0,0,0,0,0,0,0,0,0,0,9,6,0,0,0,0.0,"#include <stdio.h>
+int main(
+{
+    int n;scanf(""%d ,&n !=EOF
+    {
+
+        for(int i=1;i<= ;i++
+        {
+            for(int j=1;j<i;j++
+            {
+"
+1006107-w002,0,WA,1617.0,282,4.395,1,1,0,0,7,7,23,20,3,0,57,43,0,1,1,9.945,"#include <stdio.h>
+int main(
+{
+    int n;scanf(""%d ,&n !=EOF
+    int count=0;
+
+        for(int i=1;i<= /2++
+        {
+            for(int j=n/2<n;j++
+            {
+                if
+                  ((i+j %i*j==0
+                {
+                    count++;
+
+
+
+        printf(""%d ,count ;"
+1006107-w003,1,WA,1617.0,282,39.033,0,0,0,0,0,0,0,0,0,0,6,4,0,0,0,0.0,"#include <stdio.h>
+int main(
+{
+    int n;scanf(""%d ,&n !=EOF
+    int count=0;
+
+        for(int i=1;i<= /2++
+        {             =
+            for(int j=n/2<n;j++
+            {
+                if
+                  ((i+j %(*+=)0
+                {
+                    count++;
+
+
+
+        printf(""%d\ncount ;"
+1006107-w004,1,WA,1617.0,282,4.223,2,1,1,0,2,1,3,2,1,0,3,2,0,0,1,16.848,"#include <stdio.h>
+int main(
+{
+    int n;scanf(""%d ,&n !=EOF
+    int count=0;
+
+        for(int i=1;i<= /2++
+        {             = /2
+            for(int j=n/2<n;j++
+            {        =n/2   =
+                if
+                  ((i+j %(**=)0
+                {
+                    count++;
+
+
+
+        printf(""%d\ncount ;"
+1006107-w005,0,WA,1617.0,282,241.62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"#include <stdio.h>
+int main(
+{
+    int n;scanf(""%d ,&n !=EOF
+    int count=0;
+
+        for(int i=1;i<= /2++
+        {             = /2
+            for(int j=n/2<n;j++
+            {        =n/2   =
+                if
+                  ((i+* %(**+)0)
+                {
+                    count++;
+
+
+
+        printf(""%d\ncount ;"
+1398659-w001,-1,CE,941.8,99,1.083,6,1,5,1,6,1,13,2,11,2,15,3,0,0,2,17.34,"v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
+1398659-w002,-1,CE,941.8,99,104.841,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
+1398659-w003,-1,CE,941.8,99,115.778,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
+1398659-w004,-1,CE,941.8,99,66.337,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
+1398659-w005,-1,CE,941.8,99,98.657,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,"v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ c"
