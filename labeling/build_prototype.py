@@ -42,7 +42,8 @@ NON_TEXT_KEYS = MODIFIERS | NAVIGATION | {"Dead", "Process", "Unidentified"}
 
 def parse_time(value: object) -> pd.Timestamp | None:
     text = re.sub(r":(\d+)$", r".\1", str(value))
-    for fmt in ("%Y/%m/%d %H:%M:%S.%f", "%m/%d/%Y, %I:%M:%S %p.%f",
+    for fmt in ("%Y/%m/%d %H:%M:%S.%f", "%Y-%m-%d %H:%M:%S.%f",
+                "%m/%d/%Y, %I:%M:%S %p.%f",
                 "%Y-%m-%d %I:%M:%S %p.%f", "%d/%m/%Y, %H:%M:%S.%f"):
         try:
             return pd.to_datetime(text, format=fmt)
@@ -51,9 +52,9 @@ def parse_time(value: object) -> pd.Timestamp | None:
     return None
 
 
-def build_index() -> dict[int, Path]:
+def build_index(export_dir: Path = EXPORT) -> dict[int, Path]:
     index: dict[int, Path] = {}
-    files = sorted(EXPORT.glob("key_action_batch_*.csv"))
+    files = sorted(set(export_dir.glob("key_action_batch_*.csv")) | set(export_dir.glob("key_action_clean.csv")))
     for no, path in enumerate(files, 1):
         try:
             ids = pd.read_csv(path, usecols=["solution_id"])["solution_id"]
@@ -228,7 +229,7 @@ def window_row(sid: int, meta: dict, events: list[dict], end: pd.Timestamp, ordi
     return row
 
 
-def make_page(rows: list[dict]) -> None:
+def make_page(rows: list[dict], page_out: Path = PAGE_OUT) -> None:
     payload = json.dumps(rows, ensure_ascii=False).replace("</", "<\\/")
     template = r'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
 <title>Prototype window labeling</title><style>
@@ -243,16 +244,26 @@ function select(i){if(i<0){document.getElementById('detail').innerHTML='<h2>å…¨é
 function mark(v){const r=rows[active];labels[r.window_id]={window_id:r.window_id,solution_id:r.solution_id,event_index:r.event_index,window_end_time:r.window_end_time,label:v};localStorage.setItem('prototype_labels',JSON.stringify(labels));const next=nextUnlabelled();renderList();select(next)}
 function downloadCsv(){const cols=['window_id','solution_id','event_index','window_end_time','label'];const lines=[cols.join(',')];rows.forEach(r=>{if(labels[r.window_id])lines.push(cols.map(c=>JSON.stringify(labels[r.window_id][c]??'')).join(','))});const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([lines.join('\n')],{type:'text/csv;charset=utf-8'}));a.download='prototype_labels.csv';a.click()}
 renderList();select(nextUnlabelled());</script></body></html>'''
-    PAGE_OUT.write_text(template.replace("__ROWS__", payload), encoding="utf-8")
+    page_out.parent.mkdir(parents=True, exist_ok=True)
+    page_out.write_text(template.replace("__ROWS__", payload), encoding="utf-8")
 
 
 def fetch_submissions(solution_ids: list[int]) -> dict[int, str]:
     """Read submitted code when the existing OJ database is reachable."""
     if pymysql is None or not solution_ids:
         return {}
+    password = os.environ.get("OJ_DB_PASSWORD", "")
+    if not password:
+        dotenv = PROJECT / ".env"
+        if dotenv.exists():
+            for line in dotenv.read_text(encoding="utf-8").splitlines():
+                key, separator, value = line.partition("=")
+                if separator and key.strip() == "OJ_DB_PASSWORD":
+                    password = value.strip().strip("\"'")
+                    break
     try:
         conn = pymysql.connect(host="122.207.108.6", port=53306, user="root",
-                               password=os.environ.get("OJ_DB_PASSWORD", ""), database="csuoj_db",
+                               password=password, database="csuoj_db",
                                charset="utf8mb4", connect_timeout=5, read_timeout=20)
         result: dict[int, str] = {}
         with conn.cursor() as cur:
@@ -274,11 +285,23 @@ def main() -> None:
     parser.add_argument("--n-sessions", type=int, default=100)
     parser.add_argument("--windows-per-session", type=int, default=5)
     parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--events-dir", type=Path, default=EXPORT,
+                        help="directory containing key_action_batch_*.csv or key_action_clean.csv")
+    parser.add_argument("--sessions-file", type=Path, default=DATA / "clean_sessions.csv",
+                        help="clean session CSV to sample from")
+    parser.add_argument("--output-dir", type=Path, default=DATA,
+                        help="directory for prototype_windows.csv, labels template, and HTML page")
     args = parser.parse_args()
-    clean = pd.read_csv(DATA / "clean_sessions.csv")
+    clean = pd.read_csv(args.sessions_file)
+    # Accept the explicit names emitted by extract_clean_dataset.py while
+    # retaining compatibility with the original clean_sessions.csv schema.
+    if "total_keys" not in clean.columns and "event_count" in clean.columns:
+        clean["total_keys"] = clean["event_count"]
+    if "judge" not in clean.columns and "final_judge" in clean.columns:
+        clean["judge"] = clean["final_judge"]
     clean = clean[(clean["duration_s"] >= 60) & (clean["total_keys"] >= 30)].drop_duplicates("solution_id")
     clean["solution_id"] = clean["solution_id"].astype(int)
-    index = build_index()
+    index = build_index(args.events_dir)
     candidates = clean[clean.solution_id.isin(index)].copy()
     rng = random.Random(args.seed)
     selected = rng.sample(candidates.solution_id.tolist(), min(args.n_sessions, len(candidates)))
@@ -298,17 +321,21 @@ def main() -> None:
         row["submitted_code"] = submissions.get(int(row["solution_id"]), "")
     frame = pd.DataFrame(rows)
     DATA.mkdir(exist_ok=True); SESSIONS.mkdir(exist_ok=True)
-    frame.to_csv(WINDOW_OUT, index=False, encoding="utf-8-sig")
-    LABEL_OUT.write_text("window_id,solution_id,event_index,window_end_time,label\n", encoding="utf-8")
-    make_page(frame.to_dict("records"))
+    window_out = args.output_dir / "prototype_windows.csv"
+    label_out = args.output_dir / "prototype_labels.csv"
+    page_out = args.output_dir.parent / "sessions" / "prototype_label.html" if args.output_dir == DATA else args.output_dir / "prototype_label.html"
+    args.output_dir.mkdir(parents=True, exist_ok=True)
+    frame.to_csv(window_out, index=False, encoding="utf-8-sig")
+    label_out.write_text("window_id,solution_id,event_index,window_end_time,label\n", encoding="utf-8")
+    make_page(frame.to_dict("records"), page_out)
     print(f"selected_sessions={len(selected)}")
     print(f"built_windows={len(frame)}")
     print(f"unique_window_id={frame.window_id.nunique()}")
     print(f"window_columns={len(frame.columns)}")
     print(f"submitted_code_rows={sum(bool(x) for x in frame['submitted_code'])}")
-    print(f"windows={WINDOW_OUT}")
-    print(f"labels_template={LABEL_OUT}")
-    print(f"label_page={PAGE_OUT}")
+    print(f"windows={window_out}")
+    print(f"labels_template={label_out}")
+    print(f"label_page={page_out}")
 
 
 if __name__ == "__main__":

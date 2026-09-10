@@ -1,6 +1,7 @@
 # ==== 数据（体积大 / 含学生隐私，不上传）====
 data/export/
 data/analysis/
+data/clean_oj/
 data/*.xlsx
 data/*.dmp
 
