@@ -1,0 +1,23 @@
+{
+  "recall_candidates": {
+    "sessions": 84,
+    "homogeneous_sessions": 43,
+    "homogeneous_session_rate": 0.5119047619047619,
+    "median_windows_per_session": 5.0,
+    "max_windows_per_session": 5
+  },
+  "human_reviewed": {
+    "sessions": 83,
+    "homogeneous_sessions": 63,
+    "homogeneous_session_rate": 0.7590361445783133,
+    "median_windows_per_session": 4.0,
+    "max_windows_per_session": 5
+  },
+  "human_complete": {
+    "sessions": 84,
+    "homogeneous_sessions": 38,
+    "homogeneous_session_rate": 0.4523809523809524,
+    "median_windows_per_session": 5.0,
+    "max_windows_per_session": 5
+  }
+}

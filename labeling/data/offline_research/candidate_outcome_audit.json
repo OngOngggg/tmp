@@ -1,0 +1,10 @@
+{
+  "rows": 172622,
+  "invalid_trigger_time": 169,
+  "valid_trigger_time_rate": 0.9990209822618207,
+  "sessions": 37462,
+  "no_future_event_rate": 0.0,
+  "recovered_30s_rate": 0.3502798021109708,
+  "recovered_60s_rate": 0.5322496553162401,
+  "recovered_120s_rate": 0.705489450939046
+}

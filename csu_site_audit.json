@@ -1,0 +1,1711 @@
+{
+  "学校办公室": {
+    "root": {
+      "ok": true,
+      "status": 200,
+      "url": "https://office.csu.edu.cn/",
+      "title": "中南大学学校办公室门户网站",
+      "text_len": 5963
+    },
+    "pages": [
+      {
+        "label": "首页",
+        "url": "https://office.csu.edu.cn/",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学学校办公室门户网站",
+        "text_len": 5963,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "部门简介",
+        "url": "https://ca.csu.edu.cn/authserver/login?service=http%3A%2F%2Foffice.csu.edu.cn%2Fsystem%2Fresource%2Fcode%2Fauth%2Fclogin.jsp%3Fowner%3D2083116236",
+        "ok": true,
+        "status": 200,
+        "title": "统一身份认证平台",
+        "text_len": 2930,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": false,
+        "has_news_terms": false
+      },
+      {
+        "label": "部门简介",
+        "url": "https://ca.csu.edu.cn/authserver/login?service=http%3A%2F%2Foffice.csu.edu.cn%2Fsystem%2Fresource%2Fcode%2Fauth%2Fclogin.jsp%3Fowner%3D2083116236",
+        "ok": true,
+        "status": 200,
+        "title": "统一身份认证平台",
+        "text_len": 2930,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": false,
+        "has_news_terms": false
+      },
+      {
+        "label": "内设机构",
+        "url": "https://ca.csu.edu.cn/authserver/login?service=http%3A%2F%2Foffice.csu.edu.cn%2Fsystem%2Fresource%2Fcode%2Fauth%2Fclogin.jsp%3Fowner%3D2083116236",
+        "ok": true,
+        "status": 200,
+        "title": "统一身份认证平台",
+        "text_len": 2930,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": false,
+        "has_news_terms": false
+      },
+      {
+        "label": "联系我们",
+        "url": "https://ca.csu.edu.cn/authserver/login?service=http%3A%2F%2Foffice.csu.edu.cn%2Fsystem%2Fresource%2Fcode%2Fauth%2Fclogin.jsp%3Fowner%3D2083116236",
+        "ok": true,
+        "status": 200,
+        "title": "统一身份认证平台",
+        "text_len": 2930,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": false,
+        "has_news_terms": false
+      }
+    ]
+  },
+  "政策研究室": {
+    "root": {
+      "ok": true,
+      "status": 200,
+      "url": "https://zys.csu.edu.cn/",
+      "title": "中南大学政策研究室",
+      "text_len": 3590
+    },
+    "pages": [
+      {
+        "label": "首页",
+        "url": "https://zys.csu.edu.cn/",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学政策研究室",
+        "text_len": 3590,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "部门职责",
+        "url": "https://zys.csu.edu.cn/bmgk/bmzz.htm",
+        "ok": true,
+        "status": 200,
+        "title": "部门职责-中南大学政策研究室",
+        "text_len": 2598,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "领导分工",
+        "url": "https://zys.csu.edu.cn/bmgk/ldfg.htm",
+        "ok": true,
+        "status": 200,
+        "title": "领导分工-中南大学政策研究室",
+        "text_len": 2573,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "联系我们",
+        "url": "https://zys.csu.edu.cn/bmgk/lxwm.htm",
+        "ok": true,
+        "status": 200,
+        "title": "联系我们-中南大学政策研究室",
+        "text_len": 2435,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "高教动态",
+        "url": "https://zys.csu.edu.cn/gjdt.htm",
+        "ok": true,
+        "status": 200,
+        "title": "高教动态-中南大学政策研究室",
+        "text_len": 2656,
+        "dates": [
+          "2026年6月22日"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "政策研究室召开暑期工作部署会议 7月16日，政策研究室召开暑期工作部署专题会议，政研室主任尹翔主持会议，政研室领导班子及全体职工参加会议。会上，尹翔主任强调了暑期工作的重要性和紧迫性，指出暑期是承上启下的关键时期，要求全体职工充分利... 查看详情+",
+        "url": "https://zys.csu.edu.cn/info/1032/1151.htm",
+        "ok": true,
+        "status": 200,
+        "title": "政策研究室召开暑期工作部署会议-中南大学政策研究室",
+        "text_len": 2333,
+        "dates": [
+          "2026-07-20"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      }
+    ]
+  },
+  "校纪委": {
+    "root": {
+      "ok": true,
+      "status": 200,
+      "url": "https://jjjc.csu.edu.cn/",
+      "title": "中南大学纪检监察",
+      "text_len": 4711
+    },
+    "pages": [
+      {
+        "label": "首页",
+        "url": "https://jjjc.csu.edu.cn/",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学纪检监察",
+        "text_len": 4711,
+        "dates": [
+          "2026-05-25",
+          "2026-06-04",
+          "2026-06-08",
+          "2026-06-22",
+          "2026-07-14"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "机构设置",
+        "url": "https://jjjc.csu.edu.cn/jgsz.htm",
+        "ok": true,
+        "status": 200,
+        "title": "机构设置-中南大学纪检监察",
+        "text_len": 2406,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "领导机构",
+        "url": "https://jjjc.csu.edu.cn/jgsz/ldjg.htm",
+        "ok": true,
+        "status": 200,
+        "title": "领导机构-中南大学纪检监察",
+        "text_len": 2413,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "组织机构",
+        "url": "https://jjjc.csu.edu.cn/jgsz/zzjg.htm",
+        "ok": true,
+        "status": 200,
+        "title": "组织机构-中南大学纪检监察",
+        "text_len": 2576,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "工作动态",
+        "url": "https://jjjc.csu.edu.cn/gzdt.htm",
+        "ok": true,
+        "status": 200,
+        "title": "工作动态-中南大学纪检监察",
+        "text_len": 2556,
+        "dates": [
+          "2026-03-13",
+          "2026-03-25",
+          "2026-03-26",
+          "2026-04-07",
+          "2026-04-14",
+          "2026-04-20",
+          "2026-05-21",
+          "2026-05-24",
+          "2026-05-25",
+          "2026-06-04",
+          "2026-06-08",
+          "2026-06-22",
+          "2026-07-14"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "通知公告",
+        "url": "https://jjjc.csu.edu.cn/tzgg.htm",
+        "ok": true,
+        "status": 200,
+        "title": "通知公告-中南大学纪检监察",
+        "text_len": 2192,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "二级纪委工作动态",
+        "url": "https://jjjc.csu.edu.cn/ejjwgzdt.htm",
+        "ok": true,
+        "status": 200,
+        "title": "二级纪委工作动态-中南大学纪检监察",
+        "text_len": 2252,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "2021-11 16 关于停止使用互联网邮箱作为举报受理渠道的通知",
+        "url": "https://jjjc.csu.edu.cn/info/1004/3076.htm",
+        "ok": true,
+        "status": 200,
+        "title": "关于停止使用互联网邮箱作为举报受理渠道的通知 -中南大学纪检监察",
+        "text_len": 1781,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "2020-01 10 领导干部插手干预重大事项记录表",
+        "url": "https://jjjc.csu.edu.cn/info/1004/2698.htm",
+        "ok": true,
+        "status": 200,
+        "title": "领导干部插手干预重大事项记录表-中南大学纪检监察",
+        "text_len": 1702,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "2019-11 04 重新转发：关于认真贯彻落实《关于党和国家工作人员操办婚丧喜庆事宜的暂行规定》的通知",
+        "url": "https://jjjc.csu.edu.cn/info/1004/2240.htm",
+        "ok": true,
+        "status": 200,
+        "title": "重新转发：关于认真贯彻落实《关于党和国家工作人员操办婚丧喜庆事宜的暂行规定》的通知-中南大学纪检监察",
+        "text_len": 4948,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "2026-05 21 关于做好2026年五一、端午期间 正风肃纪工作的通知",
+        "url": "https://jjjc.csu.edu.cn/info/1004/3877.htm",
+        "ok": true,
+        "status": 200,
+        "title": "关于做好2026年五一、端午期间 正风肃纪工作的通知-中南大学纪检监察",
+        "text_len": 2158,
+        "dates": [
+          "2026-05-21"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "2025-12 26 关于做好2026年元旦春节期间正风肃纪工作的通知",
+        "url": "https://jjjc.csu.edu.cn/info/1004/3808.htm",
+        "ok": true,
+        "status": 200,
+        "title": "关于做好2026年元旦春节期间正风肃纪工作的通知-中南大学纪检监察",
+        "text_len": 2560,
+        "dates": [
+          "2025-12-26",
+          "2025年12月26日"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "2025-10 31 关于开展2025年党风廉政宣传教育月活动的通知",
+        "url": "https://jjjc.csu.edu.cn/info/1004/3784.htm",
+        "ok": true,
+        "status": 200,
+        "title": "关于开展2025年党风廉政宣传教育月活动的通知-中南大学纪检监察",
+        "text_len": 2992,
+        "dates": [
+          "2025-10-31",
+          "2025年10月31日"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "2025-09 09 关于做好2025年教师、中秋、国庆节期间正风肃纪工作的通知",
+        "url": "https://jjjc.csu.edu.cn/info/1004/3785.htm",
+        "ok": true,
+        "status": 200,
+        "title": "关于做好2025年教师、中秋、国庆节期间正风肃纪工作的通知-中南大学纪检监察",
+        "text_len": 2153,
+        "dates": [
+          "2025-09-09",
+          "2025年9月9日"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "2025-07 01 关于举办廉洁教育系列活动的通知",
+        "url": "https://jjjc.csu.edu.cn/info/1004/3783.htm",
+        "ok": true,
+        "status": 200,
+        "title": "关于举办廉洁教育系列活动的通知-中南大学纪检监察",
+        "text_len": 3302,
+        "dates": [
+          "2025-07-01",
+          "2025年7月1日"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "【政策法规】中共中央纪委关于印发《纪检监察规范性文件备案审查规定》的通知",
+        "url": "https://jjjc.csu.edu.cn/中共中央纪委关于印发《纪检监察规范性文件备案审查规定》的通知",
+        "ok": false,
+        "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-34: ordinal not in range(128)"
+      },
+      {
+        "label": "【政策法规】事业单位领导人员管理规定",
+        "url": "https://jjjc.csu.edu.cn/事业单位领导人员管理规定",
+        "ok": false,
+        "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-16: ordinal not in range(128)"
+      },
+      {
+        "label": "【警钟长鸣】湖南通报领导干部违规插手医院工程和药品设备招标采购问题典型案例",
+        "url": "https://jjjc.csu.edu.cn/湖南通报领导干部违规插手医院工程和药品设备招标采购问题典型案例",
+        "ok": false,
+        "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-35: ordinal not in range(128)"
+      },
+      {
+        "label": "【二级纪委工作动态】省卫生健康委及4家直属医院来湘雅二医院调研",
+        "url": "https://jjjc.csu.edu.cn/info/1009/3873.htm",
+        "ok": true,
+        "status": 200,
+        "title": "省卫生健康委及4家直属医院来湘雅二医院调研-中南大学纪检监察",
+        "text_len": 2420,
+        "dates": [
+          "2026-04-24"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "【二级纪委工作动态】中南大学湘雅二医院召开2026年全面从严治党工作会议",
+        "url": "https://jjjc.csu.edu.cn/info/1009/3856.htm",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学湘雅二医院召开2026年全面从严治党工作会议-中南大学纪检监察",
+        "text_len": 2572,
+        "dates": [
+          "2026-04-20"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "【二级纪委工作动态】驻省卫生健康委纪检监察组赵培军组长来院调研",
+        "url": "https://jjjc.csu.edu.cn/info/1009/3854.htm",
+        "ok": true,
+        "status": 200,
+        "title": "驻省卫生健康委纪检监察组赵培军组长来院调研-中南大学纪检监察",
+        "text_len": 2549,
+        "dates": [
+          "2026-04-10"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "【二级纪委工作动态】湘雅二医院以穿透式协同监督护航更好履行“守护人民生命健康”职责使命",
+        "url": "https://jjjc.csu.edu.cn/info/1009/3838.htm",
+        "ok": true,
+        "status": 200,
+        "title": "湘雅二医院以穿透式协同监督护航更好履行“守护人民生命健康”职责使命-中南大学纪检监察",
+        "text_len": 2699,
+        "dates": [
+          "2026-03-23"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "【二级纪委工作动态】湘雅三医院纪委组织召开药学部“以案为鉴、以案促改”警示教育会暨集体廉洁谈话",
+        "url": "https://jjjc.csu.edu.cn/info/1009/3836.htm",
+        "ok": true,
+        "status": 200,
+        "title": "湘雅三医院纪委组织召开药学部“以案为鉴、以案促改”警示教育会暨集体廉洁谈话-中南大学纪检监察",
+        "text_len": 2428,
+        "dates": [
+          "2026-03-13"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "【二级纪委工作动态】清风竞赛砺初心 廉韵传承十五载——湘雅三医院举办党风廉政知识竞赛暨2025年“新湘雅廉政文化节”闭幕式",
+        "url": "https://jjjc.csu.edu.cn/info/1009/3807.htm",
+        "ok": true,
+        "status": 200,
+        "title": "清风竞赛砺初心 廉韵传承十五载——湘雅三医院举办党风廉政知识竞赛暨2025年“新湘雅廉政文化节”闭幕式-中南大学纪检监察",
+        "text_len": 3552,
+        "dates": [
+          "2025-12-30"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      }
+    ]
+  },
+  "党委巡视办": {
+    "root": {
+      "ok": true,
+      "status": 200,
+      "url": "https://dwxsb.csu.edu.cn/",
+      "title": "中南大学党委巡视工作领导小组办公室",
+      "text_len": 5703
+    },
+    "pages": [
+      {
+        "label": "首页",
+        "url": "https://dwxsb.csu.edu.cn/",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学党委巡视工作领导小组办公室",
+        "text_len": 5703,
+        "dates": [
+          "2025.11.20",
+          "2026.04.13"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "组织机构",
+        "url": "https://dwxsb.csu.edu.cn/zzjg1/xsgzldxz.htm",
+        "ok": true,
+        "status": 200,
+        "title": "巡视工作领导小组-中南大学党委巡视工作领导小组办公室",
+        "text_len": 3029,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "工作动态",
+        "url": "https://dwxsb.csu.edu.cn/gzdt.htm",
+        "ok": true,
+        "status": 200,
+        "title": "工作动态-中南大学党委巡视工作领导小组办公室",
+        "text_len": 2793,
+        "dates": [
+          "2026-03-26",
+          "2026-04-13",
+          "2026-04-15",
+          "2026-04-17",
+          "2026-04-20",
+          "2026-04-24",
+          "2026-05-25",
+          "2026-06-04"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "通知公告",
+        "url": "https://dwxsb.csu.edu.cn/tzgg.htm",
+        "ok": true,
+        "status": 200,
+        "title": "通知公告-中南大学党委巡视工作领导小组办公室",
+        "text_len": 2719,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "中共中南大学委员会巡视工作领导小组议事规则",
+        "url": "https://dwxsb.csu.edu.cn/info/1022/1054.htm",
+        "ok": true,
+        "status": 200,
+        "title": "中共中南大学委员会巡视工作领导小组议事规则-中南大学党委巡视工作领导小组办公室",
+        "text_len": 6145,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      }
+    ]
+  },
+  "组织部": {
+    "root": {
+      "ok": true,
+      "status": 200,
+      "url": "https://zzb.csu.edu.cn/",
+      "title": "中南大学党委组织部",
+      "text_len": 2608
+    },
+    "pages": [
+      {
+        "label": "首页",
+        "url": "https://zzb.csu.edu.cn/",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学党委组织部",
+        "text_len": 2608,
+        "dates": [
+          "2026.03.26",
+          "2026.04.01",
+          "2026.05.13"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "工作动态",
+        "url": "https://zzb.csu.edu.cn/index/gzdt.htm",
+        "ok": true,
+        "status": 200,
+        "title": "工作动态-中南大学党委组织部",
+        "text_len": 2942,
+        "dates": [
+          "2026.08.12",
+          "2026.08.13",
+          "2026.08.14",
+          "2026.08.17",
+          "2026.08.18",
+          "2026.08.25",
+          "2026.08.26",
+          "2026.08.27",
+          "2026.08.28",
+          "2026.08.29",
+          "2026.08.31",
+          "2026.09.01",
+          "2026.09.03",
+          "2026.09.04",
+          "2026.09.05",
+          "2026.09.06",
+          "2026.09.09",
+          "2026.09.10",
+          "2026.09.11",
+          "2026.09.12"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "通知公告",
+        "url": "https://zzb.csu.edu.cn/index/tzgg.htm",
+        "ok": true,
+        "status": 200,
+        "title": "通知公告-中南大学党委组织部",
+        "text_len": 2516,
+        "dates": [
+          "2025.01.01",
+          "2025.02.28",
+          "2025.03.31",
+          "2025.04.30",
+          "2025.05.30",
+          "2025.07.01",
+          "2025.08.01",
+          "2025.08.31",
+          "2025.09.01",
+          "2025.10.31",
+          "2025.12.01",
+          "2025.12.31",
+          "2025年1-2",
+          "2025年7-8",
+          "2026.03.01",
+          "2026.03.31"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "部门信息",
+        "url": "https://zzb.csu.edu.cn/bmxx.htm",
+        "ok": true,
+        "status": 200,
+        "title": "部门信息-中南大学党委组织部",
+        "text_len": 1925,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "职能简介",
+        "url": "https://zzb.csu.edu.cn/bmxx/znjj.htm",
+        "ok": true,
+        "status": 200,
+        "title": "职能简介-中南大学党委组织部",
+        "text_len": 1933,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "领导分工",
+        "url": "https://zzb.csu.edu.cn/bmxx/ldfg.htm",
+        "ok": true,
+        "status": 200,
+        "title": "领导分工-中南大学党委组织部",
+        "text_len": 1741,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "部门职责",
+        "url": "https://zzb.csu.edu.cn/bmxx/bmzz.htm",
+        "ok": true,
+        "status": 200,
+        "title": "部门职责-中南大学党委组织部",
+        "text_len": 1448,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "组织建设",
+        "url": "https://zzb.csu.edu.cn/djgz/zzjs.htm",
+        "ok": true,
+        "status": 200,
+        "title": "组织建设-中南大学党委组织部",
+        "text_len": 1118,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "2025 12-31 关于组织部、党校领导班子2025年度民主生活会征求意见的通知",
+        "url": "https://zzb.csu.edu.cn/info/1145/2666.htm",
+        "ok": true,
+        "status": 200,
+        "title": "关于组织部、党校领导班子2025年度民主生活会征求意见的通知-中南大学党委组织部",
+        "text_len": 1417,
+        "dates": [
+          "2025-12-31"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "关于认真做好科级干部信息采集工作的通知",
+        "url": "https://zzb.csu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1172&wbnewsid=1245",
+        "ok": true,
+        "status": 200,
+        "title": "关于认真做好科级干部信息采集工作的通知-中南大学党委组织部",
+        "text_len": 850,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      }
+    ]
+  },
+  "宣传部": {
+    "root": {
+      "ok": true,
+      "status": 200,
+      "url": "https://xcb.csu.edu.cn/",
+      "title": "党委宣传部（新闻中心）",
+      "text_len": 4268
+    },
+    "pages": [
+      {
+        "label": "首页",
+        "url": "https://xcb.csu.edu.cn/",
+        "ok": true,
+        "status": 200,
+        "title": "党委宣传部（新闻中心）",
+        "text_len": 4268,
+        "dates": [
+          "2025-11-04",
+          "2025-12-03",
+          "2026-06-09"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "部门概况",
+        "url": "https://xcb.csu.edu.cn/bmgk.htm",
+        "ok": true,
+        "status": 200,
+        "title": "部门概况-党委宣传部（新闻中心）",
+        "text_len": 3012,
+        "dates": [
+          "2026-06-09"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "部门概况",
+        "url": "https://xcb.csu.edu.cn/bmgk/bmgk.htm",
+        "ok": true,
+        "status": 200,
+        "title": "部门概况-党委宣传部（新闻中心）",
+        "text_len": 3020,
+        "dates": [
+          "2026-06-09"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "领导分工",
+        "url": "https://xcb.csu.edu.cn/bmgk/ldfg.htm",
+        "ok": true,
+        "status": 200,
+        "title": "领导分工-党委宣传部（新闻中心）",
+        "text_len": 2384,
+        "dates": [
+          "2026-06-09"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "组织机构",
+        "url": "https://xcb.csu.edu.cn/bmgk/zzjg.htm",
+        "ok": true,
+        "status": 200,
+        "title": "组织机构-党委宣传部（新闻中心）",
+        "text_len": 2384,
+        "dates": [
+          "2026-06-09"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "联系我们",
+        "url": "https://xcb.csu.edu.cn/bmgk/lxwm.htm",
+        "ok": true,
+        "status": 200,
+        "title": "联系我们-党委宣传部（新闻中心）",
+        "text_len": 2485,
+        "dates": [
+          "2026-06-09"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "校外新闻媒体采访审批表",
+        "url": "https://xcb.csu.edu.cn/info/1239/1328.htm",
+        "ok": true,
+        "status": 200,
+        "title": "校外新闻媒体采访审批表-党委宣传部（新闻中心）",
+        "text_len": 1779,
+        "dates": [
+          "2026-06-09"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      }
+    ]
+  },
+  "统战部": {
+    "root": {
+      "ok": true,
+      "status": 200,
+      "url": "https://tzb.csu.edu.cn/",
+      "title": "中南大学统战部",
+      "text_len": 3453
+    },
+    "pages": [
+      {
+        "label": "首页",
+        "url": "https://tzb.csu.edu.cn/",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学统战部",
+        "text_len": 3453,
+        "dates": [
+          "2025-11-27",
+          "2025-12-08",
+          "2025-12-09",
+          "2025-12-10",
+          "2025-12-18",
+          "2025-12-20",
+          "2026-02-01",
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-17"
+        ],
+        "has_leader_terms": false,
+        "has_org_terms": false,
+        "has_news_terms": true
+      },
+      {
+        "label": "综合新闻",
+        "url": "https://tzb.csu.edu.cn/index/zhxw.htm",
+        "ok": true,
+        "status": 200,
+        "title": "综合新闻-中南大学统战部",
+        "text_len": 2637,
+        "dates": [
+          "2026-03-11",
+          "2026-03-12",
+          "2026-03-14",
+          "2026-03-24",
+          "2026-03-27",
+          "2026-04-01",
+          "2026-04-17",
+          "2026-05-18",
+          "2026-06-15",
+          "2026-06-24",
+          "2026-06-25",
+          "2026-06-26",
+          "2026-07-02",
+          "2026-07-09",
+          "2026-07-13",
+          "2026-07-15",
+          "2026-07-17",
+          "2026-09-11"
+        ],
+        "has_leader_terms": false,
+        "has_org_terms": false,
+        "has_news_terms": true
+      },
+      {
+        "label": "统战动态",
+        "url": "https://tzb.csu.edu.cn/index/tzdt.htm",
+        "ok": true,
+        "status": 200,
+        "title": "统战动态-中南大学统战部",
+        "text_len": 2610,
+        "dates": [
+          "2025-10-24",
+          "2025-10-27",
+          "2025-11-21",
+          "2025-12-16",
+          "2025-12-17",
+          "2026-01-27",
+          "2026-01-29",
+          "2026-01-30",
+          "2026-02-09",
+          "2026-02-13",
+          "2026-03-06",
+          "2026-03-12",
+          "2026-03-24",
+          "2026-03-27",
+          "2026-03-30",
+          "2026-04-01",
+          "2026-04-17"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": false,
+        "has_news_terms": true
+      },
+      {
+        "label": "部门介绍",
+        "url": "https://tzb.csu.edu.cn/bmjs/jbgk.htm",
+        "ok": true,
+        "status": 200,
+        "title": "基本概况-中南大学统战部",
+        "text_len": 2653,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": false,
+        "has_news_terms": true
+      },
+      {
+        "label": "中南大学统一战线组织“重走长征路 奋进新征程”2026年暑期谈心活动 2026 07-15",
+        "url": "https://tzb.csu.edu.cn/info/1194/6433.htm",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学统一战线组织“重走长征路 奋进新征程”2026年暑期谈心活动-中南大学统战部",
+        "text_len": 3100,
+        "dates": [
+          "2026-07-15",
+          "2026年7月10日"
+        ],
+        "has_leader_terms": false,
+        "has_org_terms": false,
+        "has_news_terms": true
+      },
+      {
+        "label": "关于开展第七期“党委出题、党外调研”活动的通知 2026-03-30",
+        "url": "https://tzb.csu.edu.cn/info/1195/6287.htm",
+        "ok": true,
+        "status": 200,
+        "title": "关于开展第七期“党委出题、党外调研”活动的通知-中南大学统战部",
+        "text_len": 2542,
+        "dates": [
+          "2026-03-30",
+          "2026年4月15日"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": false,
+        "has_news_terms": true
+      },
+      {
+        "label": "2025-12-08 中南大学台胞台属联谊会组织分会联谊活动",
+        "url": "https://tzb.csu.edu.cn/info/1194/6153.htm",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学台胞台属联谊会组织分会联谊活动-中南大学统战部",
+        "text_len": 3712,
+        "dates": [
+          "2025-12-08"
+        ],
+        "has_leader_terms": false,
+        "has_org_terms": false,
+        "has_news_terms": true
+      },
+      {
+        "label": "2025-11-27 致公党铁道支部组织开展八段锦健身活动",
+        "url": "https://tzb.csu.edu.cn/info/1194/6144.htm",
+        "ok": true,
+        "status": 200,
+        "title": "致公党铁道支部组织开展八段锦健身活动-中南大学统战部",
+        "text_len": 1906,
+        "dates": [
+          "2025-11-27"
+        ],
+        "has_leader_terms": false,
+        "has_org_terms": false,
+        "has_news_terms": true
+      }
+    ]
+  },
+  "机关党委": {
+    "root": {
+      "ok": true,
+      "status": 200,
+      "url": "https://jgdw.csu.edu.cn/",
+      "title": "机关及直附属单位党委",
+      "text_len": 6526
+    },
+    "pages": [
+      {
+        "label": "首页",
+        "url": "https://jgdw.csu.edu.cn/",
+        "ok": true,
+        "status": 200,
+        "title": "机关及直附属单位党委",
+        "text_len": 6526,
+        "dates": [
+          "2026-07-20",
+          "2026-08-28",
+          "2026-09-10"
+        ],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "部门概况",
+        "url": "https://jgdw.csu.edu.cn/bmgk/bmzz.htm",
+        "ok": true,
+        "status": 200,
+        "title": "部门职责-机关及直附属单位党委",
+        "text_len": 3993,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "机构设置",
+        "url": "https://jgdw.csu.edu.cn/bmgk/jgsz.htm",
+        "ok": true,
+        "status": 200,
+        "title": "机构设置-机关及直附属单位党委",
+        "text_len": 4121,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "联系我们",
+        "url": "https://jgdw.csu.edu.cn/bmgk/lxwm.htm",
+        "ok": true,
+        "status": 200,
+        "title": "联系我们-机关及直附属单位党委",
+        "text_len": 3420,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "工作动态",
+        "url": "https://jgdw.csu.edu.cn/djgz/gzdt.htm",
+        "ok": true,
+        "status": 200,
+        "title": "工作动态-机关及直附属单位党委",
+        "text_len": 3689,
+        "dates": [
+          "2026-06-30",
+          "2026-07-02",
+          "2026-07-03",
+          "2026-07-09",
+          "2026-07-10",
+          "2026-07-13",
+          "2026-07-15",
+          "2026-07-20",
+          "2026-08-28",
+          "2026-09-10"
+        ],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "工作动态",
+        "url": "https://jgdw.csu.edu.cn/jgzfjs/gzdt.htm",
+        "ok": true,
+        "status": 200,
+        "title": "工作动态-机关及直附属单位党委",
+        "text_len": 2795,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "通知公告",
+        "url": "https://jgdw.csu.edu.cn/tzgg.htm",
+        "ok": true,
+        "status": 200,
+        "title": "通知公告-机关及直附属单位党委",
+        "text_len": 3172,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "2026-07 02 关于公布机关及直附属单位党委“一支部 一品牌”第二批创建项目验收结果和第三批创建项目立项结果的通知",
+        "url": "https://jgdw.csu.edu.cn/info/1090/3773.htm",
+        "ok": true,
+        "status": 200,
+        "title": "关于公布机关及直附属单位党委“一支部 一品牌”第二批创建项目验收结果和第三批创建项目立项结果的通知-机关及直附属单位党委",
+        "text_len": 4204,
+        "dates": [
+          "2026-07-02"
+        ],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "先进典型事迹｜王远征同志事迹材料 男，汉族，山东临沂人，1993年9月出生。2016年7月参加工作，2013年12月加入中国共产党。现任学校办公室正科级秘书、党支部组织委员，曾任法学院辅导员、党支部书记。目前负责学校法治建设、保密管理、信息公开等有关工作。曾获全国高校辅导员素质能力大赛“一等奖”，湖南省教育系统网上政务公开和政务服务“优秀个人”，中南大学“模范辅导员”“优秀共产党员”，机关党委“党员示范岗”等荣誉。从学院辅导员到部门...",
+        "url": "https://jgdw.csu.edu.cn/info/1098/3754.htm",
+        "ok": true,
+        "status": 200,
+        "title": "王远征同志事迹材料-机关及直附属单位党委",
+        "text_len": 3986,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "先进典型事迹｜李景芸伊同志事迹材料 女，汉族，广西桂林人，1983年5月生。2005年7月参加工作，2025年6月加入中国共产党。现任校工会组织女工部副部长。她始终秉持“效率与温度”的工作理念，严谨细致为会员办理入会、转出手续，一丝不苟参与筹划组织开展大型工会活动，稳步推动多项数字化服务落地见效，真正做到为师生办实事、办暖心事。2025年获评中南大学机关及直附属单位“优质服务示范岗”。一、主动担当：做教职工信赖的“贴心人”“不能辜负教...",
+        "url": "https://jgdw.csu.edu.cn/info/1098/3758.htm",
+        "ok": true,
+        "status": 200,
+        "title": "李景芸伊同志事迹材料-机关及直附属单位党委",
+        "text_len": 4033,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "先进典型事迹｜王海洋同志事迹材料 男，汉族，吉林榆树人，1990年1月生。——实干铸精品 匠心护校园2013年7月参加工作，2012年4月加入中国共产党。现任校团委办公室主任、科创部部长，历任校团委志愿服务指导中心主任等职。他负责校团委办公室、学校“挑战杯”系列竞赛及研究生支教团等工作，在每一项工作的历练中始终保持昂扬状态与过硬作风，在服务青年成长、助力学校发展中勇挑重担、奋勇争先。他先后荣获湖南省高校无偿献血优秀组织者、湖南省“挑战杯”...",
+        "url": "https://jgdw.csu.edu.cn/info/1098/2887.htm",
+        "ok": true,
+        "status": 200,
+        "title": "王海洋同志事迹材料-机关及直附属单位党委",
+        "text_len": 4369,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "先进典型事迹｜陈侣侣同志事迹材料 男，汉族，山西太原人，1994年10月出生。2018年6月参加工作，2016年11月加入中国共产党。现任计划财务处副科级干事，主持政府采购管理科工作，主要负责机关部门集中采购与中心信息化建设，同时担任第一支部组织委员。2024年11月，获评机关及直附属单位党委“党员示范岗”；2025年6月，获评机关及直附属单位党委“优秀共产党员”。一、创新破局，以数字赋能答好服务师生初心卷把师生的“急难愁盼”作为工作的出发点，把办实...",
+        "url": "https://jgdw.csu.edu.cn/info/1098/2894.htm",
+        "ok": true,
+        "status": 200,
+        "title": "陈侣侣同志事迹材料-机关及直附属单位党委",
+        "text_len": 4154,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "在册党员组织关系排查信息登记表（空表）",
+        "url": "https://jgdw.csu.edu.cn/info/1102/3788.htm",
+        "ok": true,
+        "status": 200,
+        "title": "在册党员组织关系排查信息登记表（空表）-机关及直附属单位党委",
+        "text_len": 2682,
+        "dates": [
+          "2026-07-09"
+        ],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": true
+      }
+    ]
+  },
+  "人事处": {
+    "root": {
+      "ok": true,
+      "status": 200,
+      "url": "https://rsc.csu.edu.cn/",
+      "title": "中南大学人事处",
+      "text_len": 4644
+    },
+    "pages": [
+      {
+        "label": "首页",
+        "url": "https://rsc.csu.edu.cn/",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学人事处",
+        "text_len": 4644,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "机构设置",
+        "url": "https://rsc.csu.edu.cn/jgsz/znjj.htm",
+        "ok": true,
+        "status": 200,
+        "title": "职能简介-中南大学人事处",
+        "text_len": 949,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "新闻公告",
+        "url": "https://rsc.csu.edu.cn/xwgg/xwzx.htm",
+        "ok": true,
+        "status": 200,
+        "title": "新闻资讯-中南大学人事处",
+        "text_len": 6353,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "领导分工",
+        "url": "https://rsc.csu.edu.cn/jgsz/ldfg.htm",
+        "ok": true,
+        "status": 200,
+        "title": "领导分工-中南大学人事处",
+        "text_len": 970,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "机构业务",
+        "url": "https://rsc.csu.edu.cn/jgsz/jgyw.htm",
+        "ok": true,
+        "status": 200,
+        "title": "机构业务-中南大学人事处",
+        "text_len": 362,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "招聘通知",
+        "url": "https://rsc.csu.edu.cn/rczp/zptz.htm",
+        "ok": true,
+        "status": 200,
+        "title": "招聘通知-中南大学人事处",
+        "text_len": 5326,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "联系我们",
+        "url": "https://rsc.csu.edu.cn/rczp/lxwm.htm",
+        "ok": true,
+        "status": 200,
+        "title": "联系我们-中南大学人事处",
+        "text_len": 641,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "通知公告",
+        "url": "https://rsc.csu.edu.cn/xwgg/tzgg.htm",
+        "ok": true,
+        "status": 200,
+        "title": "通知公告-中南大学人事处",
+        "text_len": 5258,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "党建概况",
+        "url": "https://rsc.csu.edu.cn/djgz/djgk.htm",
+        "ok": true,
+        "status": 200,
+        "title": "党建概况-中南大学人事处",
+        "text_len": 566,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "党建动态",
+        "url": "https://rsc.csu.edu.cn/djgz/djdt.htm",
+        "ok": true,
+        "status": 200,
+        "title": "党建动态-中南大学人事处",
+        "text_len": 5123,
+        "dates": [
+          "2026-03-27",
+          "2026-04-29",
+          "2026-06-19",
+          "2026-06-30"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "冶金与环境学院党委组织开展教职工教育实践活动",
+        "url": "https://rsc.csu.edu.cn/info/1080/1340.htm",
+        "ok": true,
+        "status": 200,
+        "title": "冶金与环境学院党委组织开展教职工教育实践活动-中南大学人事处",
+        "text_len": 1419,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "中南大学拟聘教学科研人员公示通知",
+        "url": "https://rsc.csu.edu.cn/info/1081/1461.htm",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学拟聘教学科研人员公示通知-中南大学人事处",
+        "text_len": 872,
+        "dates": [
+          "2026年07月13日"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "中南大学拟聘外籍教师公示通知",
+        "url": "https://rsc.csu.edu.cn/info/1081/1462.htm",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学拟聘外籍教师公示通知-中南大学人事处",
+        "text_len": 842,
+        "dates": [
+          "2026年07月13日"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "关于公布中南大学2025-2026学年专职辅导员招聘入围体检人员名单的通知",
+        "url": "https://rsc.csu.edu.cn/info/1081/1457.htm",
+        "ok": true,
+        "status": 200,
+        "title": "关于公布中南大学2025-2026学年专职辅导员招聘入围体检人员名单的通知-中南大学人事处",
+        "text_len": 1091,
+        "dates": [
+          "2026年06月05日"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "中南大学非事业编工作人员招聘体检和政审环节补充通知",
+        "url": "https://rsc.csu.edu.cn/info/1123/1213.htm",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学非事业编工作人员招聘体检和政审环节补充通知-中南大学人事处",
+        "text_len": 747,
+        "dates": [
+          "2026年04月29日",
+          "2026年4月29日"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      }
+    ]
+  },
+  "科学技术发展研究院": {
+    "root": {
+      "ok": true,
+      "status": 200,
+      "url": "https://kxyjb.csu.edu.cn/",
+      "title": "中南大学科学研究部",
+      "text_len": 2438
+    },
+    "pages": [
+      {
+        "label": "首页",
+        "url": "https://kxyjb.csu.edu.cn/",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学科学研究部",
+        "text_len": 2438,
+        "dates": [
+          "2025-05-28",
+          "2025-09-15",
+          "2025-11-20",
+          "2025-12-11",
+          "2026-04-02",
+          "2026-04-08",
+          "2026-04-15",
+          "2026-07-08",
+          "2026-07-11"
+        ],
+        "has_leader_terms": false,
+        "has_org_terms": false,
+        "has_news_terms": true
+      },
+      {
+        "label": "部门概况",
+        "url": "https://kxyjb.csu.edu.cn/bmgk.htm",
+        "ok": true,
+        "status": 200,
+        "title": "部门概况-中南大学科学研究部",
+        "text_len": 1428,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": false,
+        "has_news_terms": false
+      }
+    ]
+  },
+  "人文社科处": {
+    "root": {
+      "ok": true,
+      "status": 200,
+      "url": "https://rwskc.csu.edu.cn/",
+      "title": "中南大学人文社会科学处门户网站",
+      "text_len": 6852
+    },
+    "pages": [
+      {
+        "label": "首页",
+        "url": "https://rwskc.csu.edu.cn/",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学人文社会科学处门户网站",
+        "text_len": 6852,
+        "dates": [
+          "2025-03-03",
+          "2025-04-27",
+          "2026-03-16",
+          "2026-07-02",
+          "2026-07-30",
+          "2026-09-04"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": false
+      },
+      {
+        "label": "发展概况",
+        "url": "https://rwskc.csu.edu.cn/wkgl/fzgk.htm",
+        "ok": true,
+        "status": 200,
+        "title": "发展概况-中南大学人文社会科学处门户网站",
+        "text_len": 3597,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": false
+      },
+      {
+        "label": "部门简介",
+        "url": "https://rwskc.csu.edu.cn/wkgl/bmjj.htm",
+        "ok": true,
+        "status": 200,
+        "title": "部门简介-中南大学人文社会科学处门户网站",
+        "text_len": 3126,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": false
+      },
+      {
+        "label": "机构设置",
+        "url": "https://rwskc.csu.edu.cn/wkgl/jgsz.htm",
+        "ok": true,
+        "status": 200,
+        "title": "机构设置-中南大学人文社会科学处门户网站",
+        "text_len": 2632,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": false
+      },
+      {
+        "label": "联系我们",
+        "url": "https://rwskc.csu.edu.cn/dpzwy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1007",
+        "ok": true,
+        "status": 200,
+        "title": "联系我们-中南大学人文社会科学处门户网站",
+        "text_len": 5248,
+        "dates": [],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": false
+      },
+      {
+        "label": "智库简介",
+        "url": "https://rwskc.csu.edu.cn/zkjs/zkjj.htm",
+        "ok": true,
+        "status": 200,
+        "title": "智库简介-中南大学人文社会科学处门户网站",
+        "text_len": 2949,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": false
+      },
+      {
+        "label": "智库机构",
+        "url": "https://rwskc.csu.edu.cn/zkjs/zkjg.htm",
+        "ok": true,
+        "status": 200,
+        "title": "智库机构-中南大学人文社会科学处门户网站",
+        "text_len": 2078,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": false
+      },
+      {
+        "label": "机构申请、变更流程",
+        "url": "https://rwskc.csu.edu.cn/fwzn/jgsq_bglc.htm",
+        "ok": true,
+        "status": 200,
+        "title": "机构申请、变更流程-中南大学人文社会科学处门户网站",
+        "text_len": 2008,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": false
+      },
+      {
+        "label": "科研机构申请、表更下载",
+        "url": "https://rwskc.csu.edu.cn/cyxz/kyjgsq_bgxz.htm",
+        "ok": true,
+        "status": 200,
+        "title": "科研机构申请、表更下载-中南大学人文社会科学处门户网站",
+        "text_len": 2000,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": false
+      },
+      {
+        "label": "中南大学举办2026年人文社会科学科研管理干部培训班 1月16日至17日，中南大学2026年人文社会科学科研管理干部培训班在湖南韶山干部学院成功举办。中南大学党委副书记蒋建湘，人文社会科学处全体人员，相关学院及单位科研副院长、科研秘书，国社辅导青年教师志愿者参训。 开班式上，蒋建湘阐释了哲学社会科学在国家发展和学校“双一流”建设中的战略地位，客观分析了学校哲学社会科学发展面临的重大机遇和严峻形势，并从深化交叉融合、推进有组织科研、强化数字赋能、做实智库功能...",
+        "url": "https://rwskc.csu.edu.cn/info/1032/1241.htm",
+        "ok": true,
+        "status": 200,
+        "title": "中南大学举办2026年人文社会科学科研管理干部培训班-中南大学人文社会科学处门户网站",
+        "text_len": 2685,
+        "dates": [
+          "2026-01-19"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": false
+      },
+      {
+        "label": "07-092026 关于以项目资助形式推动高水平智库建设和激励高水平智库研究成果产出的通知",
+        "url": "https://rwskc.csu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1033&wbnewsid=1280",
+        "ok": true,
+        "status": 200,
+        "title": "关于以项目资助形式推动高水平智库建设和激励高水平智库研究成果产出的通知-中南大学人文社会科学处门户网站",
+        "text_len": 3680,
+        "dates": [
+          "2026-07-09"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "06-092026 关于公布中南大学2025年度高水平智库研究成果激励名单（第二批）的通知",
+        "url": "https://rwskc.csu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1033&wbnewsid=1262",
+        "ok": true,
+        "status": 200,
+        "title": "关于公布中南大学2025年度高水平智库研究成果激励名单（第二批）的通知-中南大学人文社会科学处门户网站",
+        "text_len": 4321,
+        "dates": [
+          "2025年11月18日",
+          "2025年11月7日",
+          "2025年12月2日",
+          "2025年12月4日",
+          "2025年9月19日",
+          "2025年9月26日",
+          "2026-06-09"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "12-162025 关于开展2025年度第二批以项目资助形式推动高水平智库建设和激励高水平智库研究成果产出活动的通知",
+        "url": "https://rwskc.csu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1033&wbnewsid=1230",
+        "ok": true,
+        "status": 200,
+        "title": "关于开展2025年度第二批以项目资助形式推动高水平智库建设和激励高水平智库研究成果产出活动的通知-中南大学人文社会科学处门户网站",
+        "text_len": 3679,
+        "dates": [
+          "2025-12-16"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "10-092025 关于组织申报2026年度湖南省哲学社会科学成果评审委员会课题的通知",
+        "url": "https://rwskc.csu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1033&wbnewsid=1222",
+        "ok": true,
+        "status": 200,
+        "title": "关于组织申报2026年度湖南省哲学社会科学成果评审委员会课题的通知-中南大学人文社会科学处门户网站",
+        "text_len": 3870,
+        "dates": [
+          "2025-10-09"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "09-292025 关于公布中南大学2024年度高水平智库研究成果激励名单（第三批）的通知",
+        "url": "https://rwskc.csu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1033&wbnewsid=1220",
+        "ok": true,
+        "status": 200,
+        "title": "关于公布中南大学2024年度高水平智库研究成果激励名单（第三批）的通知-中南大学人文社会科学处门户网站",
+        "text_len": 2631,
+        "dates": [
+          "2025-09-29"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "09-252025 关于组织申报2025年度湖南省社会科学基金项目的通知",
+        "url": "https://rwskc.csu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1033&wbnewsid=1210",
+        "ok": true,
+        "status": 200,
+        "title": "关于组织申报2025年度湖南省社会科学基金项目的通知-中南大学人文社会科学处门户网站",
+        "text_len": 5206,
+        "dates": [
+          "2025-09-25"
+        ],
+        "has_leader_terms": true,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "04-252024 《传媒》杂志社副主编鲁艳敏应邀为我院师生讲学 ​4月25日下午，《传媒》杂志社副主编、副编审鲁艳敏应邀为我院师生讲学。本次讲座主题围绕《传媒》杂志等新闻传播学科出版物的学术发表动态进行了分享。学院院长范明献，传媒系教授盛虎、副教授肖亚龙及30余名研究生、本科生参加。本次讲座由范明献主持。",
+        "url": "https://rwskc.csu.edu.cn/info/1036/1077.htm",
+        "ok": true,
+        "status": 200,
+        "title": "《传媒》杂志社副主编鲁艳敏应邀为我院师生讲学-中南大学人文社会科学处门户网站",
+        "text_len": 2598,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": true
+      },
+      {
+        "label": "03-122024 2024知识产权南湖论坛“支持全面创新的知识产权法治保障”国际研讨会会议通知 党的二十大报告着力强调，“加强知识产权法治保障，形成支持全面创新的基础制度”。为深入学习党的二十大和二十届一中、二中全会精神，全面贯彻习近平总书记关于知识产权工作的系列重要指示，进一步落实党中央、国务院《知识产权强国建设纲要（2021－2035年）》，教育部人文社会科学重点研究基地中南财经政法大学知识产权研究中心联合中南大学法学院，拟于2024年4月20—21日在湖南省长沙市举办“2024知识产权南湖论坛‘支持全面创新的知识产权法治保障’国际研讨会”。",
+        "url": "https://rwskc.csu.edu.cn/info/1036/1076.htm",
+        "ok": true,
+        "status": 200,
+        "title": "2024知识产权南湖论坛“支持全面创新的知识产权法治保障”国际研讨会会议通知-中南大学人文社会科学处门户网站",
+        "text_len": 2731,
+        "dates": [],
+        "has_leader_terms": false,
+        "has_org_terms": true,
+        "has_news_terms": true
+      }
+    ]
+  }
+}

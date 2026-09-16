@@ -1,0 +1,10 @@
+name: oj-demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy>=2.3
+  - pandas>=3.0
+  - scikit-learn>=1.6
+  - pymysql>=1.1
+  - pip
